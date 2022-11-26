@@ -31,7 +31,7 @@ jobs:
       - run: git status
 
       - name: Push changes
-        uses: bylickilabs
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
