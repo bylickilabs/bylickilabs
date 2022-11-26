@@ -32,7 +32,8 @@
 |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
 ---
 > **🐍 Activity Snake**:
-
+|![bylickilabs](https://user-images.githubusercontent.com/109308073/204106463-eae8d46f-ae74-448c-9fb1-68cd0fa9c92c.svg)|
+|---|
 ---
 > **✍️ Random Dev Quote**:
 
