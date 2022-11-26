@@ -24,7 +24,6 @@ jobs:
 
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-          png_out_path: dist/github-contribution-grid-snake.png
           
 
 
