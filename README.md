@@ -1,6 +1,3 @@
-|![729ik3](https://user-images.githubusercontent.com/109308073/204134731-a5b4a656-1f5e-4fae-9ce3-222564981bf9.jpg)|
-|---|
-
 |![Bylickilabs](https://img.shields.io/badge/©-Bylickilabs-matrix)|![](https://img.shields.io/badge/Official%20Github%20Developer%20%7C%202022%2F11%2F27-Bylickilabs-Black)|
 |---|---|
 
