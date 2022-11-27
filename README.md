@@ -23,7 +23,7 @@
 |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
 ---
 
-> **PINNED REPO's**:
+> **📢 PINNED REPO's**:
 
 |[LINUX TUT](https://github.com/bylickilabs/Kali-Linux-Tut-)|[Multi-Generator](https://github.com/bylickilabs/Multi-Generator)|[Port-Scanner](https://github.com/bylickilabs/Port-Scanner)|[IIS](https://github.com/bylickilabs/InternetInformationServer)|[README-Snake](https://github.com/bylickilabs/Readme-Readme)|[Keybase](https://gist.github.com/7836e7958a61aeb05316a2db033d8b26)|
 |---|---|---|---|---|---|
@@ -37,7 +37,6 @@
 
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
----
 
 > **🏆 Trophys**:
 
