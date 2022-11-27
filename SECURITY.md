@@ -69,9 +69,3 @@
 <p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
 <p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
 <p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
-
-<h2>Children's Information</h2>
-
-<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
-
-<p>bylickilabs does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
