@@ -40,7 +40,7 @@
 
 > **🏆 Trophys**:
 
-|![](https://github-profile-trophy.vercel.app/?username=bylickilabs&column=-1)|
+|![](https://github-profile-trophy.vercel.app/?username=bylickilabs&column=-2)|
 |---|
 
 ![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=matrix&no-bg=true&column=-1)
