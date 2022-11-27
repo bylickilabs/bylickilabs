@@ -27,11 +27,12 @@
 
 |[LINUX TUT](https://github.com/bylickilabs/Kali-Linux-Tut-)|[Multi-Generator](https://github.com/bylickilabs/Multi-Generator)|[Port-Scanner](https://github.com/bylickilabs/Port-Scanner)|[IIS](https://github.com/bylickilabs/InternetInformationServer)|[README-Snake](https://github.com/bylickilabs/Readme-Readme)|[Keybase](https://gist.github.com/7836e7958a61aeb05316a2db033d8b26)|
 |---|---|---|---|---|---|
----
+
 > **🐍 Activity Snake**:
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
----
+|![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)|
+|---|
+
 > **✍️ Random Dev Quote**:
 
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
