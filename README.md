@@ -1,4 +1,4 @@
-|![Bylickilabs](https://img.shields.io/badge/©-Bylickilabs-matrix)|![](https://img.shields.io/badge/Official%20Github%20Developer%20-Bylickilabs-Black)|
+|![Bylickilabs](https://img.shields.io/badge/©-Bylickilabs-matrix)|![](https://img.shields.io/badge/Official%20Github%20Developer%20%7C%202022%2F11%2F27-Bylickilabs-Black)|
 |---|---|
 
 |![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[🔝Keybase Profile](https://keybase.io/bylickilabs)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
