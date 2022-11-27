@@ -3,8 +3,8 @@
 [LINUX TUT](https://github.com/bylickilabs/Kali-Linux-Tut-)|[Multi-Generator](https://github.com/bylickilabs/Multi-Generator)|[Port-Scanner](https://github.com/bylickilabs/Port-Scanner)|[IIS](https://github.com/bylickilabs/InternetInformationServer)|[README-Snake](https://github.com/bylickilabs/Readme-Readme)|[Keybase](https://gist.github.com/7836e7958a61aeb05316a2db033d8b26)|
 |---|---|---|---|---|---|
 
-|![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[Keybase Profile](https://keybase.io/bylickilabs)|[Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
-|---|---|---|---|---|
+|![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[Keybase Profile](https://keybase.io/bylickilabs)|[Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)||@bylickilabs' 2022 GitHub Skyline [HERE](https://skyline.github.com/bylickilabs/2022)|
+|---|---|---|---|---|---|
 
 ### Hi there :octocat: 
 ### Thank you for visiting my Profile:
@@ -20,15 +20,8 @@
 |![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102009-b23152ce-91cf-4756-a738-1a74413eeda2.gif)|
 |---|
 
-|***Help me get Stars, answer requests so I can help you.*** [ISSUE](https://github.com/bylickilabs/Multi-Generator/issues/1)|
-|---|
-
 |BD0S - Bylickilabs-Denial-0f-Service \ Testing your Website|T00l #1.) BDOS-T00l [REPO](https://github.com/bylickilabs/BD0S)|T00l #II.) BD0S-Fl00der [Repo](https://github.com/bylickilabs/BDoS_Fl00der)|
 |---|---|---|
-
-|@bylickilabs' 2022 GitHub Skyline [HERE](https://skyline.github.com/bylickilabs/2022)|New Repo - Multi Generator [HERE](https://github.com/bylickilabs/Multi-Generator)|Multi Generator - Online Virus Check [HERE](https://www.virustotal.com/gui/url/67164087cd85262d94241eb483c92bcfb87231850656fdef0e3e7c1a43026c01)|
-|---|---|---|
----
 
 ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bylickilabs&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
