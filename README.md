@@ -7,8 +7,7 @@
 |---|---|---|---|---|
 
 ### Hi there :octocat: 
-### Thank you for visiting my Profile: |[GIT Skyline](https://skyline.github.com/bylickilabs/2022)|
-|---|
+### Thank you for visiting my Profile: [GIT Skyline](https://skyline.github.com/bylickilabs/2022)
 > ***Here are a few Details About Me***: 🧑‍💻 🖧 
 - 🔭 I'm a software Developer working on many Projects.
 - 🕵️‍♀️ I'll Finish it 100%
