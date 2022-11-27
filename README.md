@@ -43,7 +43,7 @@
 |![](https://github-profile-trophy.vercel.app/?username=bylickilabs&column=-1)|
 |---|
 
-![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=matrix&no-bg=true)
+![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=matrix&no-bg=true&column=-1)
 
 > **😶‍🌫️ SUPPORT**:
 
