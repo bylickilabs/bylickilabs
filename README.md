@@ -11,7 +11,7 @@
 - 📫 To contact me use one of the Links below
 - ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope 
 
-|![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102009-b23152ce-91cf-4756-a738-1a74413eeda2.gif =250x250)
+|![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102009-b23152ce-91cf-4756-a738-1a74413eeda2.gif=250x250)
 |---|
 
 |BD0S - Bylickilabs-Denial-0f-Service \ Testing your Website|T00l #1.) BDOS-T00l [REPO](https://github.com/bylickilabs/BD0S)|T00l #II.) BD0S-Fl00der [Repo](https://github.com/bylickilabs/BDoS_Fl00der)|
