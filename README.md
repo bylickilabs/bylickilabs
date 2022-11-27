@@ -40,7 +40,7 @@
 
 > **🏆 Trophys**:
 
-|![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=dracula&margin-w=5&no-bg=true&no-frame=true&column=-1)|
+|![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=gruvbox&margin-w=5&no-bg=true&no-frame=true&column=-1)|
 |---|
 
 > **😶‍🌫️ SUPPORT**:
