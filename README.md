@@ -1,5 +1,5 @@
 ### :octocat: Hi there [![CI](https://github.com/git/git/actions/workflows/main.yml/badge.svg)](https://github.com/git/git/actions/workflows/main.yml) [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)
-### Thank you for visiting my Profile: | [Bylickilabs WIKI](https://github.com/bylickilabs/bylickilabs/wiki)
+### Thank you for visiting my Profile: |
 > ***Here are a few Details About Me***: 🧑‍💻 🖧 
 - 🔭 I'm a software Developer working on many Projects.
 - 🕵️‍♀️ I'll Finish it 100%
