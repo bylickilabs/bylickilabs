@@ -1,4 +1,4 @@
-### :octocat: Hi there, I'm Bylickilabs [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) |![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
+### :octocat: Hi there, I'm Bylickilabs [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) |
 
 ### Thank you for visiting my Profile:
 > ***Here are a few Details About Me***: 🧑‍💻 🖧 
