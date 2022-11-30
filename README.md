@@ -1,7 +1,4 @@
-### :octocat: Hi there, I'm Bylickilabs [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) 
-
-<!-- Place this tag where you want the button to render. -->
-<github-button href="https://github.com/sponsors/bylickilabs" data-color-scheme="no-preference: dark_high_contrast; light: dark_high_contrast; dark: dark_high_contrast;" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @bylickilabs on GitHub">Sponsor</github-button>
+### :octocat: Hi there, I'm Bylickilabs [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) <github-button href="https://github.com/sponsors/bylickilabs" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @bylickilabs on GitHub">Sponsor</github-button>
 
 ### Thank you for visiting my Profile:
 > ***Here are a few Details About Me***: 🧑‍💻 🖧 
