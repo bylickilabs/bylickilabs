@@ -1,5 +1,8 @@
 ### :octocat: Hi there, I'm Bylickilabs [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)
 
+<!-- Place this tag where you want the button to render. -->
+<GitHubButton href="https://github.com/bylickilabs" data-color-scheme="no-preference: light; light: light; dark: light;" aria-label="Follow @bylickilabs on GitHub">Follow @bylickilabs</GitHubButton>
+
 ### Thank you for visiting my Profile:
 > ***Here are a few Details About Me***: 🧑‍💻 🖧 
 - 🔭 I'm a software Developer working on many Projects. 
