@@ -1,5 +1,5 @@
 ### :octocat: Hi there, I'm Bylickilabs [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) 
-### Thank you for visiting my Profile: <iframe src="https://github.com/sponsors/bylickilabs/button" title="Sponsor bylickilabs" height="35" width="116" style="border: 0;"></iframe>
+### Thank you for visiting my Profile:
 > ***Here are a few Details About Me***: 🧑‍💻 🖧 
 - 🔭 I'm a software Developer working on many Projects. 
 - 🕵️‍♀️ I'll Finish it 100%
@@ -7,6 +7,7 @@
 - 🧑‍💻 I love Programming
 - 📫 To contact me use one of the Links below
 - ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope 
+- Sponsoring Me  <iframe src="https://github.com/sponsors/bylickilabs/button" title="Sponsor bylickilabs" height="35" width="116" style="border: 0;"></iframe>
 
 |![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[🔝Keybase Profile](https://keybase.io/bylickilabs)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
 |---|---|---|---|---|
