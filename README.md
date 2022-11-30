@@ -1,4 +1,4 @@
-### :octocat: Hi there, I'm Bylickilabs [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) <github-button href="https://github.com/sponsors/bylickilabs" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @bylickilabs on GitHub">Sponsor</github-button>
+### :octocat: Hi there, I'm Bylickilabs [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) |<github-button href="https://github.com/sponsors/bylickilabs" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @bylickilabs on GitHub">Sponsor</github-button>|
 
 ### Thank you for visiting my Profile:
 > ***Here are a few Details About Me***: 🧑‍💻 🖧 
