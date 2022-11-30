@@ -1,4 +1,4 @@
-### :octocat: Hi there, I'm Bylickilabs ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) 
+### :octocat: Hi there, I'm Bylickilabs [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) 
 
 ### Thank you for visiting my Profile:
 > ***Here are a few Details About Me***: 🧑‍💻 🖧 
