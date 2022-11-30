@@ -7,14 +7,6 @@
 - 🧑‍💻 I love Programming
 - 📫 To contact me use one of the Links below
 - ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope 
-- Sponsoring Me  > **(SKILLS) via► ▼DropDown▼**:
-<details>
-<summary>SPONSORING:</summary>
-<ul><li>
-<details>
-<summary>Sonsoring Me</summary>
-<iframe src="https://github.com/sponsors/bylickilabs/button" title="Sponsor bylickilabs" height="35" width="116" style="border: 0;"></iframe></details></li>
-<li> 
 
 |![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[🔝Keybase Profile](https://keybase.io/bylickilabs)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
 |---|---|---|---|---|
