@@ -8,8 +8,6 @@
   </a>
 </p>
 
- [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) 
-
 ### :octocat: Hi there, I'm Bylickilabs 
 
 ### Thank you for visiting my Profile:
