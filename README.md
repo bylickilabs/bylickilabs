@@ -8,7 +8,7 @@
   
 > ***Christmas Link ▼Here▼***: 🎅🌲
   
-|[![youtube](https://www.history.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTY5MDk1MTE4OTEyNjI4NjE4/christmas-tradition-gettyimages-500876196.webp)](https://www.youtube.com/watch?v=p72uHnOY7C8")|
+|[![youtube](https://www.youtube.com/watch?v=p72uHnOY7C8)](https://www.youtube.com/watch?v=p72uHnOY7C8")|
 |---|
   
 > ***Here are a few Details About Me***: 🧑‍💻 🖧 
