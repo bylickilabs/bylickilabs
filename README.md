@@ -5,13 +5,9 @@
 
 ### :octocat: Hi there, I'm Bylickilabs 
 ### Thank you for visiting my Profile: [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) 
-  
-> ***Christmas Link ▼Here▼***: 🎅🌲
-  
-|[![youtube](https://www.youtube.com/watch?v=p72uHnOY7C8")](https://www.youtube.com/watch?v=p72uHnOY7C8")|
-|---|
-  
+
 > ***Here are a few Details About Me***: 🧑‍💻 🖧 
+
 ```yaml
 🔭 I'm a software Developer working on many Projects. 
 🕵️‍♀️ I'll Finish it 100%
