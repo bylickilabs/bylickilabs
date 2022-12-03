@@ -1,3 +1,248 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+@itemsize: 6px;
+
+.main-wrapper {
+	background: radial-gradient(ellipse at bottom, #a90e0e 5%, #4e0303 55%, #330000 78%);
+	position: absolute;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.tree-container {
+	display: block;	
+	height: 370px;
+	margin: 0;
+	padding: 0;
+}
+
+.text-container {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	bottom: 14%;
+	left: 15%;
+	right: 15%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+
+	h2 {
+		color: rgba(252, 251, 233, 0.85);
+		font-family: 'Great Vibes', cursive;
+		font-weight: 400;
+		margin: 0 0 .8em 0;
+
+		&.happy {
+			font-size: 3.3em;
+		}
+	}
+
+	a.c2 {
+		@size: 40px;
+		display: block;
+		font-size: 13px;
+		width: @size;
+		height: @size;
+		background-color: rgba(252, 251, 233, 0.8);
+		border-radius: 50%;
+		color: #8c1313;
+		text-decoration: none;
+		line-height: @size;
+	}
+}
+
+.star {
+	@dimensions: 12px;
+  @color: #f7b93f;
+	@divider: 1.3;
+	border-radius: 0;
+	border-color: @color transparent transparent transparent;
+	border-style: solid;
+	border-top-width: @dimensions / @divider;
+	border-right-width: @dimensions;
+	border-left-width: @dimensions;
+	height: 0;
+	width: 0;
+	margin-bottom: 5px;
+	background: transparent;
+	z-index: 100;
+	animation: pulsate-star 1.4s ease-in-out infinite alternate-reverse;
+
+	&:before,
+	&:after {
+		border-color: @color transparent transparent transparent;
+		border-style: solid;
+		border-top-width: @dimensions / @divider;
+		border-right-width: @dimensions;
+		border-left-width: @dimensions;
+    border-bottom: 0;
+		content: '';
+		display: block;
+		height: 0;
+		left: -@dimensions;
+		position: absolute;
+		top: -@dimensions / @divider;
+		width: 0;
+	}
+
+	&:before {
+		transform: translate(15.5555555%, -15.5555555%) rotate(360deg/5) translateY(50%);
+	}
+
+	&:after {
+		transform: translate(-15.5555555%, -15.5555555%) rotate(-360deg/5) translateY(50%);
+	}
+}
+
+.spiral-container {
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+.spiral {
+	position: relative;
+	margin: 0;
+	padding: 0;
+	transform-style: preserve-3d;
+
+	&.one {
+		animation: rotate-tree 6s infinite linear both;
+		animation-delay: -1.7s;
+
+		.light {
+			background: #fcfbe9;
+		}
+	}
+
+	&.two {
+		animation: rotate-tree 7s infinite linear both;
+		animation-delay: -1s;
+
+		.light {
+			background: #e8a41d;
+		}
+	}
+
+	&.three {
+		animation: rotate-tree 8s infinite linear both;
+		animation-delay: -0.1s;
+
+		.light {
+			background: #f5e393;
+		}
+	}
+
+	> .light-wrapper {
+		border-radius: 50%;
+		position: absolute;
+		display: block;
+		width: @itemsize;
+		height: @itemsize;
+		left: 50%;
+		top: 50%;
+		margin: -@itemsize/2 0 0 -@itemsize/2;
+	}
+
+	.stabilise {
+		position: absolute;
+		display: block;
+		width: 100%;
+		height: 100%;
+	}
+
+	.light {
+		position: absolute;
+		display: block;
+		width: 100%;
+		height: 100%;
+		border-radius: 50%;
+		top: 0;
+		left: 0;
+		border-radius: 50%;
+		opacity: 1;
+		animation-name: pulsate;
+		animation-timing-function: ease-in-out;
+		animation-iteration-count: infinite;
+		animation-direction: alternate-reverse;
+	}
+}
+
+.makespiral( @className: ~".spiral"; @itemNo:3; @degrees:0; @elNo: 1; @size: 5px; @delayOffset: 0 ) when ( @elNo <= @itemNo ) {
+	@spacing: 11;
+	@currDeg: unit(@degrees,deg);
+	@correctionDeg: unit(-@degrees,deg);
+	@y: unit(cos(@currDeg) * @elNo * @elNo / 10, px);
+	@x: unit(sin(@currDeg) * @elNo * @elNo / 10, px);
+	@z: unit(@elNo * @elNo / 6, px);
+	@duration: unit(`Math.random() * 1 + 0.3 `,s);
+	@randNo: `Math.random()`;
+
+	@{className} {
+		.light-wrapper.light-wrapper-@{elNo} {
+			transform: translate3d( @x, @y, @z ) rotateX(90deg) rotateZ(0deg) rotateY(@correctionDeg);
+			width: (@size * (@elNo / @itemNo) * 7);
+			height: (@size * (@elNo / @itemNo) * 7);
+
+			.light {
+				animation-duration: @duration;
+				animation-delay: @duration;
+			}
+		}
+	}
+
+	.makespiral(@className; @itemNo; @degrees + @spacing; @elNo + 1; @size; @delayOffset);
+}
+
+.makespiral(@className: ~".spiral.one"; @itemNo: 43; @size: 2px);
+.makespiral(@className: ~".spiral.two"; @itemNo: 43; @size: 3px; @delayOffset: 1);
+.makespiral(@className: ~".spiral.three"; @itemNo: 43; @size: 2px; @delayOffset: .5);
+
+@keyframes pulsate {
+  0% {
+    transform: scale(.5);
+    opacity: .4;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes pulsate-star {
+  0% {
+    transform: scale(.9);
+    opacity: .8;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes rotate-tree {
+	0% {
+		transform: rotateX(-90deg) rotateZ(0deg) rotateY(0deg);
+	}
+	100% {
+		transform: rotateX(-90deg) rotateZ(360deg) rotateY(0deg);
+	}
+}
+
+
+
+
+
+
+
 <a align="center">
   <a href="https://github.com/sponsors/bylickilabs">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
