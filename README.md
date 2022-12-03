@@ -6,6 +6,8 @@
 ### :octocat: Hi there, I'm Bylickilabs 
 ### Thank you for visiting my Profile: [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) 
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")  
+  
 > ***Here are a few Details About Me***: 🧑‍💻 🖧 
 ```yaml
 🔭 I'm a software Developer working on many Projects. 
