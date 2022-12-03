@@ -8,6 +8,26 @@
   </a>
 </p>
 
+
+
+<table>
+  <tr>
+    <td>
+      <script type="text/javascript">(function () {var e = document.getElementsByTagName("head")[0] || document.documentElement;var d = document.createElement("script");d.src= "https://widget.myhammer.com/tradesman/seal/fetch/2335041f-c548-11ea-af49-0a81bf13ed96";d.type = "text/javascript";d.async = true;d.defer = true;e.insertBefore(d, e.firstChild);})();</script><a id="myhammer-widget-2335041f-c548-11ea-af49-0a81bf13ed96" rel="nofollow" href="https://www.my-hammer.de">MyHammer - Handwerkerportal Nr. 1</a>
+    </td>
+    <td>
+      <script src="https://github.com/sponsors/bylickilabsp/platform.js" defer></script>
+<div class="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"></div>
+    </td>
+    <td>
+      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-8a14d47e-01e6-4101-a44b-05fd8872084f"></div>
+    </td>
+  </tr>
+</table>
+
+
+
 [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) 
 
 ### :octocat: Hi there, I'm Bylickilabs 
