@@ -18,16 +18,16 @@
 
 <p align="center">
   <a href="https://github.com/bylickilabs/Profile-Trophy/issues">
-    <img src="https://img.shields.io/github/issues/bylickilabs/github-Profile-Trophy"/> 
+    <img src="https://img.shields.io/github/issues/bylickilabs"/> 
   </a>
   <a href="https://github.com/bylickilabs/Profile-Trophy/network/members">
-    <img src="https://img.shields.io/github/forks/bylickilabs/github-Profile-Trophy"/> 
+    <img src="https://img.shields.io/github/forks/bylickilabs"/> 
   </a>  
   <a href="https://github.com/bylickilabs/Profile-Trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/bylickilabs/github-Profile-Trophy"/> 
+    <img src="https://img.shields.io/github/stars/bylickilabs"/> 
   </a>
     <a href="https://github.com/bylickilabs/Profile-Trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/bylickilabs/InternetInformationServer"/> 
+    <img src="https://img.shields.io/github/license/bylickilabs"/> 
   </a>
 </p>
 <p align="center">
