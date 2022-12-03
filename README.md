@@ -1,6 +1,3 @@
-|![15djd7e8ge4r](https://user-images.githubusercontent.com/109308073/205432427-c7e05b05-6beb-4141-b731-bb32f78ac88c.png)|
-|---|
-
 <a align="center">
   <a href="https://github.com/sponsors/bylickilabs">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
