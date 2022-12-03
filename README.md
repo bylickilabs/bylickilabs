@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/bylickilabs/Profile-Trophy/issues">
     <img src="https://img.shields.io/github/issues/bylickilabs/github-Profile-Trophy"/> 
-  </p>
+  </a>
   <a href="https://github.com/bylickilabs/Profile-Trophy/network/members">
     <img src="https://img.shields.io/github/forks/bylickilabs/github-Profile-Trophy"/> 
   </a>  
