@@ -1,3 +1,19 @@
+<section class="xmas">
+  <div class="to">
+    <h1 class="headline">Merry Christmas!</h1>
+    <div class="pull-right">
+      <div class="xmas-ornament red"><br/><br/><br/>Happy <br/>New Year </div>
+      <div class="xmas-ornament blue"><br/><br/><br/>2015</div>
+    </div>
+   </div>
+    <div class="from">
+		<div>from</div>
+		<a class="jp-link small-title from-name" href="http://joashpereira.com">Joash</a>
+	</div>
+    <canvas id="xmas">
+	  </canvas>
+</section>
+
 <a align="center">
   <a href="https://github.com/sponsors/bylickilabs">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
