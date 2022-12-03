@@ -8,16 +8,8 @@
 <a href="https://www.youtube.com/watch?v=8Ol8DlEPEaM&list=RDp72uHnOY7C8&index=14" target="_blank"><img src="https://i.ytimg.com/an_webp/8Ol8DlEPEaM/mqdefault_6s.webp?du=3000&sqp=CM-arJwG&rs=AOn4CLA6P2fNC1Hv3i2TNICFevEdKAZ_jQ" 
 alt="Majestica - Joy of Christmas" width="995" height="360" border="10" /></a>  
   
-
-<!DOCTYPE html>
-<html>
-<body>
-
 <iframe width="420" height="345" src="https://i.ytimg.com/an_webp/8Ol8DlEPEaM/mqdefault_6s.webp?du=3000&sqp=CM-arJwG&rs=AOn4CLA6P2fNC1Hv3i2TNICFevEdKAZ_jQ">
 </iframe>
-
-</body>
-</html>
   
   
   
