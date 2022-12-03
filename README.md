@@ -1,3 +1,11 @@
+<link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+<canvas id="snow"></canvas>
+<div class="center">
+  <div class="text-center">
+    <h1>8 bit snow</h1>
+  </div>
+</div>
+
 <a align="center">
   <a href="https://github.com/sponsors/bylickilabs">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
