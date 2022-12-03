@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
 
-https://www.youtube.com/watch?v=p72uHnOY7C8
+![][Majestica](https://www.youtube.com/watch?v=p72uHnOY7C8)
   
 ### :octocat: Hi there, I'm Bylickilabs 
 ### Thank you for visiting my Profile: [![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml) 
