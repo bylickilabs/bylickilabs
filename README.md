@@ -35,7 +35,7 @@
 |---|---|---|---|---|---|
 
 > **🐍 Activity Snake**:
-
+ 
 |![github-contribution-grid-snake](https://github.com/bylickilabs/bylickilabs/blob/output/github-contribution-grid-snake.svg)|
 |---|
 
