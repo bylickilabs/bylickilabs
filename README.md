@@ -14,9 +14,6 @@
 📫 To contact me use one of the Links below
 ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope 
 ```
-
-https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=bylickilabs&includeorgs=true&showicons=true&theme=nightowl&locale=en  
-  
 |![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[![Successfully created Stat Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
 |---|---|---|---|---|
 
