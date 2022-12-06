@@ -46,7 +46,7 @@
 
 > **🏆 Trophys**:
 
-|![](https://github-profile-trophy.vercel.app/?username=bylickilabs&column=-1)| 
+|https://github-profile-trophy.vercel.app/?username=bylickilabs&column=-1| 
 |---|
  
 > **😶‍🌫️ SUPPORT**:
