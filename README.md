@@ -15,7 +15,7 @@
 📫 To contact me use one of the Links below
 ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope 
 ``` 
-<img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+<img src="https://github.com/<bylickilabs>/<bylickilabs>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
   Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
  
 |[![Waka Readme](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka.yml)|[![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
