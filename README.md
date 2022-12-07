@@ -16,7 +16,7 @@
 ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope 
 ``` 
   
-|[![Waka Readme](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml)[![Waka Readme](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml))](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka.yml)|[![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
+|[![Waka Readme](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml)|[![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|
 
 <!--START_SECTION:waka-->
