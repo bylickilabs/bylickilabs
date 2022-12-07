@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dev Stats in progress...
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->  
