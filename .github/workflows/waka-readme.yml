@@ -15,5 +15,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: <bylickilabs/bylickilabs>
