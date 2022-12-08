@@ -1,6 +1,6 @@
 settings:
-  username: "Bylickilabs" # Replace with your username or comment out this line
-  commit_msg: "⚡ Update README with the Bylickilabs Activity"
+  username: "bylickilabs" # Replace with your username or comment out this line
+  commit_msg: "⚡ Update README with the recent activity"
   max_lines: 5
   readme_file: "./TEMPLATE.md"
   disabled_events:
@@ -10,7 +10,7 @@ settings:
     timezone: "GMT+00:00"
     text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
-  commit_name: "bylickilabs-bot"
+  commit_name: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
@@ -27,11 +27,3 @@ messages:
   changes_requested: "🔴 Requested changes in {ID} in {REPO}"
   new_release: "✌️ Released {ID} in {REPO}"
   new_star: "⭐ Starred {REPO}"
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-D
