@@ -12,8 +12,8 @@
 💍 Married since 2015
 
 About Me:  
-☑️ I Love Photography, Astrophotography, Sport Shooting, 
-    Computer, Animation, Mods & Graphic Design.
+☑️ I Love Computer, Photography, Astrophotography, 
+    Sport Shooting, Animation, Mods & Graphic Design.
   
 🔭 I'm a software Developer working on many Projects. 
 🕵️‍♀️ I'll Finish it 100%
