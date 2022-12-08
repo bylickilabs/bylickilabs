@@ -7,10 +7,9 @@
 
 > ***Here are a few Details***: 🧑‍💻 🖧 
 ```yaml
-👶 I was born on March 17th, 1982 in Austria.
-💞 I have been with my current wife since August 15, 1996 
+👶 I was born on March 17th, 1982 in Germany
 💍 Married since 2015
-
+  
 About Me:  
 ☑️ I Love Computer, Photography, Astrophotography, 
     Sport Shooting, Animation, Mods & Graphic Design.
