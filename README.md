@@ -9,8 +9,6 @@
 > ***Here are a few Details***: 🧑‍💻 🖧 
 ```yaml
 👶 I was born on March 17th, 1982 in Austria.
-```
-```yaml
 💞 I have been with my current wife since August 15, 1996 
 💍 Married since 2015
 ```
