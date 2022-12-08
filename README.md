@@ -13,7 +13,7 @@
   
 💞 I have been with my current wife since August 15, 1996 
 💍 Married since 2015
-|![81CI5xmzoZL _AC_SL1500_](https://user-images.githubusercontent.com/109308073/206410037-206809d0-fadc-4611-bf2a-f7c0893f4f8e.jpg)|![aa3acf0f-2a88-4cff-8ec1-6c2e7cb74c4a __CR0,0,970,600_PT0_SX970_V1___](https://user-images.githubusercontent.com/109308073/206410084-026e508e-7661-4814-8379-57a71e98b149.jpg)|![5f20b24d-f613-42fe-a06c-29d7a4ca1e9e __CR0,0,970,600_PT0_SX970_V1___](https://user-images.githubusercontent.com/109308073/206410151-8b8afd87-d96d-4649-8149-d885fd7142ed.jpg)|![315317738_497637099095930_7671628809634870826_n](https://user-images.githubusercontent.com/109308073/206410187-765492f1-215b-43d1-bb8a-0fe91275baca.jpg)|
+|![aa3acf0f-2a88-4cff-8ec1-6c2e7cb74c4a __CR0,0,970,600_PT0_SX970_V1___](https://user-images.githubusercontent.com/109308073/206410084-026e508e-7661-4814-8379-57a71e98b149.jpg)|![5f20b24d-f613-42fe-a06c-29d7a4ca1e9e __CR0,0,970,600_PT0_SX970_V1___](https://user-images.githubusercontent.com/109308073/206410151-8b8afd87-d96d-4649-8149-d885fd7142ed.jpg)|![315317738_497637099095930_7671628809634870826_n](https://user-images.githubusercontent.com/109308073/206410187-765492f1-215b-43d1-bb8a-0fe91275baca.jpg)|![81CI5xmzoZL _AC_SL1500_](https://user-images.githubusercontent.com/109308073/206410037-206809d0-fadc-4611-bf2a-f7c0893f4f8e.jpg)|
 |---|---|---|---|
 ```yaml 
 About Me:  
