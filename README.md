@@ -20,9 +20,11 @@ About Me:
 🕵️‍♀️ I'll Finish it 100%
 🧸 I am very proud of my Work
 🧑‍💻 I love Programming
+```
 📫 To contact me use one of the Links below [Here](https://github.com/bylickilabs))
+´´´ 
 ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope 
-``` 
+ 
 |[![Waka Readme](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml)|[![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|
   
