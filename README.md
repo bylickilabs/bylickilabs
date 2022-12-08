@@ -4,8 +4,7 @@
   </a>
           
 ### :octocat: Hi there, I'm Bylickilabs 
-  
-### Thank you for visiting my Profile: 
+
 > ***Here are a few Details***: 🧑‍💻 🖧 
 ```yaml
 👶 I was born on March 17th, 1982 in Austria.
