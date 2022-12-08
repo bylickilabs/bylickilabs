@@ -4,10 +4,9 @@
   </a>
           
 ### :octocat: Hi there, I'm Bylickilabs 
+> ***Here are a few Details***: 🧑‍💻 🖧 
 |[![Bylickilabs Generate Waka README](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml)|[![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|
-  
-> ***Here are a few Details***: 🧑‍💻 🖧 
 ```yaml
 👶 I was born on March 17th, 1982 in Germany
 💍 Married since 2015
