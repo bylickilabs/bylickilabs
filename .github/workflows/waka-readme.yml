@@ -1,4 +1,4 @@
-name: Bylickilabs Generate Waka README
+name: Bylickilabs Generate Waka
 
 on:
   workflow_dispatch:
