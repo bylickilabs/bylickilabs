@@ -13,7 +13,7 @@
 
 About Me:  
 ☑️ I Love Photography, Astrophotography, Sport Shooting, 
-    Computer, Animation, Mods & Graphic.
+    Computer, Animation, Mods & Graphic Design.
   
 🔭 I'm a software Developer working on many Projects. 
 🕵️‍♀️ I'll Finish it 100%
