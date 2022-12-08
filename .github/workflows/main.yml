@@ -1,4 +1,4 @@
-name: Bylickilabs Generate activity Snake
+name: Bylickilabs Generate Activity Snake
 
 on:
   schedule:
