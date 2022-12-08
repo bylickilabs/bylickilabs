@@ -8,6 +8,10 @@
 ### Thank you for visiting my Profile: 
 > ***Here are a few Details About Me***: 🧑‍💻 🖧 
 ```yaml
+👶 I was born on March 17th, 1982 in Austria.
+ 🫶 I have been with my current wife since August 15, 1996 
+💍 Married since 2015
+☑️ Photography, Astrophotography, Sport Shooting, Computer, Animation, Mods, Graphic Design are my passions.
 🔭 I'm a software Developer working on many Projects. 
 🕵️‍♀️ I'll Finish it 100%
 🧸 I am very proud of my Work
