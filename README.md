@@ -6,7 +6,7 @@
 ### :octocat: Hi there, I'm Bylickilabs 
 > ***Here are a few Details***: 🧑‍💻 🖧 
   
-|[![Bylickilabs Generate Waka README](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml)|[![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
+|[![Bylickilabs Generate Waka](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml)|[![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|
   
 ```yaml
