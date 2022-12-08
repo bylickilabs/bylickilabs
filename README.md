@@ -13,8 +13,8 @@
   
 💞 I have been with my current wife since August 15, 1996 
 💍 Married since 2015
-|![5f20b24d-f613-42fe-a06c-29d7a4ca1e9e __CR0,0,970,600_PT0_SX970_V1___](https://user-images.githubusercontent.com/109308073/206409451-5aca932b-d802-41cf-9554-4a6e5578847d.jpg)|
-|---|
+|![5f20b24d-f613-42fe-a06c-29d7a4ca1e9e __CR0,0,970,600_PT0_SX970_V1___](https://user-images.githubusercontent.com/109308073/206409451-5aca932b-d802-41cf-9554-4a6e5578847d.jpg)|![315317738_497637099095930_7671628809634870826_n](https://user-images.githubusercontent.com/109308073/206409697-9502ae95-233f-4d7e-82d3-15f01adbede6.jpg)|
+|---|---|
 ```yaml 
 About Me:  
 ☑️ I Love Photography, Astrophotography, Sport Shooting, 
