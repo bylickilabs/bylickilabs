@@ -33,7 +33,7 @@ jobs:
       - uses: crazy-max/ghaction-github-pages@v3
       
         with:
-          target_branch: output
+          target_branch: bylickilabs
           build_dir: dist
           
         env:
