@@ -18,8 +18,8 @@ jobs:
         
         with:
           github_user_name: bylickilabs
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: ©bylickilabs/github-contribution-grid-snake.gif
+          svg_out_path: ©bylickilabs/github-contribution-grid-snake.svg
           
       - run: git status
       - name: Push changes
@@ -34,7 +34,7 @@ jobs:
       
         with:
           target_branch: bylickilabs
-          build_dir: dist
+          build_dir: ©bylickilabs
           
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
