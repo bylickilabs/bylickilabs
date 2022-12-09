@@ -45,7 +45,7 @@ About Me:
 
 > **🐍 Activity Snake**:
 
-|![github-contribution-grid-snake](https://github.com/bylickilabs/bylickilabs/blob/output/github-contribution-grid-snake.svg)|
+|![github-contribution-grid-snake](https://github.com/bylickilabs/bylickilabs/blob/bylickilabs/github-contribution-grid-snake.svg)|
 |---|
 
 > **✍️ Random Dev Quote**:
