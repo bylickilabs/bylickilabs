@@ -1,3 +1,0 @@
-- message: "$payload.pull_request.user.login"
-  color: "green
-  
