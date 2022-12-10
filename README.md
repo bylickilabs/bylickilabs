@@ -27,7 +27,7 @@
 🔓 Archivements - Update 2022/12/10
 
 |![](https://user-images.githubusercontent.com/109308073/206866537-937db82e-06a0-403e-885e-81a5eb7125b4.png)|![](https://userimages.githubusercontent.com/109308073/206866581-22056d94-5a75-462c-8973-94943e1085ea.png)|![](https://user-images.githubusercontent.com/109308073/206866604-b02f5f1f-8d01-4768-aee1-5c339cdb3044.png)|![](https://user-images.githubusercontent.com/109308073/206866651-dc7a54a5-4031-45e3-8125-0f2c4ccbc995.png)|![](https://user-images.githubusercontent.com/109308073/206866677-0669f698-f9d4-437d-b239-9738f5b5f7c3.png)|![](https://user-images.githubusercontent.com/109308073/206866698-5a3224e1-ae39-457f-8fcf-47c049298e5a.png)|
-|---|---|---|---|---| 
+|---|---|---|---|---|---|
   
 |BD0S - Bylickilabs-Denial-0f-Service \ Testing your Website|T00l #1.) BDOS-T00l [REPO](https://github.com/bylickilabs/BD0S)|T00l #II.) BD0S-Fl00der [Repo](https://github.com/bylickilabs/BDoS_Fl00der)|
 |---|---|---|
