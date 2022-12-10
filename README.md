@@ -4,7 +4,7 @@
   </a>
 
 ### :octocat: Hi there, I'm Bylickilabs 
-> **Here are some details about me:**:  
+> **Here are some Details About Me:**:  
 ```yaml
 👶 I was born on March 17th, 1982 in Germany
 💍 Married since 2015
