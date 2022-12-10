@@ -5,7 +5,10 @@
 
 ### :octocat: Hi there, I'm Bylickilabs 
 
-![](https://user-images.githubusercontent.com/109308073/206866537-937db82e-06a0-403e-885e-81a5eb7125b4.png)">
+|![](https://user-images.githubusercontent.com/109308073/206866537-937db82e-06a0-403e-885e-81a5eb7125b4.png)"|![](https://user-images.githubusercontent.com/109308073/206866581-22056d94-5a75-462c-8973-94943e1085ea.png)"|![](https://user-images.githubusercontent.com/109308073/206866604-b02f5f1f-8d01-4768-aee1-5c339cdb3044.png)"|
+
+
+|---|---|---|---|---|---|
 
 ```yaml
 👶 I was born on March 17th, 1982 in Germany
