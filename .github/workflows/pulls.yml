@@ -16,5 +16,5 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: Prettify code
+    - name: bylickilabs
       uses: creyD/prettier_action@v2.2
