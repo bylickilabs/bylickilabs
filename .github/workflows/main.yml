@@ -13,7 +13,7 @@ jobs:
     steps:
     
       - uses: actions/checkout@v2
-      - uses: bylickilabs/snk
+      - uses: platane/snk@master
         id: snake-gif
         
         with:
