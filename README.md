@@ -6,7 +6,7 @@
 ### :octocat: Hi there, I'm Bylickilabs 
 > ***Here are a few Details***: 🧑‍💻 🖧 
 ```yaml
-👶 I was born on March 17th, 1982 in Austria
+👶 I was born on March 17th, 1982 in Germany
 💍 Married since 2015
 
 About Me:  
