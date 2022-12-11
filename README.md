@@ -15,9 +15,6 @@
 📫 To contact me use one of the Links below
 ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope 
 ```
-|![Unbenannt](https://user-images.githubusercontent.com/109308073/206889042-6e491baa-7b18-4efa-a142-0ef554eb3311.png)|
-|---|
-  
 |[![Bylickilabs Generate Waka](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|
 
