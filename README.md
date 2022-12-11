@@ -15,8 +15,8 @@
 📫 To contact me use one of the Links below
 ⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope 
 ```
-|[![Bylickilabs Generate Waka](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|[![Founder Bylickilabs Encrypt Algorithm](https://github.com/bylickilabs/bylickilabs/badge.svg)|
-|---|---|---|
+|[![Bylickilabs Generate Waka](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
+|---|---|
 
 [🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
 |---|---|---|---|
