@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
 
-### :octocat: Hi there, I'm Bylickilabs ![Unbenannt](https://user-images.githubusercontent.com/109308073/206889042-6e491baa-7b18-4efa-a142-0ef554eb3311.png)
+### :octocat: Hi there, I'm Bylickilabs
   
 ```yaml
 👶 I was born on March 17th, 1982 in Germany
