@@ -8,12 +8,12 @@
 ```yaml
 👶 I was born on March 17th, 1982 in Germany
 💍 Married since 2015
-🔭 I'm a software Developer working on many Projects. 
+⚡ I'm a software Developer working on many Projects. 
 🕵️‍♀️ I'll Finish it 100%
 🧸 I am very proud of my Work
 🧑‍💻 I love Programming
 📫 To contact me use one of the Links below
-⚡ I flew to the Moon, Jupiter and Mars with my Reflecting Telescope 
+🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope 
 ```
 |[![Bylickilabs Generate Waka](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|
