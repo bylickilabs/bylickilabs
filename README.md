@@ -26,16 +26,16 @@
 
 🔓 Archivements - Update 2022/12/10
 
-![](https://user-images.githubusercontent.com/109308073/206874781-690928fb-43cc-4f5a-81a0-3e619172c285.png)|![](https://user-images.githubusercontent.com/109308073/206874788-e09e41e6-5e50-4f98-982c-f1ce6994e28f.png)|![](https://user-images.githubusercontent.com/109308073/206874791-2c8b1413-c870-4415-b508-d29155b55f86.png)|![](https://user-images.githubusercontent.com/109308073/206874798-e9703435-9e10-417c-a1c0-1df75aebf661.png)|![](https://user-images.githubusercontent.com/109308073/206874803-a587a182-d5d1-4e19-a493-4a44781f98a2.png)|![](https://user-images.githubusercontent.com/109308073/206874806-2e4ddc45-76e6-4038-9003-1acb68f57570.png)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)|
-|---|---|---|---|---|---|---|
+![](https://user-images.githubusercontent.com/109308073/206874781-690928fb-43cc-4f5a-81a0-3e619172c285.png)|![](https://user-images.githubusercontent.com/109308073/206874788-e09e41e6-5e50-4f98-982c-f1ce6994e28f.png)|![](https://user-images.githubusercontent.com/109308073/206874791-2c8b1413-c870-4415-b508-d29155b55f86.png)|![](https://user-images.githubusercontent.com/109308073/206874798-e9703435-9e10-417c-a1c0-1df75aebf661.png)|![](https://user-images.githubusercontent.com/109308073/206874803-a587a182-d5d1-4e19-a493-4a44781f98a2.png)|![](https://user-images.githubusercontent.com/109308073/206874806-2e4ddc45-76e6-4038-9003-1acb68f57570.png)|
+|---|---|---|---|---|---|
   
 |BD0S - Bylickilabs-Denial-0f-Service \ Testing your Website|T00l #1.) BDOS-T00l [REPO](https://github.com/bylickilabs/BD0S)|T00l #II.) BD0S-Fl00der [Repo](https://github.com/bylickilabs/BDoS_Fl00der)|
 |---|---|---|
 
 ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bylickilabs&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
-|---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
+|---|---|---|---|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)|
 ---
 
 > **📢 PINNED REPO's**:
