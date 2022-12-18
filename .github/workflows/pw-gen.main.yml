@@ -1,0 +1,5 @@
+- uses: actions/checkout@v2
+     - id: generatedpassword
+       uses: Ba4bes/Password-Generator@v0.1
+     - run: echo "${{ steps.generatedpassword.outputs.password }}"
+       shell: bash
