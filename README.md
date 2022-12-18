@@ -10,8 +10,7 @@
 |[![Bylickilabs Generate Waka](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/waka-readme.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|[![Bylickilabs Generate Profiles 'data](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml)|
 |---|---|---|
   
-```yaml 
- ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+```yaml
 👶 I was born on March 17th, 1982 in Germany
 💍 Married since 2015
 ⚡ I'm a software Developer working on many Projects. 
