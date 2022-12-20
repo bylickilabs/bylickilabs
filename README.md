@@ -1,6 +1,6 @@
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;:octocat: Hi there, I'm Bylickilabs ![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [🦚Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles) <a align="center">
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; [🦚Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles) <a align="center">
  <a href="https://github.com/sponsors/bylickilabs">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>  
   </a>
