@@ -9,8 +9,8 @@
 |[![Prettier](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---| 
 
-[🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
-|---|---|---|---|---|
+[🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
+|---|---|---|---|
   
 ```yaml
 👶 I was born on March 17th, 1982 in Germany
