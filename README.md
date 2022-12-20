@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
  
-### :octocat: Hi there, I'm Bylickilabs ![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|
+### :octocat: Hi there, I'm Bylickilabs ![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)
  [🦚Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)
  
 |[![Prettier](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
