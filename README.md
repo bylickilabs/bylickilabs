@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
  
- &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; [🦚Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles) 
+ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; [🦚Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles) 
  
 ### :octocat: Hi there, I'm Bylickilabs ![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)
  
