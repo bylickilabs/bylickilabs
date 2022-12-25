@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-      - using: 'node16'
+      - uses: checkouts@v2
       - uses: platane/snk@master
         id: snake-gif
         
