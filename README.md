@@ -10,7 +10,7 @@
 [🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
 |---|---|---|
      
-|Bylickilabs needs Stars, Stars, Stars. Please Help for this Repo. Click on the badge [![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|
+|We need Stars for this Repo. Please Help! [![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|
 |---| 
  
 ```yaml
