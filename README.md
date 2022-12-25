@@ -7,7 +7,7 @@
 |[![Prettier](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|
 
-|Bylickilabs needs stars, stars, stars.|
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|Bylickilabs needs stars, stars, stars.|
 |---|
 |Please help for this repo. Click on the badge [![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|
 
