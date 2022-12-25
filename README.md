@@ -7,9 +7,10 @@
 |[![Prettier](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|
 
-|Bylickilabs needs stars, stars, stars.| 
+|Bylickilabs needs stars, stars, stars.|
+|---|
 |Please help for this repo. Click on the badge [![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|
-|---|---|
+|---|
 
  
 [🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
