@@ -138,7 +138,7 @@ Hi there, I'm Bylickilabs <a align="center">
 <li>
 <details>
 <summary>TikTok</summary>
-© https://www.tiktok.com/@dondada_1703
+© https://www.tiktok.com/@thobyl_82
 </details></li>
 <li>
 <details>
