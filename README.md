@@ -57,11 +57,6 @@
 |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
 
-> **🏆 Trophys**:
-
-|![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=flat&margin-h=10&margin-w=10&no-frame=true&no-bg=false&column=-1)|
-|---|
-
 > **😶‍🌫️ SUPPORT**:
 - ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
 - ![Keybase ZEC](https://img.shields.io/keybase/zec/bylickilabs?style=plastic)
