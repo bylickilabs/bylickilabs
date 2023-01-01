@@ -46,7 +46,7 @@
 
 > **🏆 Trophys**:
 
-|![](https://github (coming soon)
+![](https://github (coming soon)
 
 > **📢 PINNED REPO's**:
 
