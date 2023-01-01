@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>  
   </a>   
  
-### octocat: Hi there, I'm Bylickilabs 
+### :octocat: Hi there, I'm Bylickilabs 
  
 |[![Prettier](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|
