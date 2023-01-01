@@ -44,10 +44,6 @@
 |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)|
 ---  
 
-> **🏆 Trophys**:
-
-![](https://github (coming soon)
-
 > **📢 PINNED REPO's**:
 
 |[LINUX TUT](https://github.com/bylickilabs/Kali-Linux-Tut-)|[Multi-Generator](https://github.com/bylickilabs/Multi-Generator)|[Port-Scanner](https://github.com/bylickilabs/Port-Scanner)|[IIS](https://github.com/bylickilabs/InternetInformationServer)|[README-Snake](https://github.com/bylickilabs/Readme-Readme)|[Keybase](https://gist.github.com/7836e7958a61aeb05316a2db033d8b26)|
