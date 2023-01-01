@@ -46,7 +46,7 @@
 
 > **🏆 Trophys**:
 
-|![]
+|![](https
 
 > **📢 PINNED REPO's**:
 
