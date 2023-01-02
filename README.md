@@ -5,8 +5,8 @@
        
 ### :octocat: Hi there, I'm Bylickilabs 
   
-|[![Prettier](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
-|---|---|
+|[![Auto Assign](https://github.com/Community-s-Lab/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/Community-s-Lab/demo-repository/actions/workflows/auto-assign.yml)|[![Prettier](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
+|---|---|---|
    
 |[🌠Listed on active GitHub users in Germany](https://commits.top/germany.html)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
 |---|---| 
