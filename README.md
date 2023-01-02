@@ -7,12 +7,12 @@
    
 |[🌠Listed on active GitHub users in Germany](https://commits.top/germany.html)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
 |---|---| 
+
+[🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
+|---|---|---|---|---| 
  
 |[![Prettier](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/prettier-lint-check.yml)|[![Auto Assign](https://github.com/Community-s-Lab/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/Community-s-Lab/demo-repository/actions/workflows/auto-assign.yml)|[![Proof HTML](https://github.com/Community-s-Lab/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Community-s-Lab/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|---|---| 
-     
-[🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
-|---|---|---|---|---|
 
 ```yaml
 👶 I was born on March 17th, 1982 in Germany
