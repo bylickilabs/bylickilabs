@@ -5,9 +5,6 @@
 
 ### :octocat: Hi there, I'm Bylickilabs
  
-|[IIS Discussion](https://github.com/bylickilabs/InternetInformationServer/discussions/626)|[Support my IIS](https://github.com/bylickilabs/InternetInformationServer/issues/403)|
-|---|---|
- 
 |[IIS Discussion](https://github.com/bylickilabs/InternetInformationServer/discussions/626)|[Support my IIS](https://github.com/bylickilabs/InternetInformationServer/issues/403)|[🌠Top Germany Commits](https://github.com/bylickilabs/Top.Commits)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
 |---|---|---|---|
  
