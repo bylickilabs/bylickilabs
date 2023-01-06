@@ -54,9 +54,9 @@
 |[LINUX TUT](https://github.com/bylickilabs/Kali-Linux-Tut-)|[Multi-Generator](https://github.com/bylickilabs/Multi-Generator)|[Port-Scanner](https://github.com/bylickilabs/Port-Scanner)|[IIS](https://github.com/bylickilabs/InternetInformationServer)|[README-Snake](https://github.com/bylickilabs/Readme-Readme)|[Keybase](https://gist.github.com/7836e7958a61aeb05316a2db033d8b26)|
 |---|---|---|---|---|---|
 
-> **🐍 Activity Snake - Gone stupid...🤣**:
+> **🐍 Activity Snake**:
  
-|![](https://user-images.githubusercontent.com/109308073/210959006-caa516b0-4d06-4233-965b-82a1a4670187.svg#gh-dark-mode-only)|
+|![github-user-contribution (6)](https://user-images.githubusercontent.com/109308073/210966148-18099034-d443-450e-b167-cc8305550591.svg)|
 |---|
 
 > **✍️ Random Dev Quote**:
