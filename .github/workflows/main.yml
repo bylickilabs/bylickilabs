@@ -18,9 +18,7 @@ jobs:
         
         with:
           github_user_name: bylickilabs
-          gif_out_path: ©bylickilabs/github-contribution-grid-snake.gif
           svg_out_path: ©bylickilabs/github-contribution-grid-snake.svg
-          png_out_path: ©bylickilabs/github-contribution-grid-snake.png
           
       - run: git status
       - name: Push changes
