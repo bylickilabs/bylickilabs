@@ -56,7 +56,7 @@
 
 > **🐍 Activity Snake**:
 
-COMING SOON... 🤣
+|![github-user-contribution (4)](https://user-images.githubusercontent.com/109308073/210959006-caa516b0-4d06-4233-965b-82a1a4670187.svg)|
 
 > **✍️ Random Dev Quote**:
 
