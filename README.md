@@ -56,7 +56,7 @@
 
 > **🐍 Activity Snake**:
 
-COMING SOON...
+COMING SOON... 🤣
 
 > **✍️ Random Dev Quote**:
 
