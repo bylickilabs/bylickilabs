@@ -56,8 +56,7 @@
 
 > **🐍 Activity Snake**:
 
-|![github-contribution-grid-snake](https://github.com/bylickilabs/bylickilabs/blob/bylickilabs/github-contribution-grid-snake.svg)|
-|---|
+COMING SOON...
 
 > **✍️ Random Dev Quote**:
 
