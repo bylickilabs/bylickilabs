@@ -56,7 +56,7 @@
 
 > **🐍 Activity Snake**:
  
-|https://raw.githubusercontent.com/bylickilabs/bylickilabs/output/github-contribution-grid-snake-dark.svg|
+|![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/output/github-contribution-grid-snake-dark.svg)|
 |---|
 
 > **✍️ Random Dev Quote**:
