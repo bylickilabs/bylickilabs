@@ -1,4 +1,4 @@
-name: generate animation
+name: Bylickilabs Generate Snake
 
 on:
   schedule:
