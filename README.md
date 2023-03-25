@@ -27,8 +27,8 @@
 ```
 ---
 
-|![Fintechtocat](https://user-images.githubusercontent.com/109308073/227734148-17045d49-44d9-4e42-aed0-62590ed79f57.png)|![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102009-b23152ce-91cf-4756-a738-1a74413eeda2.gif)|![daftpunktocat-guy](https://user-images.githubusercontent.com/109308073/227732558-ee5419d5-a99d-4121-9bc8-52a4b5c16835.gif)|
-|---|---|---|
+|![Fintechtocat](https://user-images.githubusercontent.com/109308073/227734148-17045d49-44d9-4e42-aed0-62590ed79f57.png)|![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102009-b23152ce-91cf-4756-a738-1a74413eeda2.gif)|
+|---|---|
 
 🔓 Achivements - Update 2022/12/26 - Pull Shark Gold
 
