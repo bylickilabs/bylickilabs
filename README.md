@@ -26,11 +26,10 @@
 🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
 ---
- 
-|![daftpunktocat-thomas](https://user-images.githubusercontent.com/109308073/227732541-93f35493-f7c1-43ec-a3c6-a0657d2600bc.gif)|
- ![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102009-b23152ce-91cf-4756-a738-1a74413eeda2.gif)|
-![daftpunktocat-guy](https://user-images.githubusercontent.com/109308073/227732558-ee5419d5-a99d-4121-9bc8-52a4b5c16835.gif)|
+
 |---|---|---|
+![daftpunktocat-thomas](https://user-images.githubusercontent.com/109308073/227732541-93f35493-f7c1-43ec-a3c6-a0657d2600bc.gif)|![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102009-b23152ce-91cf-4756-a738-1a74413eeda2.gif)|![daftpunktocat-guy](https://user-images.githubusercontent.com/109308073/227732558-ee5419d5-a99d-4121-9bc8-52a4b5c16835.gif)|
+
 
 🔓 Achivements - Update 2022/12/26 - Pull Shark Gold
 
