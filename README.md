@@ -13,7 +13,7 @@ Hi there, I'm Bylickilabs
 🕵️‍♀️ I'll Finish it 100%
 🧸 I am very proud of my Work
 🧑‍💻 I love Programming
-📫 To contact me use one of the Links below
+📫 To contact me use the Link [CONTACT](https://keybase.io/bylickilabs)
 🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
        
