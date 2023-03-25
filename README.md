@@ -17,8 +17,8 @@ Hi there, I'm Bylickilabs
 🧑‍💻 I love Programming
 🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
-|[![Auto Assign](https://github.com/Community-s-Lab/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/Community-s-Lab/demo-repository/actions/workflows/auto-assign.yml)|[![Proof HTML](https://github.com/Community-s-Lab/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Community-s-Lab/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)
-|---|---|---|
+|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)
+|---|
  
 [🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
 |---|---|---|---|---|
