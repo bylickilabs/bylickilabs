@@ -3,6 +3,7 @@
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>  
   </a>
  
+📫 [CONTACT](https://keybase.io/bylickilabs) 
  
 ```yarn                  
 Hi there, I'm Bylickilabs 
@@ -15,8 +16,7 @@ Hi there, I'm Bylickilabs
 🧑‍💻 I love Programming
 🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
-📫 [CONTACT](https://keybase.io/bylickilabs)
-       
+
 |[![Auto Assign](https://github.com/Community-s-Lab/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/Community-s-Lab/demo-repository/actions/workflows/auto-assign.yml)|[![Proof HTML](https://github.com/Community-s-Lab/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Community-s-Lab/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)
 |---|---|---|
  
