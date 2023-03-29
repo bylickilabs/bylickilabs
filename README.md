@@ -6,7 +6,9 @@
  
 📫 [CONTACT](https://keybase.io/bylickilabs)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|
- 
+
+|[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|
+|---|
 ```yarn                  
 Hi there, I'm Bylickilabs 
  
