@@ -3,19 +3,11 @@
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>  
   </a>
  </a>
- 
-- [x] #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588) 
-
-<!-- Replace <`1588`> with the Issue number to link it with this PR -->
-<!-- Example: #1 links this PR to the first Issue-->
-
-<!-- If you are adding your profile, follow the steps listed here, and delete the **Other additions/changes** section below. -->
-
-resolves #issueNumber
 
 ## Checklist for profile addition
 
 - [x] Name the PR `fix: add <Bylickilabs>`.
+- [x] #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)  
 - [x] You've added file named `Bylickilabs.json` in the [profiles](https://github.com/EddieHubCommunity/awesome-github-profiles/tree/main/profiles) directory.
 - [x] You've linked the PR to the correct issue.
 
