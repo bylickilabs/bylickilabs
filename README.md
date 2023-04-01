@@ -6,8 +6,8 @@
 
 ## Checklist for profile addition
 
-- [x] Name the PR `fix: add <Bylickilabs>`.
 - [x] #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)  
+- [x] Name the PR `fix: add <Bylickilabs>`.
 - [x] You've added file named `Bylickilabs.json` in the [profiles](https://github.com/bylickilabs/awesome-github-profiles/tree/main/profiles) directory.
 - [x] You've linked the PR to the correct issue.
 
