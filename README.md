@@ -4,14 +4,6 @@
   </a>
  </a>
 
-## Checklist for profile addition
-
-- [x] #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)  
-- [x] Name the PR `fix: add <Bylickilabs>`.
-- [x] You've added file named `Bylickilabs.json` in the [profiles](https://github.com/bylickilabs/awesome-github-profiles/tree/main/profiles) directory.
-
----
-
 |📫 [CONTACT](https://keybase.io/bylickilabs)|[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|---|
 
@@ -27,6 +19,14 @@ Hi there, I'm Bylickilabs
 🧑‍💻 I love Programming
 🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
+## Checklist for profile addition
+
+- [x] #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)  
+- [x] Name the PR `fix: add <Bylickilabs>`.
+- [x] You've added file named `Bylickilabs.json` in the [profiles](https://github.com/bylickilabs/awesome-github-profiles/tree/main/profiles) directory.
+
+---
+
 [🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
 |---|---|---|---|---|
  
