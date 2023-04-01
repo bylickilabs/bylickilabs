@@ -4,7 +4,7 @@
   </a>
  </a>
 
-- [x] #1589
+- [x] #1588
 - [ ] https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588
 
 
