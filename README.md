@@ -7,6 +7,9 @@
 |📫 [CONTACT](https://keybase.io/bylickilabs)|[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|---|
 
+|![Unbenannt](https://user-images.githubusercontent.com/109308073/229319759-909c5157-acad-42ce-9f14-425213f835ec.jpg)|
+|---|
+
 ```yarn                  
 Hi there, I'm Bylickilabs 
  
@@ -19,8 +22,6 @@ Hi there, I'm Bylickilabs
 🧑‍💻 I love Programming
 🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
-|![Unbenannt](https://user-images.githubusercontent.com/109308073/229319759-909c5157-acad-42ce-9f14-425213f835ec.jpg)|
-|---|
 
 ## Checklist for profile addition - 02.04.2023 / 00:30 Uhr
 
