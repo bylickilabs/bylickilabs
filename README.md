@@ -19,10 +19,6 @@ Hi there, I'm Bylickilabs
 🧑‍💻 I love Programming
 🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
----
-|![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102009-b23152ce-91cf-4756-a738-1a74413eeda2.gif)|
-|---|
- 
 [🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
 |---|---|---|---|---|
  
