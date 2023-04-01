@@ -21,14 +21,14 @@ Hi there, I'm Bylickilabs
 ```
 ## Checklist for profile addition - 02.04.2023
 
-- [x] #1588 - "https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588",  
+- [x] #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)
 - [x] Name the PR `fix: add <Bylickilabs>`.
 - [x] You've added file named `Bylickilabs.json` in the [profiles](https://github.com/bylickilabs/awesome-github-profiles/tree/main/profiles) directory.
 
 ```yarn
 @@ -0,0 +1,6 @@
 {
-  "image": [LINK](https://user-images.githubusercontent.com/109308073/209451382-c2c90f77-0c2a-45dc-bd06-1f5418910dd9.jpg)
+  "image": "https://user-images.githubusercontent.com/109308073/209451382-c2c90f77-0c2a-45dc-bd06-1f5418910dd9.jpg",
   "issueId": 1588,
   "name": "Thorsten Bylicki",
   "username": "bylickilabs"
