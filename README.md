@@ -24,6 +24,8 @@ Hi there, I'm Bylickilabs
 - [x] #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)  
 - [x] Name the PR `fix: add <Bylickilabs>`.
 - [x] You've added file named `Bylickilabs.json` in the [profiles](https://github.com/bylickilabs/awesome-github-profiles/tree/main/profiles) directory.
+
+```yarn
 @@ -0,0 +1,6 @@
 {
   "image": "https://user-images.githubusercontent.com/109308073/209451382-c2c90f77-0c2a-45dc-bd06-1f5418910dd9.jpg",
@@ -31,6 +33,7 @@ Hi there, I'm Bylickilabs
   "name": "Thorsten Bylicki",
   "username": "bylickilabs"
 }
+```
 ---
 
 [🔝Revision](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26/revisions)|[🔝Keybase Proof](https://gist.github.com/bylickilabs/7836e7958a61aeb05316a2db033d8b26)|[![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
