@@ -6,6 +6,41 @@
  
 - [x] #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588) 
 
+<!-- Replace <`1588`> with the Issue number to link it with this PR -->
+<!-- Example: #1 links this PR to the first Issue-->
+
+<!-- If you are adding your profile, follow the steps listed here, and delete the **Other additions/changes** section below. -->
+
+resolves #issueNumber
+
+## Checklist for profile addition
+
+- [x] Name the PR `fix: add <Bylickilabs>`.
+- [x] You've added file named `Bylickilabs.json` in the [profiles](https://github.com/EddieHubCommunity/awesome-github-profiles/tree/main/profiles) directory.
+- [x] You've linked the PR to the correct issue.
+
+---
+
+## Other additions/changes
+
+<!-- If you are adding a new feature, fixing a bug, or doing any other change, follow the steps listed here, and delete the **Checklist for profile addition** section above. -->
+
+<!-- Tick the checkboxes to ensure you've done everything correctly -->
+
+- [x] Changes made in this PR are mentioned below
+- [x] Search previous suggestions before making a new one, as yours may be a duplicate.
+- [x] I acknowledge that all my contributions will be made under the project's license.
+- [x] I've read the [contributing guidelines](https://github.com/EddieHubCommunity/awesome-github-profiles/blob/main/CONTRIBUTING.md)
+
+## This PR adds/fixes
+
+<!-- List the changes here and the benefits they bring. -->
+
+## Notes
+
+<!-- List anything note-worthy here (potential issues, PR #302 needs to be merged to before working, etc.). -->
+
+
 |📫 [CONTACT](https://keybase.io/bylickilabs)|[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|---|
 
