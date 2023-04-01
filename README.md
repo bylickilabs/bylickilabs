@@ -7,8 +7,8 @@
 |📫 [CONTACT](https://keybase.io/bylickilabs)|[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|---|
 
-|![200100297-7f2c2df3-6579-432d-935b-680f1b068233](https://user-images.githubusercontent.com/109308073/200102009-b23152ce-91cf-4756-a738-1a74413eeda2.gif)|
-|---|
+|![walk-2](https://user-images.githubusercontent.com/109308073/229319614-c10659c4-548f-4c83-990f-8d8dc02cffbf.gif)|![walk-3](https://user-images.githubusercontent.com/109308073/229319612-2f2b8b3e-66f9-422d-916b-f0521a0fa584.gif)|![walk-1](https://user-images.githubusercontent.com/109308073/229319615-9c8f2bdf-c3c6-4c78-ba2d-3757bf054f50.gif)|
+|---|---|---|
 
 ```yarn                  
 Hi there, I'm Bylickilabs 
