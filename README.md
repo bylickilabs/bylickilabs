@@ -155,7 +155,7 @@ Hi there, I'm Bylickilabs
 <li>  
 <details>
 <summary>Twitch</summary>
-© https://www.twitch.tv/dondada1703
+© https://www.twitch.tv/bylickilabs
 </details></li>
 <li>
 <details>
