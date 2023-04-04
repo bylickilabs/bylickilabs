@@ -150,7 +150,7 @@ Hi there, I'm Bylickilabs
 <li>  
 <details>
 <summary>Twitter</summary>
-© https://twitter.com/DonDada_1703
+© https://twitter.com/bylickilabs
 </details></li>
 <li>  
 <details>
@@ -160,17 +160,17 @@ Hi there, I'm Bylickilabs
 <li>
 <details>
 <summary>TikTok</summary>
-© https://www.tiktok.com/@thobyl_82
+© https://www.tiktok.com/@skidr0w_82
 </details></li>
 <li>
 <details>
 <summary>soundcloud</summary>
-© https://soundcloud.com/don-dada-1703
+© https://soundcloud.com/bylickilabs
 </details></li>
 <li> 
 <details>
 <summary>Instagram</summary>
-© https://www.instagram.com/Dondada_1703/
+© https://www.instagram.com/Bylickilabs/
 </details></li>
 <li> 
 <details>
