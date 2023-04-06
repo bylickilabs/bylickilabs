@@ -1,4 +1,3 @@
-```yarn
 <h1>Privacy Policy for bylickilabs</h1>
 
 <p>At bylickilabs, accessible from Github.com/bylickilabs, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by bylickilabs and how we use it.</p>
@@ -70,4 +69,3 @@
 <p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
 <p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
 <p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
-```
