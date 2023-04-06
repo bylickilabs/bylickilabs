@@ -4,7 +4,7 @@
   </a>
  </a> 
  
-### Support Me :shipit: 
+### :shipit: Support Me
 - [x] BTC = 35PpPgFL7N118nJ6SC2YAUKekuEEWwUzLh
 ---
  
