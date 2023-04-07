@@ -5,8 +5,8 @@
  </a> 
 
 ### NEW
+- [x] Port Scanner v.1.3 [LINK](https://github.com/bylickilabs/Port-Scanner-v.1.3)
 - [x] S-U-C - Service Uni Controller [LINK](https://github.com/bylickilabs/Service-Uni-Converter)
-- [x] Port Scanner [LINK](https://github.com/bylickilabs/Port-Scanner-v.1.3)
 
 ### :shipit: Support Me
 - [x] BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib 
