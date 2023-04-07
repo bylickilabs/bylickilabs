@@ -6,7 +6,6 @@
 
 ### NEW
 - [x] S-U-C - Service Uni Controller [LINK](https://github.com/bylickilabs/Service-Uni-Converter)
----
 
 ### :shipit: Support Me
 - [x] BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib 
