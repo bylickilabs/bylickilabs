@@ -14,9 +14,6 @@
 |📫 [CONTACT](https://keybase.io/bylickilabs)|[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|---|
 ---
-### :shipit: Support Me
-- [x] BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib 
----
 
 ### EddieHub Badges
 [![.github/workflows/invitation.yml](https://github.com/EddieHubCommunity/support/actions/workflows/invitation.yml/badge.svg)](https://github.com/EddieHubCommunity/support/actions/workflows/invitation.yml)|[![.github/workflows/create-user.yml](https://github.com/EddieHubCommunity/support/actions/workflows/create-user.yml/badge.svg)](https://github.com/EddieHubCommunity/support/actions/workflows/create-user.yml)|[![.github/workflows/community.yml](https://github.com/EddieHubCommunity/support/actions/workflows/community.yml/badge.svg)](https://github.com/EddieHubCommunity/support/actions/workflows/community.yml)|
