@@ -15,8 +15,8 @@
 - [x] BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib 
 ---
 
-|📫 [CONTACT](https://keybase.io/bylickilabs)|[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
-|---|---|---|
+|📫 [CONTACT](https://keybase.io/bylickilabs)|[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![.github/workflows/invitation.yml](https://github.com/EddieHubCommunity/support/actions/workflows/invitation.yml/badge.svg)](https://github.com/EddieHubCommunity/support/actions/workflows/invitation.yml)| [![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
+|---|---|---|---|
 
 |![Unbenannt](https://user-images.githubusercontent.com/109308073/229319759-909c5157-acad-42ce-9f14-425213f835ec.jpg)|
 |---|
