@@ -30,7 +30,7 @@ Hi there, I'm Bylickilabs
 |---|---|---|
 ---
 
-### EddieHub Badges
+### Organiisation Badges
 |[![Greeting](https://github.com/EddieHubCommunity/LinkFree/actions/workflows/community.yml/badge.svg)](https://github.com/EddieHubCommunity/LinkFree/actions/workflows/community.yml)|[![.github/workflows/invitation.yml](https://github.com/EddieHubCommunity/support/actions/workflows/invitation.yml/badge.svg)](https://github.com/EddieHubCommunity/support/actions/workflows/invitation.yml)|[![.github/workflows/create-user.yml](https://github.com/EddieHubCommunity/support/actions/workflows/create-user.yml/badge.svg)](https://github.com/EddieHubCommunity/support/actions/workflows/create-user.yml)|[![.github/workflows/community.yml](https://github.com/EddieHubCommunity/support/actions/workflows/community.yml/badge.svg)](https://github.com/EddieHubCommunity/support/actions/workflows/community.yml)|
 |---|---|---|---|
 ---
