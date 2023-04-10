@@ -20,7 +20,7 @@ Hi there, I'm Bylickilabs
 🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
 ### NEW - 10.04.2023
-- [x] Simple Port Scanner (v.1.0) [LINK](https://github.com/bylickilabs/Simple-Port-Scanner)
+- [x] Simple Port Scanner [LINK](https://github.com/bylickilabs/Simple-Port-Scanner)
 
 ### OLD - 07.04.2023
 - [x] Port Scanner v.1.3 [LINK](https://github.com/bylickilabs/Port-Scanner-v.1.3)
