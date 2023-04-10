@@ -20,7 +20,9 @@ Hi there, I'm Bylickilabs
 🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
 ### NEW
-- [x] Port Scanner v.1.3 [LINK](https://github.com/bylickilabs/Port-Scanner-v.1.3)
+- [x] Simple Port scanner (v.1.0) [LINK](https://github.com/bylickilabs/Simple-Port-Scanner) | 10.04.2023
+### OLD
+- [x] Port Scanner v.1.3 [LINK](https://github.com/bylickilabs/Port-Scanner-v.1.3) | 07.04.2023
 - [x] S-U-C - Service Uni Controller [LINK](https://github.com/bylickilabs/Service-Uni-Controller)
 
 | Port Scanner 07.04.2023 - 11:35 Uhr | S-U-C 07.04.2023 - 02:30 Uhr |
