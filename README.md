@@ -39,9 +39,9 @@ Hi there, I'm Bylickilabs
 
 ## Checklist for profile addition - 02.04.2023 / 00:30 Uhr
 
-- [x] #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)
-- [x] Name the PR `fix: add <Bylickilabs>`.
-- [x] You've added file named `Bylickilabs.json` in the [profiles](https://github.com/bylickilabs/awesome-github-profiles/tree/main/profiles) directory.
+:white_check_mark: #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)
+:white_check_mark: Name the PR `fix: add <Bylickilabs>`.
+:white_check_mark: You've added file named `Bylickilabs.json` in the [profiles](https://github.com/bylickilabs/awesome-github-profiles/tree/main/profiles) directory.
 
 ```yarn
 @@ -0,0 +1,6 @@
