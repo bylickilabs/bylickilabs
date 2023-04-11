@@ -5,7 +5,7 @@
  </a> 
 
 ### :shipit: Support Me
-- [x] BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib 
+:white_check_mark: BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib 
 
 ```yarn                  
 Hi there, I'm Bylickilabs 
