@@ -4,7 +4,7 @@
   </a>
  </a> 
 
-:white_check_mark: [MY PGP PUBLIC KEY](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
+:white_check_mark: [Bylickilabs - PGP PUBLIC KEY](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
 |---|
 
 Support Me - BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib
