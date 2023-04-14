@@ -4,7 +4,7 @@
   </a>
  </a> 
 
-[Support Me](BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib) | [MY PGP PUBLIC KEY](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
+|[Support Me](BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib) | [MY PGP PUBLIC KEY](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
 |---|---|
 
 
