@@ -4,10 +4,10 @@
   </a>
  </a> 
 
-:white_check_mark: [Bylickilabs - PGP PUBLIC KEY](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
-|---|
+:white_check_mark: [Support Me: BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib] [Bylickilabs - PGP PUBLIC KEY](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
+|---|---|
 
-Support Me - BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib
+Support Me: BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib
 
 ```yarn                  
 Hi there, I'm Bylickilabs 
