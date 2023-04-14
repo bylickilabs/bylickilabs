@@ -25,8 +25,8 @@ Hi there, I'm Bylickilabs
 :white_check_mark: Port Scanner v.1.3 [LINK](https://github.com/bylickilabs/Port-Scanner-v.1.3)
 :white_check_mark: S-U-C - Service Uni Controller [LINK](https://github.com/bylickilabs/Service-Uni-Controller)
 
-|📫 [CONTACT](109308073+bylickilabs@users.noreply.github.com)|[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
-|---|---|---|
+|[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
+|---|---|
 ---
 
 ### Organisation Badges
