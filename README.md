@@ -4,7 +4,7 @@
   </a>
  </a> 
 
-### :shipit: Support Me
+### :shipit: Support Me | [MY PGP PUBLIC KEY](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)
 :white_check_mark: BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib 
 
 ```yarn                  
