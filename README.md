@@ -4,7 +4,7 @@
   </a>
  </a> 
  
-:white_check_mark:|Private Secure Repo|
+|:white_check_mark: Private Secure Repo|
 |---|
 [![BYLICKILABS CREATE PGP ALGORITHMUS](https://github.com/bylickilabs/Bylickilabs-En--Decryption-PGP/actions/workflows/PGP.yml/badge.svg)](https://github.com/bylickilabs/Bylickilabs-En--Decryption-PGP/actions/workflows/PGP.yml)
 
