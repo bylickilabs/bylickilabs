@@ -3,13 +3,8 @@
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>  
   </a>
  </a> 
- 
-|:white_check_mark: Private Secure Repo|
-|---|
-[![BYLICKILABS CREATE PGP ALGORITHMUS](https://github.com/bylickilabs/Bylickilabs-En--Decryption-PGP/actions/workflows/PGP.yml/badge.svg)](https://github.com/bylickilabs/Bylickilabs-En--Decryption-PGP/actions/workflows/PGP.yml)|
 
-:white_check_mark: Support Me:   BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib | :white_check_mark: [Bylickilabs - PGP PUBLIC KEY 📫](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
-|---|---|
+:white_check_mark: Support Me:   BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib :white_check_mark: [Bylickilabs - PGP PUBLIC KEY 📫](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)
 
 ```yarn                  
 Hi there, I'm Bylickilabs 
