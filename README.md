@@ -25,11 +25,6 @@ Hi there, I'm Bylickilabs
 |---|---|
 ---
 
-### Organisation Badges
-|[![.github/workflows/invitation.yml](https://github.com/EddieHubCommunity/support/actions/workflows/invitation.yml/badge.svg)](https://github.com/EddieHubCommunity/support/actions/workflows/invitation.yml)|[![.github/workflows/create-user.yml](https://github.com/EddieHubCommunity/support/actions/workflows/create-user.yml/badge.svg)](https://github.com/EddieHubCommunity/support/actions/workflows/create-user.yml)|[![.github/workflows/community.yml](https://github.com/EddieHubCommunity/support/actions/workflows/community.yml/badge.svg)](https://github.com/EddieHubCommunity/support/actions/workflows/community.yml)|
-|---|---|---|
----
-
 ### Checklist for profile addition - 02.04.2023 / 00:30 Uhr
 
 :white_check_mark: #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)
