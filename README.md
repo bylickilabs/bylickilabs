@@ -30,9 +30,6 @@ Hi there, I'm Bylickilabs
 |---|---|---|
 ---
 
-|![Unbenannt](https://user-images.githubusercontent.com/109308073/229319759-909c5157-acad-42ce-9f14-425213f835ec.jpg)|
-|---|
-
 ### Checklist for profile addition - 02.04.2023 / 00:30 Uhr
 
 :white_check_mark: #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)
