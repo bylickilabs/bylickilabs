@@ -20,11 +20,6 @@ Hi there, I'm Bylickilabs
 🧑‍💻 I love Programming
 🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
-### NEW - 10.04.2023
-:white_check_mark: Simple Port Scanner [LINK](https://github.com/bylickilabs/Simple-Port-Scanner)
-### OLD - 07.04.2023
-:white_check_mark: Port Scanner v.1.3 [LINK](https://github.com/bylickilabs/Port-Scanner-v.1.3)
-:white_check_mark: S-U-C - Service Uni Controller [LINK](https://github.com/bylickilabs/Service-Uni-Controller)
 
 |[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|
