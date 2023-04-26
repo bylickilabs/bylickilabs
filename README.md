@@ -70,7 +70,7 @@ Hi there, I'm Bylickilabs
 > **📢 PINNED REPO's**:
 
 |[LINUX TUT](https://github.com/bylickilabs/Kali-Linux-Tut-)|[Multi-Generator](https://github.com/bylickilabs/Multi-Generator)|[README-Snake](https://github.com/bylickilabs/Readme-Readme)|[Keybase](https://gist.github.com/7836e7958a61aeb05316a2db033d8b26)|
-|---|---|---|---|---|
+|---|---|---|---|
 
 > **🐍 Activity Snake**:
 
