@@ -7,7 +7,7 @@
 :white_check_mark: Support Me: BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib | :white_check_mark:[Bylickilabs - PGP PUBLIC KEY 📫](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
 |---|---|
 
-| ![Banner](https://user-images.githubusercontent.com/109308073/235367063-e5c2775b-ac03-4a29-b205-542143a7cc59.jpg) |
+| ![Gespiegelt](https://user-images.githubusercontent.com/109308073/235679067-656f0c24-75ac-416e-87e9-966f54ff2580.jpg) |
 |---|
 
 ```yarn                  
