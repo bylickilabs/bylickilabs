@@ -3,8 +3,10 @@
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>  
   </a>
  </a> 
-|[![NextGen-PythonRSA Encryption CodeQL](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml/badge.svg)](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml)|
+ 
+|:white_check_mark[![NextGen-PythonRSA Encryption CodeQL](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml/badge.svg)](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml)|
 |---|
+
 :white_check_mark: Support Me: BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib | :white_check_mark:[Bylickilabs - PGP PUBLIC KEY 📫](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
 |---|---|
  
