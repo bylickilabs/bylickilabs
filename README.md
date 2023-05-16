@@ -5,8 +5,8 @@
  </a> 
  
 --- 
-|[![Bylickilabs Generate - .py Encryption T00L](https://github.com/bylickilabs/.pyEncryptionService/actions/workflows/.pyEnc.yml/badge.svg)](https://github.com/bylickilabs/.pyEncryptionService/actions/workflows/.pyEnc.yml)|[![NextGen-PythonRSA Encryption CodeQL](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml/badge.svg)](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml)|[LINK](https://github.com/bylickilabs/NextGen-PythonRSA)|
-|---|---|---|
+|[![Bylickilabs Generate - .py Encryption T00L](https://github.com/bylickilabs/.pyEncryptionService/actions/workflows/.pyEnc.yml/badge.svg)](https://github.com/bylickilabs/.pyEncryptionService/actions/workflows/.pyEnc.yml)|[LINK](https://github.com/bylickilabs/.pyEncryptionService)|[![NextGen-PythonRSA Encryption CodeQL](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml/badge.svg)](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml)|[LINK](https://github.com/bylickilabs/NextGen-PythonRSA)|
+|---|---|---|---|
 ---
 
 :white_check_mark: Support Me: BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib | :white_check_mark:[Bylickilabs - PGP PUBLIC KEY 📫](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
