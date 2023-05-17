@@ -169,7 +169,7 @@ Hi there, I'm Bylickilabs
 <li>
 <details>
 <summary>TikTok</summary>
-© https://www.tiktok.com/@skidr0w_82
+© https://www.tiktok.com/@bylickilabs
 </details></li>
 <li>
 <details>
