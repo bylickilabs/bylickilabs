@@ -1,10 +1,3 @@
-<!-- Start Laufschrift - Generiert mit www.design-generator.de.tl -->
-<marquee direction="left" behavior="scroll" scrollamount="1" scrolldelay="0" style="color: #000000;font-size:16px;font-family:Arial;" >
-Welcome to Bylickilabs on github
-</marquee>
-<!-- Ende Laufschrift -->
-
-
 |[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|
 
