@@ -11,6 +11,7 @@
 
 |[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
 |---|---|
+
 |[![Bylickilabs Generate - .py Encryption T00L](https://github.com/bylickilabs/.pyEncryptionService/actions/workflows/.pyEnc.yml/badge.svg)](https://github.com/bylickilabs/.pyEncryptionService/actions/workflows/.pyEnc.yml)|[LINK](https://github.com/bylickilabs/.pyEncryptionService)|[![NextGen-PythonRSA Encryption CodeQL](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml/badge.svg)](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml)|[LINK](https://github.com/bylickilabs/NextGen-PythonRSA)|
 |---|---|---|---|
 ---
