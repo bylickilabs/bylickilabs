@@ -19,7 +19,6 @@ Hi there, I'm Bylickilabs
 🧑‍💻 I love Programming
 🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ``` 
- 
 | ![Gespiegelt](https://user-images.githubusercontent.com/109308073/235679067-656f0c24-75ac-416e-87e9-966f54ff2580.jpg) |
 |---|
 
