@@ -16,7 +16,6 @@ Hi there, I'm Bylickilabs
 🧑‍💻 I love Programming
 🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ``` 
----
 :white_check_mark: Support Me: BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib | :white_check_mark:[Bylickilabs - PGP PUBLIC KEY 📫](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
 |---|---|
 
