@@ -76,8 +76,8 @@ Hi there, I'm Bylickilabs
 
 > **📢 PINNED REPO's**:
 
-|[LINUX TUT](https://github.com/bylickilabs/Kali-Linux-Tut-)|[Multi-Generator](https://github.com/bylickilabs/Multi-Generator)|[README-Snake](https://github.com/bylickilabs/Readme-Readme)|[Keybase](https://gist.github.com/7836e7958a61aeb05316a2db033d8b26)|
-|---|---|---|---|
+|[.pyEncService](https://github.com/bylickilabs/.pyEncryptionService)|[RSA-Enccrypter](https://github.com/bylickilabs/Python_RSA-Encrypter)|[NextGen-PythonRSA](https://github.com/bylickilabs/NextGen-PythonRSA)|[JAVA_RSA-Encryption](https://github.com/bylickilabs/RSA-Encryption)|[Multi-Generator](https://github.com/bylickilabs/Multi-Generator)|[Keybase](https://gist.github.com/bylickilabs/768e0776f7deaaf957c7534e68451c16)
+|---|---|---|---|---|---|
 
 > **🐍 Activity Snake**:
 
