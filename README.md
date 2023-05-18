@@ -4,8 +4,8 @@
   </a>
  </a> 
 
-|[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|
-|---|---|
+|[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|:white_check_mark:[Bylickilabs - PGP PUBLIC KEY 📫](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
+|---|---|---|
 
 |[![Bylickilabs Generate - .py Encryption T00L](https://github.com/bylickilabs/.pyEncryptionService/actions/workflows/.pyEnc.yml/badge.svg)](https://github.com/bylickilabs/.pyEncryptionService/actions/workflows/.pyEnc.yml)|[LINK](https://github.com/bylickilabs/.pyEncryptionService)|[![NextGen-PythonRSA Encryption CodeQL](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml/badge.svg)](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml)|[LINK](https://github.com/bylickilabs/NextGen-PythonRSA)|
 |---|---|---|---|
@@ -22,8 +22,6 @@ Hi there, I'm Bylickilabs
 🧑‍💻 I love Programming
 🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ``` 
-:white_check_mark: Support Me: BTC = 35QdiXdankgCEwczNfycj97jL4SehLZoib | :white_check_mark:[Bylickilabs - PGP PUBLIC KEY 📫](https://github.com/bylickilabs/Bylickilabs---PGP-Public-Key)|
-|---|---|
  
 | ![Gespiegelt](https://user-images.githubusercontent.com/109308073/235679067-656f0c24-75ac-416e-87e9-966f54ff2580.jpg) |
 |---|
