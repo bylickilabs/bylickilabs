@@ -6,13 +6,10 @@
 
 ```yarn                  
 Hi there, I'm Bylickilabs 
-                           👶 I was born on March 17th, 1982 in Germany
-                           💍 Married since 2015
-                           ⚡ I'm a software Developer working on many Projects. 
-                           🕵️‍♀️ I'll Finish it 100%
-                           🧸 I am very proud of my Work
-                           🧑‍💻 I love Programming
-                           🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
+   👶 I was born on March 17th, 1982 in Germany 💍Married since 2015
+   ⚡ I'm a software Developer working on many Projects. 🕵️‍♀️I'll Finish it 100%
+   🧸 I am very proud of my Work 🧑‍💻 I love Programming
+   🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
 | ![Gespiegelt](https://user-images.githubusercontent.com/109308073/235679067-656f0c24-75ac-416e-87e9-966f54ff2580.jpg) |
 |---|
