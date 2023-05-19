@@ -13,7 +13,7 @@ Hi there, I'm Bylickilabs
    
 ```yarn
    ⚡ I'm a software Developer working on many Projects. 
-   🕵️‍ ♀️ I'll Finish it 100%
+   🕵️‍♀️ I'll Finish it 100%
    🧸 I am very proud of my Work 
    🧑‍💻 I love Programming
    🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
