@@ -1,4 +1,4 @@
-`NEW` [SecurePasswords Application](https://github.com/bylickilabs/SecurePasswords)
+`NEW` [SecurePasswords Application](https://github.com/bylickilabs/UPDATES)
 |[![Proof HTML](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/Viabots/demo-repository/actions/workflows/proof-html.yml)|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|[DISCUSSION ABOUT KALI LINUX](https://github.com/bylickilabs/GithubDesktopOnLinux/discussions/1#discussion-5213442)
 |---|---|---|
 
