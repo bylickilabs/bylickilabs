@@ -1,7 +1,7 @@
 `NEW - 23.05.2023` [SecurePasswords Application](https://github.com/bylickilabs/UPDATES)
 |[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|[DISCUSSION ABOUT KALI LINUX](https://github.com/bylickilabs/GithubDesktopOnLinux/discussions/1#discussion-5213442)
 |---|---|
-                                 
+                                  
 |[![Bylickilabs Generate SuperEncrypter](https://github.com/bylickilabs/SuperEncrypter/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/bylickilabs/SuperEncrypter/actions/workflows/jekyll-docker.yml)|[![Bylickilabs Generate - SecurePasswords Generator](https://github.com/bylickilabs/SecurePasswords/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/bylickilabs/SecurePasswords/actions/workflows/jekyll-docker.yml)|
 |---|---|
 
