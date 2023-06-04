@@ -3,7 +3,7 @@
 
 `REVISIONS` - [BYLICKILABS](https://gist.github.com/bylickilabs/768e0776f7deaaf957c7534e68451c16/revisions)
    
-`NEW 2023/06/02 v1.6` - [Password Generator](https://github.com/bylickilabs/UPDATES)
+`NEW 2023/06/04 v1.7 & v1.7_1` - [Password Generator](https://github.com/bylickilabs/UPDATES)
 |[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|[DISCUSSION ABOUT KALI LINUX](https://github.com/bylickilabs/GithubDesktopOnLinux/discussions/1#discussion-5213442)
 |---|---|
                                      
