@@ -1,8 +1,6 @@
 `LICENSED under the MIT LICENSE` [LICENSE](https://github.com/bylickilabs/UPDATES/blob/master/LICENSE)
 
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg)
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
 
 `REVISIONS` - [BYLICKILABS](https://gist.github.com/bylickilabs/768e0776f7deaaf957c7534e68451c16/revisions)
    
@@ -36,7 +34,7 @@
 :white_check_mark: #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)
 :white_check_mark: Name the PR `fix: add <Bylickilabs>`.
 :white_check_mark: You've added file named `Bylickilabs.json` in the [profiles](https://github.com/bylickilabs/awesome-github-profiles/tree/main/profiles) directory.
-
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
 ```yarn
 @@ -0,0 +1,6 @@
 {
