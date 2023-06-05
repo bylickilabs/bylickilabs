@@ -26,9 +26,10 @@
   -🧑‍💻 I love Programming
   -🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
 | ![Gespiegelt](https://user-images.githubusercontent.com/109308073/235679067-656f0c24-75ac-416e-87e9-966f54ff2580.jpg) |
 |---|
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
+
 ### Checklist for profile addition - 02.04.2023 / 00:30 Uhr
 
 :white_check_mark: #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)
