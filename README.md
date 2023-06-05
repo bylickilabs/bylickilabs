@@ -1,6 +1,6 @@
 `LICENSED under the MIT LICENSE` [LICENSE](https://github.com/bylickilabs/UPDATES/blob/master/LICENSE)
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
 
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
 |[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg)|
 |---|
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
