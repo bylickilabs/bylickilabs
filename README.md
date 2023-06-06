@@ -1,6 +1,7 @@
 `LICENSED under the MIT LICENSE` [LICENSE](https://github.com/bylickilabs/UPDATES/blob/master/LICENSE)
 
 `Personal CV` - [](https://github.com/bylickilabs/Personal-CV)
+
 `REVISIONS` - [BYLICKILABS](https://gist.github.com/bylickilabs/768e0776f7deaaf957c7534e68451c16/revisions)
 
 `NEW 04.06.2023 v1.7 & v1.7_1` - [Password Generator](https://github.com/bylickilabs/UPDATES)
