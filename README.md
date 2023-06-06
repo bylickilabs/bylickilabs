@@ -1,4 +1,4 @@
-`REVISIONS` - [BYLICKILABS](https://gist.github.com/bylickilabs/768e0776f7deaaf957c7534e68451c16/revisions) - [Personal-CV](https://github.com/bylickilabs/Personal-CV)
+`REVISIONS` - [BYLICKILABS](https://gist.github.com/bylickilabs/768e0776f7deaaf957c7534e68451c16/revisions) / [Personal-CV here:](https://github.com/bylickilabs/Personal-CV)
 
 `LICENSED under the MIT LICENSE` [LICENSE](https://github.com/bylickilabs/UPDATES/blob/master/LICENSE)
 
