@@ -9,7 +9,7 @@
 | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg) |
 |---|
 
-|(https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|[DISCUSSION ABOUT KALI LINUX](https://github.com/bylickilabs/GithubDesktopOnLinux/discussions/1#discussion-5213442)
+|[DISCUSSION ABOUT KALI LINUX](https://github.com/bylickilabs/GithubDesktopOnLinux/discussions/1#discussion-5213442)
 |---|
 
 |[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
