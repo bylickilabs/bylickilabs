@@ -1,6 +1,9 @@
 | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg) |
 |---|
 
+|[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
+|---|---|
+
 ```yarn                  
 • Hi there, I'm Bylickilabs 
   -💍 Married since 2015
@@ -18,9 +21,6 @@
 
 `Personal CV` - [CV](https://github.com/bylickilabs/Personal-CV) / `REVISIONS` - [BYLICKILABS](https://gist.github.com/bylickilabs/768e0776f7deaaf957c7534e68451c16/revisions) / `NEW 06/04/2023 v1.7 & v1.7_1` - [PW-Gen - v1.7 & v1.7_1](https://github.com/bylickilabs/UPDATES)
 
-|[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
-|---|---|
-
 |[.pyEncService](https://github.com/bylickilabs/.pyEncryptionService)|[RSA-Encrypter](https://github.com/bylickilabs/Python_RSA-Encrypter)|[NextGen-PythonRSA](https://github.com/bylickilabs/NextGen-PythonRSA)|[JAVA_RSA-Encryption](https://github.com/bylickilabs/RSA-Encryption)|[Multi-Generator](https://github.com/bylickilabs/Multi-Generator)|
 |---|---|---|---|---|
 
@@ -35,7 +35,6 @@
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
 
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
 | ![Gespiegelt](https://user-images.githubusercontent.com/109308073/235679067-656f0c24-75ac-416e-87e9-966f54ff2580.jpg) |
 |---|
 
