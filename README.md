@@ -19,9 +19,6 @@
   -🧑‍💻 I love Programming
   -🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
-
-`LICENSED under the MIT LICENSE` [LICENSE](https://github.com/bylickilabs/UPDATES/blob/master/LICENSE)
-
 `Personal CV` - [CV](https://github.com/bylickilabs/Personal-CV) / `REVISIONS` - [BYLICKILABS](https://gist.github.com/bylickilabs/768e0776f7deaaf957c7534e68451c16/revisions) / `NEW 06/04/2023 v1.7 & v1.7_1` - [PW-Gen - v1.7 & v1.7_1](https://github.com/bylickilabs/UPDATES)
 
 |[.pyEncService](https://github.com/bylickilabs/.pyEncryptionService)|[RSA-Encrypter](https://github.com/bylickilabs/Python_RSA-Encrypter)|[NextGen-PythonRSA](https://github.com/bylickilabs/NextGen-PythonRSA)|[JAVA_RSA-Encryption](https://github.com/bylickilabs/RSA-Encryption)|[Multi-Generator](https://github.com/bylickilabs/Multi-Generator)|
