@@ -9,14 +9,14 @@
 | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg) |
 |---|
 
-|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|[DISCUSSION ABOUT KALI LINUX](https://github.com/bylickilabs/GithubDesktopOnLinux/discussions/1#discussion-5213442)
-|---|---|
+|(https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml)|[DISCUSSION ABOUT KALI LINUX](https://github.com/bylickilabs/GithubDesktopOnLinux/discussions/1#discussion-5213442)
+|---|
 
 |[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
 |---|---|
                                      
-|[![Bylickilabs Generate SuperEncrypter](https://github.com/bylickilabs/SuperEncrypter/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/bylickilabs/SuperEncrypter/actions/workflows/jekyll-docker.yml)|[![Bylickilabs Generate - SecurePasswords Generator](https://github.com/bylickilabs/SecurePasswords/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/bylickilabs/SecurePasswords/actions/workflows/jekyll-docker.yml)|
-|---|---|
+|[![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)]|[![Bylickilabs Generate SuperEncrypter](https://github.com/bylickilabs/SuperEncrypter/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/bylickilabs/SuperEncrypter/actions/workflows/jekyll-docker.yml)|[![Bylickilabs Generate - SecurePasswords Generator](https://github.com/bylickilabs/SecurePasswords/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/bylickilabs/SecurePasswords/actions/workflows/jekyll-docker.yml)|
+|---|---|---|
 
 |[.pyEncService](https://github.com/bylickilabs/.pyEncryptionService)|[RSA-Encrypter](https://github.com/bylickilabs/Python_RSA-Encrypter)|[NextGen-PythonRSA](https://github.com/bylickilabs/NextGen-PythonRSA)|[JAVA_RSA-Encryption](https://github.com/bylickilabs/RSA-Encryption)|[Multi-Generator](https://github.com/bylickilabs/Multi-Generator)|
 |---|---|---|---|---|
