@@ -7,7 +7,7 @@
 ```yarn                  
 • Hi there, I'm Bylickilabs 
   -💍 Married since 2015
-  -👶 I was born on March 17th, 1982 in Germany
+  -👶 I was born on March 17th, 1982 in Austria
 ```
 ```yarn
   -⚡ I'm a software Developer working on many Projects. 
