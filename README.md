@@ -16,9 +16,7 @@
 
 `LICENSED under the MIT LICENSE` [LICENSE](https://github.com/bylickilabs/UPDATES/blob/master/LICENSE)
 
-`Personal CV` - [CV](https://github.com/bylickilabs/Personal-CV) / `REVISIONS` - [BYLICKILABS](https://gist.github.com/bylickilabs/768e0776f7deaaf957c7534e68451c16/revisions)
-
-`NEW 06/04/2023 v1.7 & v1.7_1` - [PW-Gen - v1.7 & v1.7_1](https://github.com/bylickilabs/UPDATES)
+`Personal CV` - [CV](https://github.com/bylickilabs/Personal-CV) / `REVISIONS` - [BYLICKILABS](https://gist.github.com/bylickilabs/768e0776f7deaaf957c7534e68451c16/revisions) / `NEW 06/04/2023 v1.7 & v1.7_1` - [PW-Gen - v1.7 & v1.7_1](https://github.com/bylickilabs/UPDATES)
 
 |[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
 |---|---|
