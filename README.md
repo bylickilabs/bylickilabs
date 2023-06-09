@@ -1,9 +1,6 @@
 | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg) |
 |---|
 
-|[![Awesome](https://awesome.re/badge.svg)](https://github.com/bylickilabs/InternetInformationServer)|![](https://komarev.com/ghpvc/?username=bylickilabs&style=plastic)|[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/bylickilabs/bylickilabs/blob/main/README.md)|
-|---|---|---|
-
 |[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
 |---|---|
 
