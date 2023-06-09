@@ -1,11 +1,11 @@
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg) |
+|---|
+
 `Personal CV` - [CV](https://github.com/bylickilabs/Personal-CV) / `REVISIONS` - [BYLICKILABS](https://gist.github.com/bylickilabs/768e0776f7deaaf957c7534e68451c16/revisions)
 
 `LICENSED under the MIT LICENSE` [LICENSE](https://github.com/bylickilabs/UPDATES/blob/master/LICENSE)
 
 `NEW 06/04/2023 v1.7 & v1.7_1` - [PW-Gen - v1.7 & v1.7_1](https://github.com/bylickilabs/UPDATES)
-
-| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg) |
-|---|
 
 |[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
 |---|---|
