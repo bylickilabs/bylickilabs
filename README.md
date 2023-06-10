@@ -59,7 +59,7 @@
 ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bylickilabs&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
 |---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bylickilabs&theme=github_dark)| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bylickilabs&show_icons=true&locale=en&layout=compact" alt="bylickilabs" /></p>|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
