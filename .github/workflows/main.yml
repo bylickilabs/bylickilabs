@@ -31,7 +31,7 @@ jobs:
           github_user_name: bylickilabs
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=red&color_dots=#000000,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=red&color_dots=#8dbdff,#64a1f4,#4b91f1,#3c7dd9,#000000
 
       # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
