@@ -32,7 +32,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?palette=github-dark&color_snake=red&color_dots=#e0e0e0,#2e2929,#2b2424,#080000,
+            dist/ocean.gif?palette=github-dark&color_snake=red&color_dots=#e0e0e0,#bfbdbd,#2b2424,#080000,
 
       # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
