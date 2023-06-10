@@ -69,6 +69,65 @@
 
 > **🐍 Activity Snake**:
 
+
+
+
+
+<style>
+div.neon {
+ font-family: "Verdana";
+ font-variant: Small-Caps;
+ color: rgb(0, 0, 0);
+ font-size: 1em;
+ text-align: Center;
+ padding: 0px;
+ background-color: Transparent;
+ background-image: url("mauer.png");
+ animation: neonGlow 1.5s infinite alternate cubic-bezier(0.455, 0.030, 0.515, 0.955);
+}
+
+div.neon span {
+  display: inline-block;
+}
+
+div.neon span.Letter {
+ animation: ColorLight 2.5s forwards infinite alternate;
+}
+
+@keyframes neonGlow {
+ 0% {
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.7), 0 0 40px rgba(0, 0, 0, 0.7), 5px 5px 1px rgba(51, 255, 255, 0.5),
+  0 0 22px rgba(0, 0, 0, 0.7), 0 0 40px rgba(51, 255, 255, 0.7), 5px 5px 1px rgba(51, 255, 255, 0.5),
+  0 0 60px rgba(51, 255, 255, 0.7), 0 0 80px rgba(51, 255, 255, 0.1), 5px 5px 1px rgba(51, 255, 255, 0.5),
+  0 0 100px rgba(51, 255, 255, 0.1), 0 0 140px rgba(51, 255, 255, 0.1), 5px 5px 1px rgba(51, 255, 255, 0.5),
+  0 0 200px rgba(51, 255, 255, 0.1), 5px 5px 1px rgba(51, 255, 255, 0.5);
+ }
+ 100% {
+ text-shadow: 0 0 2px rgba(0, 0, 0, 0.6), 0 0 1px rgba(0, 0, 0, 0.6), 5px 5px 1px rgba(51, 255, 255, 0.5),
+  0 0 10px rgba(0, 0, 0, 0.6), 0 0 20px rgba(51, 255, 255, 0.6), 5px 5px 1px rgba(51, 255, 255, 0.5),
+  0 0 30px rgba(51, 255, 255, 0.6), 0 0 40px rgba(51, 255, 255, 0.6), 5px 5px 1px rgba(51, 255, 255, 0.5),
+  0 0 50px rgba(51, 255, 255, 0.9), 0 0 80px rgba(51, 255, 255, 0.9), 5px 5px 1px rgba(51, 255, 255, 0.5);
+ }
+}
+
+@keyframes ColorLight {
+ 0% {
+  filter: hue-rotate(0deg);
+ }
+ to {
+  filter: hue-rotate(360deg);
+ }
+}
+</style>
+
+<div class="neon"><span class="Letter">B</span>ylickilabs-<span class="Letter">S</span>nake</div>
+
+
+
+
+
+
+
 |![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/d34c346ec519b3c0c029caa379fbe78426caf797/bylickilabs-Snake.svg)|
 |---|
 
