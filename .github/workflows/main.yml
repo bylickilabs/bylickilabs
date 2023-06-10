@@ -19,9 +19,11 @@ jobs:
         with:
           github_user_name: bylickilabs
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=red&color_points=yellow
+                      dist/bylickilabs-Snake.svg?palette=github-dark&color_snake=red
+# dist/github-snake.svg
+# dist/github-snake-dark.svg?palette=github-dark
 
+            
       - run: git status
 
       - name: Push changes
