@@ -69,7 +69,7 @@
 
 > **🐍 Activity Snake**:
 
-|![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/output/github-contribution-grid-snake-dark.svg)|
+|![Animation](https://github.com/bylickilabs/bylickilabs/blob/output/ocean.gif?raw=true)|
 |---|
 
 > **✍️ Random Dev Quote**:
