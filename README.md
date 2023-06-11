@@ -69,7 +69,7 @@
 
 > **🐍 Activity Snake**:
 
-|![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/bcf0a0f4a4c81a333ca44cfda8cb1445845abed2/bylickilabs-Snake.svg)|
+|![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/9f67dc78400e2df7f5ad3827be91f2b9cafee07d/bylickilabs-Snake.svg)|
 |---|
 
 > **✍️ Random Dev Quote**:
