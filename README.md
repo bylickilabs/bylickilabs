@@ -1,6 +1,13 @@
 | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg) |
 |---|
 
+<!-- Cronitor RUM -->
+<script async src="https://rum.cronitor.io/script.js"></script>
+<script>
+    window.cronitor = window.cronitor || function() { (window.cronitor.q = window.cronitor.q || []).push(arguments); };
+    cronitor('config', { clientKey: '6a7bfbeb528cc47606632c346f5602c2' });
+</script>
+
 |[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
 |---|---|
 
