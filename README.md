@@ -1,3 +1,5 @@
+![bylickilabs](https://cronitor.io/badges/J5mCdu/production/p1bO9z4he77k-XrmxYy5OoDEFmQ.svg)
+
 | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg) |
 |---|
 
