@@ -4,7 +4,7 @@
 | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg) |
 |---|
 
- <a href="https://app.daily.dev/bylickilabs"><img src="https://api.daily.dev/devcards/9bb105bf89394b54b4281861f8ed1b3f.png?r=y1g" width="400" alt="®️BYLICKILABS™️'s Dev Card"/></a>|
+ <a href="https://app.daily.dev/bylickilabs"><img src="https://api.daily.dev/devcards/9bb105bf89394b54b4281861f8ed1b3f.png?r=y1g" width="50" alt="®️BYLICKILABS™️'s Dev Card"/></a>|
 
 |[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
 |---|---|
