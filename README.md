@@ -70,9 +70,9 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=flat&margin-h=10&margin-w=10&no-frame=true&no-bg=false&column=-1)
 
-> **🐍 Activity Snake**:
+> **🐍 Github Activity Snake**:
 
-|![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/b9575b352f06ce056f9aa61cda63dc593088c6ae/bylickilabs-Snake.svg)|
+|![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/f87fa3659c55415e949c3c1a55008ea88e929fd2/github-snake-dark.svg)|
 |---|
 
 > **✍️ Random Dev Quote**:
