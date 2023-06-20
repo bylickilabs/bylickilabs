@@ -1,6 +1,3 @@
-|[![An image of @bylickilabs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bylickilabs)](https://holopin.io/@bylickilabs)|
-|---|
-
 |![bylickilabs](https://cronitor.io/badges/J5mCdu/production/p1bO9z4he77k-XrmxYy5OoDEFmQ.svg)|[![DevCard](https://github.com/bylickilabs/bylickilabs/actions/workflows/DevCard.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/DevCard.yml)|[![Open Source Helpers](https://www.codetriage.com/github/government.github.com/badges/users.svg)](https://www.codetriage.com/github/government.github.com)|
 |---|---|---|
    
@@ -76,6 +73,9 @@
 > **🐍 Github Activity Snake**:
 
 |![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/f87fa3659c55415e949c3c1a55008ea88e929fd2/github-snake-dark.svg)|
+|---|
+
+|[![An image of @bylickilabs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bylickilabs)](https://holopin.io/@bylickilabs)|
 |---|
 
 > **✍️ Random Dev Quote**:
