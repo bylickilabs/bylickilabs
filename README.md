@@ -1,4 +1,4 @@
-`Best Result` Black Template...
+`Best Result` Black Template
 
 |![bylickilabs](https://cronitor.io/badges/J5mCdu/production/p1bO9z4he77k-XrmxYy5OoDEFmQ.svg)|[![DevCard](https://github.com/bylickilabs/bylickilabs/actions/workflows/DevCard.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/DevCard.yml)|[![Open Source Helpers](https://www.codetriage.com/github/government.github.com/badges/users.svg)](https://www.codetriage.com/github/government.github.com)|
 |---|---|---|
