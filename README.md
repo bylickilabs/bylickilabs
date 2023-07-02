@@ -21,17 +21,6 @@
   -🧑‍💻 I love Programming
   -🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
 ```
-`Personal CV` - [CV](https://github.com/bylickilabs/Personal-CV) / `REVISIONS` - [BYLICKILABS](https://gist.github.com/bylickilabs/768e0776f7deaaf957c7534e68451c16/revisions) / `NEW 06/04/2023 v1.7 & v1.7_1` - [PW-Gen - v1.8 & v1.8_1](https://github.com/bylickilabs/UPDATES)
-
-|[.pyEncService](https://github.com/bylickilabs/.pyEncryptionService)|[RSA-Encrypter](https://github.com/bylickilabs/Python_RSA-Encrypter)|[NextGen-PythonRSA](https://github.com/bylickilabs/NextGen-PythonRSA)|[JAVA_RSA-Encryption](https://github.com/bylickilabs/RSA-Encryption)|[Multi-Generator](https://github.com/bylickilabs/Multi-Generator)|
-|---|---|---|---|---|
-
-
-|![Bylickilabs Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/main.yml/badge.svg)| [![Bylickilabs Generate SuperEncrypter](https://github.com/bylickilabs/SuperEncrypter/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/bylickilabs/SuperEncrypter/actions/workflows/jekyll-docker.yml)|[![Bylickilabs Generate - SecurePasswords Generator](https://github.com/bylickilabs/SecurePasswords/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/bylickilabs/SecurePasswords/actions/workflows/jekyll-docker.yml)|
-|---|---|---|
-
-|[![Bylickilabs Generate - Python_RSA-Encrypter](https://github.com/bylickilabs/Python_RSA-Encrypter/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/Python_RSA-Encrypter/actions/workflows/main.yml)|[![NextGen-PythonRSA Encryption CodeQL](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml/badge.svg)](https://github.com/bylickilabs/NextGen-PythonRSA/actions/workflows/codeql.yml)|[![Bylickilabs Generate - .py Encryption T00L](https://github.com/bylickilabs/.pyEncryptionService/actions/workflows/.pyEnc.yml/badge.svg)](https://github.com/bylickilabs/.pyEncryptionService/actions/workflows/.pyEnc.yml)|
-|---|---|---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
 
