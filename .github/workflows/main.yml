@@ -42,7 +42,7 @@ jobs:
           branch: master
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3.6.3
         with:
           target_branch: output
           build_dir: dist
