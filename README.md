@@ -1,7 +1,7 @@
 ### Hi there 👋
+
 | G3N3RATION-X | N3XT L3V3L 5CRIPT5 | TEBEX | ESCROW | 
 |---|---|---|
-
 
 [YOUTUBE](https://youtu.be/8V62yLUv1io)
 
