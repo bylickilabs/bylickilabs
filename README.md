@@ -1,6 +1,8 @@
 ### Hi there 👋
-| G3N3RATION-X | N3XT L3V3L 5CRIPT5 | TEBEX | ESCROW | [YOUTUBE](https://youtu.be/8V62yLUv1io)
-|---|---|---|---|
+| G3N3RATION-X | N3XT L3V3L 5CRIPT5 | TEBEX | ESCROW | 
+|---|---|---|
+
+[YOUTUBE](https://youtu.be/8V62yLUv1io)
 
 | ![banner](https://github.com/bylickilabs/bylickilabs/assets/109308073/fd0a4494-54a5-4f5d-8ae8-83194a7400d0) |
 |---|
