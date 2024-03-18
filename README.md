@@ -7,7 +7,7 @@
 | ► [TEBEX SHOP](https://g3n3ration-x.tebex.io) | 
 |---|
 
-| ► [AntiVPN](https://g3n3ration-x.tebex.io/package/6171319) | ► [Airport Bridge MLO](https://g3n3ration-x.tebex.io/package/6148380) | ► [Cayo Pericho)[https://g3n3ration-x.tebex.io/package/6148599) |
+| ► [AntiVPN](https://g3n3ration-x.tebex.io/package/6171319) | ► [Airport Bridge MLO](https://g3n3ration-x.tebex.io/package/6148380) | ► [Cayo Pericho](https://g3n3ration-x.tebex.io/package/6148599) |
 |---|---|---|
 
 ---
