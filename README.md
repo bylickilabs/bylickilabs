@@ -1,9 +1,9 @@
 ### Hi there 👋
+| [TEBEX SHOP](https://g3n3ration-x.tebex.io) |
+|---|
 
-| G3N3RATION-X | N3XT L3V3L 5CRIPT5 | [TEBEX SHOP](https://g3n3ration-x.tebex.io) | ESCROW | [YOUTUBE](https://youtu.be/8V62yLUv1io) |
-|---|---|---|---|---|
----
-
+| G3N3RATION-X | N3XT L3V3L 5CRIPT5 | ESCROW | [YOUTUBE](https://youtu.be/8V62yLUv1io) |
+|---|---|---|---|
 
 ---
 
