@@ -12,7 +12,7 @@
 
 ---
 
-► [YOUTUBE](https://youtu.be/8V62yLUv1io) |
+► [YOUTUBE](https://youtu.be/8V62yLUv1io)
 
 ---
 
