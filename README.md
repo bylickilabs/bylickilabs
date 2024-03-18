@@ -6,7 +6,8 @@
 
 | G3N3RATION-X | N3XT L3V3L 5CRIPT5 | 
 |---|---|---|
-| ![AntiVPN](https://g3n3ration-x.tebex.io/package/6171319)
+| ![AntiVPN](https://g3n3ration-x.tebex.io/package/6171319) |
+
 
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
