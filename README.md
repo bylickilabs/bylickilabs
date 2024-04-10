@@ -7,7 +7,8 @@
   -🧸 I am very proud of my Work 
   -🧑‍💻 I love Programming
 
-• Founder from BYLICKILABS - Founder from BEA-512 (BYLICKILABS ENCRYPTION ALGORITHM)
+• Founder and CEO from BYLICKILABS
+• Founder from BEA-512 (BYLICKILABS ENCRYPTION ALGORITHM)
 ``` 
 
 | BYLICKILABS |
