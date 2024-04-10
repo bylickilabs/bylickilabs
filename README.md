@@ -1,3 +1,4 @@
+```yarn
 • Hi there, I'm Bylickilabs👋
   -💍 Married since 2015
   -👶 I was born on March 17th, 1982
@@ -5,8 +6,7 @@
   -🕵️‍♀️ I'll Finish it 100%
   -🧸 I am very proud of my Work 
   -🧑‍💻 I love Programming
-  
----
+``` 
 
 | BYLICKILABS |
 |---|
