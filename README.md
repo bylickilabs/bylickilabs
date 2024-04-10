@@ -1,5 +1,4 @@
-### Hi there 👋
-• Hi there, I'm Bylickilabs 
+• Hi there, I'm Bylickilabs 👋
   -💍 Married since 2015
   -👶 I was born on March 17th, 1982
   -⚡ I'm a software Developer working on many Projects. 
