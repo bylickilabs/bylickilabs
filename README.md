@@ -28,18 +28,7 @@
 |![](https://user-images.githubusercontent.com/109308073/209476319-46299716-ebb4-404f-82f4-0b7f6629dc2c.png)|![](https://user-images.githubusercontent.com/109308073/206874781-690928fb-43cc-4f5a-81a0-3e619172c285.png)|![](https://user-images.githubusercontent.com/109308073/206874788-e09e41e6-5e50-4f98-982c-f1ce6994e28f.png)|![](https://user-images.githubusercontent.com/109308073/206874791-2c8b1413-c870-4415-b508-d29155b55f86.png)|![](https://user-images.githubusercontent.com/109308073/209539749-839b2c89-861b-4d85-a691-77bad11c3154.png)|![](https://user-images.githubusercontent.com/109308073/206874803-a587a182-d5d1-4e19-a493-4a44781f98a2.png)|![](https://user-images.githubusercontent.com/109308073/206874806-2e4ddc45-76e6-4038-9003-1acb68f57570.png)|
 |---|---|---|---|---|---|---|
 
-| BYLICKILABS |
-|---|
-
-| G3N3RATION-X | N3XT L3V3L 5CRIPT5 | ESCROW 5Y5T3M |
-|---|---|---|
-
-| ![banner](https://github.com/bylickilabs/bylickilabs/assets/109308073/fd0a4494-54a5-4f5d-8ae8-83194a7400d0) |
-|---|
-
 ![](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
-
-► [YOUTUBE](https://youtu.be/8V62yLUv1io)
 
 ---
 
