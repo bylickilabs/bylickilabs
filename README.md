@@ -41,6 +41,14 @@
 
 ![](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
 
+> **🐍 Github Activity Snake**:
+
+|![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/f87fa3659c55415e949c3c1a55008ea88e929fd2/github-snake-dark.svg)|
+|---|
+
+|[![An image of @bylickilabs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bylickilabs)](https://holopin.io/@bylickilabs)|
+|---|
+
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
