@@ -1,3 +1,5 @@
+[![.github/workflows/snake.yml](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml)
+
 ```yarn
 • Hi there, I'm Bylickilabs👋
   -💍 Married since 2015
