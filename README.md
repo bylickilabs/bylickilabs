@@ -46,8 +46,15 @@
 |![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/f87fa3659c55415e949c3c1a55008ea88e929fd2/github-snake-dark.svg)|
 |---|
 
-|[![An image of @bylickilabs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bylickilabs)](https://holopin.io/@bylickilabs)|
+> **✍️ Random Dev Quote**:
+
+|![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
 |---|
+
+> **😶‍🌫️ SUPPORT**:
+- ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
+- ![Keybase ZEC](https://img.shields.io/keybase/zec/bylickilabs?style=plastic)
+- ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
