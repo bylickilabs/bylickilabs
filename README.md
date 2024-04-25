@@ -42,9 +42,9 @@
 ![](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
 
 > **🐍 Github Activity Snake**:
-![snake animation](https://github.com/<seu bylickilabs>/<seu bylickilabs>/blob/output/github-contribution-grid-snake2.svg)
+|![snake animation](https://github.com/<seu bylickilabs>/<seu bylickilabs>/blob/output/github-contribution-grid-snake2.svg)|
 |![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/f87fa3659c55415e949c3c1a55008ea88e929fd2/github-snake-dark.svg)|
-|---|
+|---|---|
 
 > **✍️ Random Dev Quote**:
 
