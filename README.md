@@ -11,8 +11,8 @@
 • Founder from BEA-512 (BYLICKILABS ENCRYPTION ALGORITHM)
 ``` 
 
-|[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
-|---|---|
+|[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|
+|---|
 
 | BYLICKILABS |
 |---|
