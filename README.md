@@ -10,6 +10,7 @@
   -🧑‍💻 I love Programming
 
 • Founder and CEO from BYLICKILABS
+• Founder from AlphaDevelopment
 • Founder from BEA-512 (BYLICKILABS ENCRYPTION ALGORITHM)
 ``` 
 
