@@ -106,11 +106,6 @@
 <summary>Contact Me</summary>
 <ul><li>
 <details>
-<summary>Keybase</summary>
-© https://keybase.io/bylickilabs
-</details></li>
-<li> 
-<details>
 <summary>Github</summary>
 @ 109308073+bylickilabs@users.noreply.github.com
 </details></li>
