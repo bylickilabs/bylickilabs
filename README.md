@@ -11,6 +11,7 @@
 
 • Founder and CEO from BYLICKILABS
 • Founder from AlphaDevelopment
+• Founder from Online Features
 • Founder from BEA-512 (BYLICKILABS ENCRYPTION ALGORITHM)
 ``` 
 
