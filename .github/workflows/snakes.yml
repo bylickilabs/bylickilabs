@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Sutil/snk@master
+      - uses: Sutil/snk@v01.00.02
         id: snake-gif
         with:
           github_user_name: bylickilabs
