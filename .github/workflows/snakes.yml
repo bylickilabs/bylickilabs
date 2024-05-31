@@ -26,8 +26,8 @@ jobs:
       - name: Save state
         run: echo "{name}={value}" >> $GITHUB_STATE
       
-      - name: Set output
+      - name: ::set-output name=svg_out_path::dist/github-contribution-grid-snake2.svg  
         run: echo "{name}={value}" >> $GITHUB_OUTPUT
-                                                  
+                                                
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
