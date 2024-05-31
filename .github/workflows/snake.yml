@@ -16,7 +16,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake2.svg
           snake_color: 'blue'
 
-      - uses: crazy-max/ghaction-github-pages@v2.316.1
+      - uses: crazy-max/ghaction-github-pages@2.316.1
         with:
           target_branch: output
           build_dir: dist
