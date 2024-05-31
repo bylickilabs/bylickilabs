@@ -21,9 +21,6 @@ jobs:
       - uses: Sutil/snk@v01.00.02
       # crazy-max/ghaction-github-pages@v4
 
-      - name: Save state
-        run: echo "{name}={value}" >> $GITHUB_STATE
-      
       - name: Set output
         run: echo "{name}={value}" >> $GITHUB_OUTPUT   
         
