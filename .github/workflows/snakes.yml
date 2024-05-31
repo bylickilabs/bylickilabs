@@ -18,9 +18,10 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake2.svg
           snake_color: 'blue'
 
-          uses: Sutil/snk@v01.00.02
+          
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: Sutil/snk@v01.00.02
+      # crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
