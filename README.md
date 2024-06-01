@@ -1,7 +1,5 @@
 [![Repository Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snakes.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snakes.yml)
 
-![snake animation](https://github.com/bylickilabs/bylickilabs/blob/output/github-contribution-grid-snake2.svg)
-
 ```yarn
 • Hi there, I'm Bylickilabs👋
   -💍 Married since 2015
