@@ -14,7 +14,7 @@
 • Founder from Online Features
 • Founder from BEA-512 (BYLICKILABS ENCRYPTION ALGORITHM)
 ``` 
-|[🔭 ►I’m currently working on◄](https://github.com/bylickilabs/Website-Loader)|
+|[🔭 ► I’m currently working on ◄](https://github.com/bylickilabs/Website-Loader)|
 |---|
 
 
