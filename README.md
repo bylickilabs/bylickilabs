@@ -18,7 +18,7 @@
 |---|
 
 
-|[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|
+|🌠[Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|
 |---|
 
 ```yarn
