@@ -1,4 +1,5 @@
-[![Repository Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snakes.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snakes.yml)
+[![DevCard](https://github.com/bylickilabs/bylickilabs/actions/workflows/DevCard.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/DevCard.yml)|[![Repository Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snakes.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snakes.yml)|
+|---|---|
 
 ```yarn
 • Hi there, I'm Bylickilabs👋
