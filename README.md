@@ -2,7 +2,7 @@
 |---|---|
  
 |☕[!Buy me a Coffee](https://buymeacoffee.com/bylickilabs) |🔭 [I’m currently working on...](https://github.com/bylickilabs/Website-Loader)|
-|---|
+|---|---|
 ---
 
 
