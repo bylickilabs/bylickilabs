@@ -9,7 +9,7 @@
   -🕵️‍♀️ I'll Finish it 100%
   -🧸 I am very proud of my Work 
   -🧑‍💻 I love Programming
-
+ 
 • Founder from AlphaDevelopment
 • Founder from Online Features
 • Founder from BEA-512 (BYLICKILABS ENCRYPTION ALGORITHM)
