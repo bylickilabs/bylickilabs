@@ -8,10 +8,6 @@
   -🕵️‍♀️ I'll Finish it 100%
   -🧸 I am very proud of my Work 
   -🧑‍💻 I love Coding
-  
-• Founder from AlphaDevelopment
-• Founder from Online Features
-• Founder from BEA-512 (BYLICKILABS ENCRYPTION ALGORITHM)
 ``` 
    
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
