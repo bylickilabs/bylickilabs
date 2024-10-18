@@ -1,6 +1,8 @@
 |![1](https://github.com/user-attachments/assets/fa2e36d7-3b3d-4140-bd36-94ffdfc51783)|
 |---|
 
+[![discord](https://github.com/user-attachments/assets/ce13c4da-ce4f-4f49-b075-e51c9dd37ab4)](https://discord.com/invite/mpz2hJ6PM6)
+
 ```yarn
 • Hi there, I'm Bylickilabs from AlphaDevelopment👋
   -💍 Married since 2015
