@@ -1,8 +1,8 @@
-|[![discord](https://github.com/user-attachments/assets/0fb9b790-cfe3-4bd1-a090-d34f6f102022)](https://discord.com/invite/mpz2hJ6PM6)|[![youtube](https://github.com/user-attachments/assets/5932e79c-5b58-4c3e-93eb-c496a56919e4)](https://www.youtube.com/@AlphaCorpDevs)|
-|---|---|
-
 |![1](https://github.com/user-attachments/assets/fa2e36d7-3b3d-4140-bd36-94ffdfc51783)|
 |---|
+
+|[![discord](https://github.com/user-attachments/assets/0fb9b790-cfe3-4bd1-a090-d34f6f102022)](https://discord.com/invite/mpz2hJ6PM6)|[![youtube](https://github.com/user-attachments/assets/5932e79c-5b58-4c3e-93eb-c496a56919e4)](https://www.youtube.com/@AlphaCorpDevs)|
+|---|---|
 
 ```yarn
 • Hi there, I'm Bylickilabs from AlphaDevelopment👋
