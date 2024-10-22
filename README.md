@@ -9,7 +9,7 @@
 |![1](https://github.com/user-attachments/assets/fa2e36d7-3b3d-4140-bd36-94ffdfc51783)|
 |---|
 
-<h3 align="center">A passionate Developer from Germany</h3>
+> <h3 align="center">A passionate Developer from Germany</h3>
 
 ```yarn
 • Hi there, I'm Bylickilabs from AlphaDevelopment👋
