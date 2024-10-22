@@ -9,6 +9,7 @@
   -🕵️‍♀️ I'll Finish it 100%
   -🧸 I am very proud of my Work 
   -🧑‍💻 I love Coding
+- 🌱 I’m currently learning **qbcore**
 ``` 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
@@ -30,11 +31,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bylickilabs&label=Profile%20views&color=0e75b6&style=flat" alt="bylickilabs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bylickilabs" alt="bylickilabs" /></a> </p>
+<p align="left"> <a href="https://github.com/bylickilabs/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bylickilabs" alt="bylickilabs" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **ESX**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
