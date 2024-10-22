@@ -17,7 +17,8 @@
 • Hi there, I'm Bylickilabs from AlphaDevelopment👋
   - 💍 Married since 2015
   - 👶 I was born on March 17th, 1982
-  - ⚡ I'm a software Developer working on many Projects. 
+  - ⚡ I'm a software Developer working on many Projects.
+  - ⚡ I'm a Keyboarder
   - 🕵️‍♀️ I'll Finish it 100%
   - 🧸 I am very proud of my Work 
   - 🧑‍💻 I love Coding
