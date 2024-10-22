@@ -16,7 +16,8 @@
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&show_icons=true&bg_color=00000000)
+|![GitHub stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&show_icons=true&bg_color=00000000)|
+|---|
 
     
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
