@@ -32,16 +32,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=flat&margin-h=10&margin-w=10&no-frame=true&no-bg=false&column=-1)
 
-
-
-`Best Result` Black Template
-  
-|![bylickilabs](https://cronitor.io/badges/J5mCdu/production/p1bO9z4he77k-XrmxYy5OoDEFmQ.svg)|[![DevCard](https://github.com/bylickilabs/bylickilabs/actions/workflows/DevCard.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/DevCard.yml)|[![Open Source Helpers](https://www.codetriage.com/github/government.github.com/badges/users.svg)](https://www.codetriage.com/github/government.github.com)|
-|---|---|---|
-       
-| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg) |
-|---|
-
 |[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|
 |---|
 
