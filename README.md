@@ -44,7 +44,7 @@
 
 > **🐍 Github Activity Snake**:
 
-|![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/f87fa3659c55415e949c3c1a55008ea88e929fd2/github-snake-dark.svg)|
+|![Animation](https://github.com/bylickilabs/bylickilabs/blob/output/github-contribution-grid-snake2.svg)|
 |---|
 
 |[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|
