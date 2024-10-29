@@ -42,23 +42,8 @@
 | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg) |
 |---|
 
-|[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|[🌠Listed on Awesome Github Profiles](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)|
-|---|---|
-
-```yarn                  
-• Hi there, I'm Bylickilabs 
-  -💍 Married since 2015
-  -👶 I was born on March 17th, 1982 in Austria
-```
-```yarn
-  -⚡ I'm a software Developer working on many Projects. 
-  -🕵️‍♀️ I'll Finish it 100%
-  -🧸 I am very proud of my Work 
-  -🧑‍💻 I love Programming
-  -🔭 I flew to the Moon, Jupiter and Mars with my Reflecting Telescope
-```
-
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
+|[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|
+|---|
 
 | ![Gespiegelt](https://user-images.githubusercontent.com/109308073/235679067-656f0c24-75ac-416e-87e9-966f54ff2580.jpg) |
 |---|
