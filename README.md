@@ -13,9 +13,6 @@
 |![1](https://github.com/user-attachments/assets/fa2e36d7-3b3d-4140-bd36-94ffdfc51783)|
 |---|
 
-|https://github.com/bylickilabs/bylickilabs/blob/output/github-contribution-grid-snake-dark.svg|
-|---|
-
 > <h3 align="center">A passionate Developer from Germany</h3>
 
 ```yarn
@@ -31,10 +28,9 @@
 ``` 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
-> <h3 align="center">Github Stats</h3>
+> **🏆 Trophys**:
 
-|![bylickilabs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=vue-dark&hide_border=false)|![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)|![bylickilabs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)|
-|---|---|---|
+![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=flat&margin-h=10&margin-w=10&no-frame=true&no-bg=false&column=-1)
 
 
 
