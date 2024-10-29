@@ -35,9 +35,6 @@
 |[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|
 |---|
 
-| ![Gespiegelt](https://user-images.githubusercontent.com/109308073/235679067-656f0c24-75ac-416e-87e9-966f54ff2580.jpg) |
-|---|
-
 ### Checklist for profile addition - 02.04.2023 / 00:30 Uhr
 
 :white_check_mark: #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)
@@ -58,8 +55,6 @@
 |![](https://user-images.githubusercontent.com/109308073/209476319-46299716-ebb4-404f-82f4-0b7f6629dc2c.png)|![](https://user-images.githubusercontent.com/109308073/206874781-690928fb-43cc-4f5a-81a0-3e619172c285.png)|![](https://user-images.githubusercontent.com/109308073/206874788-e09e41e6-5e50-4f98-982c-f1ce6994e28f.png)|![](https://user-images.githubusercontent.com/109308073/206874791-2c8b1413-c870-4415-b508-d29155b55f86.png)|![](https://user-images.githubusercontent.com/109308073/209539749-839b2c89-861b-4d85-a691-77bad11c3154.png)|![](https://user-images.githubusercontent.com/109308073/206874803-a587a182-d5d1-4e19-a493-4a44781f98a2.png)|![](https://user-images.githubusercontent.com/109308073/206874806-2e4ddc45-76e6-4038-9003-1acb68f57570.png)|
 |---|---|---|---|---|---|---|
 
-|BD0S - Bylickilabs-Denial-0f-Service \ Testing your Website|T00l #1.) BDOS-T00l [REPO](https://github.com/bylickilabs/BD0S)|T00l #II.) BD0S-Fl00der [Repo](https://github.com/bylickilabs/BDoS_Fl00der)|
-|---|---|---|
 
 ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bylickilabs&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bylickilabs&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=github_dark)|
