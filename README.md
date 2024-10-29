@@ -54,21 +54,6 @@
 |[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|
 |---|
 
-### Checklist for profile addition - 02.04.2023 / 00:30 Uhr
-
-:white_check_mark: #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)
-:white_check_mark: Name the PR `fix: add <Bylickilabs>`.
-:white_check_mark: You've added file named `Bylickilabs.json` in the [profiles](https://github.com/bylickilabs/awesome-github-profiles/tree/main/profiles) directory.
-
-```yarn
-@@ -0,0 +1,6 @@
-{
-  "image": "https://user-images.githubusercontent.com/109308073/209451382-c2c90f77-0c2a-45dc-bd06-1f5418910dd9.jpg",
-  "issueId": 1588,
-  "name": "Thorsten Bylicki",
-  "username": "bylickilabs"
-}
-```
 
 > **😶‍🌫️ SUPPORT**:
 - ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
