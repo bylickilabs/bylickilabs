@@ -1,8 +1,8 @@
-| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg) |
-|---|
-
 |<p align="left"> <img src="https://komarev.com/ghpvc/?username=bylickilabs&label=Profile%20views&color=0e75b6&style=flat" alt="bylickilabs" /></p>|[![Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/Snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/Snake.yml)|
 |---|---|
+
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+BYLICKILABS+on+Github)](https://git.io/typing-svg) |
+|---|
 
 > Our New GTAV RP Server & Social Media
 <p align="left">
