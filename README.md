@@ -1,11 +1,11 @@
-![github-user-contribution](https://github.com/user-attachments/assets/37ceb038-9d35-452b-b7b4-8aa0372d109f)> Our New GTAV RP Server & Social Media
+> Our New GTAV RP Server & Social Media
 <p align="left">
 <a href="https://discord.gg/mpz2hJ6PM6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mpz2hJ6PM6" height="30" width="40" /></a>  
 <a href="https://www.youtube.com/@AlphaCorpDevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alphacorpdevs" height="30" width="40" /></a>
 </p>
 
-|<p align="left"> <img src="https://komarev.com/ghpvc/?username=bylickilabs&label=Profile%20views&color=0e75b6&style=flat" alt="bylickilabs" /></p>|[![Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/Snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/Snake.yml)|
-|---|---|
+|<p align="left"> <img src="https://komarev.com/ghpvc/?username=bylickilabs&label=Profile%20views&color=0e75b6&style=flat" alt="bylickilabs" /></p>|
+|---|
  
 |![1](https://github.com/user-attachments/assets/fa2e36d7-3b3d-4140-bd36-94ffdfc51783)|
 |---|
@@ -45,6 +45,9 @@
 |[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|
 |---|
 
+> **🐍 Snake**:
+|![github-user-contribution](https://github.com/user-attachments/assets/37ceb038-9d35-452b-b7b4-8aa0372d109f)|
+|---|
 
 > **😶‍🌫️ SUPPORT**:
 - ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
