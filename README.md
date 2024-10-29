@@ -46,6 +46,7 @@
 |---|
 
 > **🐍 Snake**:
+
 |![github-user-contribution](https://github.com/user-attachments/assets/37ceb038-9d35-452b-b7b4-8aa0372d109f)|
 |---|
 
