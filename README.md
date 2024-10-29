@@ -55,8 +55,6 @@
 
 > **😶‍🌫️ SUPPORT**:
 - ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
-- ![Keybase ZEC](https://img.shields.io/keybase/zec/bylickilabs?style=plastic)
-- ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 
 > <h3 align="center">(SKILLS) via► ▼DropDown▼</h3>
 <details>
