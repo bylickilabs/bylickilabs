@@ -30,9 +30,6 @@
 
 > **🏆 Trophys**:
 
-![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=flat&margin-h=10&margin-w=10&no-frame=true&no-bg=false&column=-1)
-
-
 
 |<p align="left"> <a href="https://github.com/bylickilabs/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bylickilabs" alt="bylickilabs" /></a> </p>|
 |---|
