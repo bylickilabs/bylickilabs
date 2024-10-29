@@ -1,6 +1,8 @@
 |<p align="left"> <img src="https://komarev.com/ghpvc/?username=bylickilabs&label=Profile%20views&color=0e75b6&style=flat" alt="bylickilabs" /></p>|[![Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/Snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/Snake.yml)|
 |---|---|
 
+https://github.com/bylickilabs/bylickilabs/blob/output/github-contribution-grid-snake-dark.svg
+
 > Our New GTAV RP Server & Social Media
 <p align="left">
 <a href="https://discord.gg/mpz2hJ6PM6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mpz2hJ6PM6" height="30" width="40" /></a>  
