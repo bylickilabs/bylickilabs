@@ -58,6 +58,7 @@
 - ![Keybase BTC](https://img.shields.io/keybase/btc/bylickilabs?style=plastic)
 
 > **(SKILLS) via► ▼DropDown▼**:
+> <h3 align="center">(SKILLS) via► ▼DropDown▼</h3>
 <details>
 <summary>Languages, Dev Tools & More:</summary>
 <ul><li>
