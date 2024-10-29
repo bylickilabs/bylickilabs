@@ -1,7 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bylickilabs&label=Profile%20views&color=0e75b6&style=flat" alt="bylickilabs" /></p>
-
-|[![Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/Snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/Snake.yml)|
-|---|
+|<p align="left"> <img src="https://komarev.com/ghpvc/?username=bylickilabs&label=Profile%20views&color=0e75b6&style=flat" alt="bylickilabs" /></p>|[![Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/Snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/Snake.yml)|
+|---|---|
 
 > Our New GTAV RP Server & Social Media
 <p align="left">
