@@ -28,28 +28,7 @@
 ``` 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
-> **🏆 Trophys**:
 
-![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=flat&margin-h=10&margin-w=10&no-frame=true&no-bg=false&column=-1)
-
-|[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|
-|---|
-
-### Checklist for profile addition - 02.04.2023 / 00:30 Uhr
-
-:white_check_mark: #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)
-:white_check_mark: Name the PR `fix: add <Bylickilabs>`.
-:white_check_mark: You've added file named `Bylickilabs.json` in the [profiles](https://github.com/bylickilabs/awesome-github-profiles/tree/main/profiles) directory.
-
-```yarn
-@@ -0,0 +1,6 @@
-{
-  "image": "https://user-images.githubusercontent.com/109308073/209451382-c2c90f77-0c2a-45dc-bd06-1f5418910dd9.jpg",
-  "issueId": 1588,
-  "name": "Thorsten Bylicki",
-  "username": "bylickilabs"
-}
-```
 🔓 Achivements - Update 2022/12/26 - Pull Shark Gold
 
 |![](https://user-images.githubusercontent.com/109308073/209476319-46299716-ebb4-404f-82f4-0b7f6629dc2c.png)|![](https://user-images.githubusercontent.com/109308073/206874781-690928fb-43cc-4f5a-81a0-3e619172c285.png)|![](https://user-images.githubusercontent.com/109308073/206874788-e09e41e6-5e50-4f98-982c-f1ce6994e28f.png)|![](https://user-images.githubusercontent.com/109308073/206874791-2c8b1413-c870-4415-b508-d29155b55f86.png)|![](https://user-images.githubusercontent.com/109308073/209539749-839b2c89-861b-4d85-a691-77bad11c3154.png)|![](https://user-images.githubusercontent.com/109308073/206874803-a587a182-d5d1-4e19-a493-4a44781f98a2.png)|![](https://user-images.githubusercontent.com/109308073/206874806-2e4ddc45-76e6-4038-9003-1acb68f57570.png)|
@@ -72,13 +51,24 @@
 |![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/f87fa3659c55415e949c3c1a55008ea88e929fd2/github-snake-dark.svg)|
 |---|
 
-|[![An image of @bylickilabs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bylickilabs)](https://holopin.io/@bylickilabs)|
+|[🌠Listed on Most active Gitler in Germany](https://github.com/bylickilabs/Top.Commits)|
 |---|
 
-> **✍️ Random Dev Quote**:
+### Checklist for profile addition - 02.04.2023 / 00:30 Uhr
 
-|![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)|
-|---|
+:white_check_mark: #1588 - [LINK](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1588)
+:white_check_mark: Name the PR `fix: add <Bylickilabs>`.
+:white_check_mark: You've added file named `Bylickilabs.json` in the [profiles](https://github.com/bylickilabs/awesome-github-profiles/tree/main/profiles) directory.
+
+```yarn
+@@ -0,0 +1,6 @@
+{
+  "image": "https://user-images.githubusercontent.com/109308073/209451382-c2c90f77-0c2a-45dc-bd06-1f5418910dd9.jpg",
+  "issueId": 1588,
+  "name": "Thorsten Bylicki",
+  "username": "bylickilabs"
+}
+```
 
 > **😶‍🌫️ SUPPORT**:
 - ![Keybase PGP](https://img.shields.io/keybase/pgp/bylickilabs?style=plastic)
