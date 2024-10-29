@@ -118,36 +118,6 @@
 <details>
 <summary>Github</summary>
 @ 109308073+bylickilabs@users.noreply.github.com
-</details></li>
-<li>  
-<details>
-<summary>Twitter</summary>
-© https://twitter.com/bylickilabs
-</details></li>
-<li>  
-<details>
-<summary>Twitch</summary>
-© https://www.twitch.tv/bylickilabs
-</details></li>
-<li>
-<details>
-<summary>TikTok</summary>
-© https://www.tiktok.com/@bylickilabs
-</details></li>
-<li>
-<details>
-<summary>soundcloud</summary>
-© https://soundcloud.com/bylickilabs
-</details></li>
-<li> 
-<details>
-<summary>Instagram</summary>
-© https://www.instagram.com/Bylickilabs/
-</details></li>
-<li> 
-<details>
-<summary>Telegram</summary>
-© https://t.me/Bylickilabs  
 </details></li></ul>
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
