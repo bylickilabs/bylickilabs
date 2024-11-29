@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bylickilabs&label=Profile%20views&color=0e75b6&style=flat" alt="bylickilabs" /></p>
 </p>
 
-<center><a href="https://app.daily.dev/bylickilabs"><img src="https://api.daily.dev/devcards/v2/u5XmP7slgCNST2o3CiyC2.png?type=wide&r=sjl" width="652" alt="BYLICKILABS's Dev Card"/></a>
+<h3 align="center"><a href="https://app.daily.dev/bylickilabs"><img src="https://api.daily.dev/devcards/v2/u5XmP7slgCNST2o3CiyC2.png?type=wide&r=sjl" width="652" alt="BYLICKILABS's Dev Card"/></a>
  
 |![1](https://github.com/user-attachments/assets/fa2e36d7-3b3d-4140-bd36-94ffdfc51783)|
 |---|
