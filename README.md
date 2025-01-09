@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bylickilabs&label=Profile%20views&color=0e75b6&style=flat" alt="bylickilabs" /></p>
 </p>
 
-[![.github/workflows/main.yml](https://github.com/bylickilabs/AlphaDevelopment/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bylickilabs/AlphaDevelopment/actions/workflows/main.yml)
+[![pages-build-deployment](https://github.com/bylickilabs/AlphaDevelopment/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/bylickilabs/AlphaDevelopment/actions/workflows/pages/pages-build-deployment)
 
 > <h3 align="center">A passionate Developer from Germany</h3>
 
