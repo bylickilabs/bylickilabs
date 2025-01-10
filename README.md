@@ -19,7 +19,7 @@
 
 > **🏆 Trophys**: & **📈 Stats**:
 
-|![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=flat&margin-h=10&margin-w=10&no-frame=true&no-bg=false&column=-1)|
+|![](https://github-profile-trophy.vercel.app/?username=AlphaDevelopment&theme=flat&margin-h=10&margin-w=10&no-frame=true&no-bg=false&column=-1)|
 |---|
 
 |![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=dark&show_icons=true&hide_border=false&count_private=false)|![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=dark&show_icons=true&hide_border=false&layout=compact)|![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=dark&hide_border=false)|
