@@ -14,6 +14,9 @@
   - 👶 I was born on March 17th, 1982
   - ⚡ I'm a software Developer working on many Projects.
 ``` 
+## 🌐 Socials:
+|[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mpz2hJ6PM6) |[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bylickilabs) |[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b.y.l.i.c.k.i.l.a.b.s) |[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AlphaCorpDevs) |[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BYLICKILAB5) |[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlphaDevelopment)| <a href="https://dev.to/bylickilabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bylickilabs" height="30" width="40" /></a>|
+|---|---|---|---|---|---|---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
@@ -21,12 +24,6 @@
 
 |![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=monokai&no-frame=true&no-bg=true&margin-w=4)|
 |---|
-
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
-
-## 🌐 Socials:
-|[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mpz2hJ6PM6) |[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bylickilabs) |[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b.y.l.i.c.k.i.l.a.b.s) |[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AlphaCorpDevs) |[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BYLICKILAB5) |[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlphaDevelopment)| <a href="https://dev.to/bylickilabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bylickilabs" height="30" width="40" /></a>|
-|---|---|---|---|---|---|---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
