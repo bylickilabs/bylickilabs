@@ -1,5 +1,4 @@
-|<p align="left"> <img src="https://komarev.com/ghpvc/?username=bylickilabs&label=Profile%20views&color=0e75b6&style=flat" alt="bylickilabs" /></p>
-</p>|<p align="left"> <a href="https://twitter.com/bylickilab5" target="blank"><img src="https://img.shields.io/twitter/follow/bylickilab5?logo=twitter&style=for-the-badge" alt="bylickilab5" /></a> </p>|
+|<p align="left"> <img src="https://komarev.com/ghpvc/?username=bylickilabs&label=Profile%20views&color=0e75b6&style=flat" alt="bylickilabs" />|<p align="left"> <a href="https://twitter.com/bylickilab5" target="blank"><img src="https://img.shields.io/twitter/follow/bylickilab5?logo=twitter&style=for-the-badge" alt="bylickilab5" /></a>|
 |---|---|
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
