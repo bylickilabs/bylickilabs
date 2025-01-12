@@ -16,7 +16,8 @@
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
-> **🏆 Trophys**: & **📈 Stats**:
+> ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
 
 
 ## 🌐 Socials:
@@ -29,8 +30,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bylickilabs&limit=5&theme=dark&combine_all_yearly_contributions=true)
