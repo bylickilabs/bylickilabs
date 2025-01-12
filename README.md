@@ -12,7 +12,6 @@
   - 💍 Married since 2015
   - 👶 I was born on March 17th, 1982
   - ⚡ I'm a software Developer working on many Projects.
-  - 🌱 I’m currently learning **qbcore**
 ``` 
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
