@@ -5,7 +5,7 @@
 
 <!-- > <h3 align="center">A passionate Developer from Germany</h3> -->
 
-|![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=👨‍💻bylickilabs👨‍💻&text2=💖A%20passionate%20Developer%20from%20Germany&width=900&height=400)|
+|![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=👨‍💻bylickilabs👨‍💻&text2=💖A%20passionate%20Developer%20from%20Germany💖&width=900&height=400)|
 |---|
 
 ```yarn
