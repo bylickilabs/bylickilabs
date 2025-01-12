@@ -14,7 +14,7 @@
   - ⚡ I'm a software Developer working on many Projects.
 ``` 
 
-|![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=👨‍💻bylickilabs👨‍💻&text2=💖A%20passionate%20Developer%20from%20Germany💖<br><center>%20OWNER%20CEO%20DEV%20FOUNDER&width=900&height=400)|
+|![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=👨‍💻bylickilabs👨‍💻&text2=💖A%20passionate%20Developer%20from%20Germany💖%20<br>%20<center>%20OWNER%20CEO%20DEV%20FOUNDER&width=900&height=400)|
 |---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
