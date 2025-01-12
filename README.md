@@ -17,7 +17,6 @@
 > ## 🏆 GitHub Trophies
 
 |![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=monokai&no-frame=true&no-bg=true&margin-w=4)|
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=monokai" alt="bylickilabs" /></a> </p>
 |---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
