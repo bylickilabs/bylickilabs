@@ -7,15 +7,15 @@
 
 <!-- > <h3 align="center">A passionate Developer from Germany</h3> -->
 
-|![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=👨‍💻bylickilabs👨‍💻&text2=💖A%20passionate%20Developer%20from%20Germany💖&width=900&height=400)|
-|---|
-
 ```yarn
 • Hi there, I'm Bylickilabs from AlphaDevelopment👋
   - 💍 Married since 2015
   - 👶 I was born on March 17th, 1982
   - ⚡ I'm a software Developer working on many Projects.
 ``` 
+
+|![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=👨‍💻bylickilabs👨‍💻&text2=💖A%20passionate%20Developer%20from%20Germany💖&width=900&height=400)|
+|---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
