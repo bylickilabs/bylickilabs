@@ -37,15 +37,10 @@
 
 # 📊 GitHub Stats:
 
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|![](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)|![](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=dark&hide_border=false)|![](https://github-contributor-stats.vercel.app/api?username=bylickilabs&limit=5&theme=dark&combine_all_yearly_contributions=true)|[![](https://visitcount.itsvg.in/api?id=bylickilabs&icon=10&color=1)](https://visitcount.itsvg.in)|
-|---|---|---|---|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|![](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)|![](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=dark&hide_border=false)|![](https://github-contributor-stats.vercel.app/api?username=bylickilabs&limit=5&theme=dark&combine_all_yearly_contributions=true)|
+|---|---|---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
-
-### 🔝 Top Contributed Repo
-|![](https://github-contributor-stats.vercel.app/api?username=bylickilabs&limit=5&theme=dark&combine_all_yearly_contributions=true)|[![](https://visitcount.itsvg.in/api?id=bylickilabs&icon=10&color=1)](https://visitcount.itsvg.in)|
-|---|---|
-
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
