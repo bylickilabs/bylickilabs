@@ -24,13 +24,13 @@
 |---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
-
+-->
 > ## 📊 GitHub Stats:
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&show_icons=true&theme=transparent)|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)|
 |---|---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) -->
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
