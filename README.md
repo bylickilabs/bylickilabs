@@ -18,7 +18,7 @@
 |---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
-
+<!--
 > ## 🏆 GitHub Trophies
 |![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=monokai&margin-h=10&margin-w=10&no-frame=true&no-bg=true&column=-1)|
 |---|
@@ -30,7 +30,7 @@
 |---|---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) -->
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
