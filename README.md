@@ -14,8 +14,8 @@
   - 🚧 My special areas include HTML, CSS, JavaScript
 ```
 
-|![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=👨‍💻bylickilabs👨‍💻&text2=💖A%20passionate%20Developer%20from%20Germany💖&width=900&height=400)|
-|---|
+|![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=👨‍💻bylickilabs👨‍💻&text2=💖A%20passionate%20Developer%20from%20Germany💖&width=900&height=400)|![8454da84-3d4d-4835-93c8-b02fc5133a08](https://github.com/user-attachments/assets/8d5b072a-2ab2-4839-b215-0464542a1d2f)|
+|---|---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 <!--
