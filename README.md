@@ -13,9 +13,9 @@
   - 👨‍💻 I am currently working on various projects
   - 🚧 My special areas include HTML, CSS, JavaScript, PHP, LUA
 ```
-
+<!--
 |![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=👨‍💻bylickilabs👨‍💻&text2=💖A%20passionate%20Developer%20from%20Germany💖&width=900&height=400)|
-|---|
+|---| -->
 
 |![8454da84-3d4d-4835-93c8-b02fc5133a08_klein](https://github.com/user-attachments/assets/71a02f8f-7467-435a-a8e6-fd93de8d5579)|
 |---|
