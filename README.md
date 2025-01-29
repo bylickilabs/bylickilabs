@@ -27,7 +27,7 @@
 |![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=monokai&margin-h=10&margin-w=10&no-frame=true&no-bg=true&column=-1)|
 |---| 
 
-<!--![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) -->
+<!--![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
 
 > ## 📊 GitHub Stats:
 <a href="https://github.com/bylickilabs/github-readme-stats">
@@ -35,7 +35,7 @@
 </a>
 <a href="https://github.com/bylickilabs/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bylickilabs&repo=convoychat" />
-</a>
+</a> -->
 
 <!--
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) -->
