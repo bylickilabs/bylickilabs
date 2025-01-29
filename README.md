@@ -28,11 +28,6 @@ I am currently working on [Context-Menu-Lock](https://github.com/bylickilabs/Con
 |![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=monokai&margin-h=10&margin-w=10&no-frame=true&no-bg=true&column=-1)|
 |---| 
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <!--![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)
 
