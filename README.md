@@ -6,12 +6,6 @@
 |---|---|---|---|---|---|---|
 -->
 
-<div align="center">
-    <a href="https://discord.gg/mpz2hJ6PM6" target="_blank">
-        <img src="https://discordapp.com/api/guilds/857672921912836116/widget.png?style=banner3" alt="AlphaDevelopment" height="150px" />
-    </a>
-</div>
-
 ```yarn
 • Hi there, I'm Bylickilabs from AlphaDevelopment👋
   - 💍 Married since 2015
