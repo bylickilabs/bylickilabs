@@ -1,3 +1,6 @@
+|[![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs)|
+|---|
+
 <!-- |<img src="https://komarev.com/ghpvc/?username=bylickilabs&label=Profile%20views&color=0e75b6&style=flat" alt="bylickilabs" />|
 |---|
 
