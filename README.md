@@ -16,7 +16,7 @@
   - 💍 Married since 2015
   - 👶 I was born on March 17th, 1982
   - 👨‍💻 I am currently working on various projects
-  - 🚧 My special areas include HTML, CSS, JavaScript, PHP, LUA
+  - 🚧 My special areas include HTML, CSS, JavaScript, Python, PHP, LUA
 ```
 
 |![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=👨‍💻bylickilabs👨‍💻&text2=💖A%20passionate%20Developer%20from%20Germany💖&width=900&height=400)|
