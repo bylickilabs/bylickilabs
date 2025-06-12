@@ -1,6 +1,9 @@
 |[![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs)|[![Website](https://img.shields.io/badge/Website-Bylickilabs.de-blue?logo=Google-Chrome&logoColor=white&style=for-the-badge)](https://www.bylickilabs.de)|
 |---|---|
 
+|![488221725_1046325157560452_5094291702418295903_n](https://github.com/user-attachments/assets/fbc63913-77c8-46e9-865b-31f47504f076)|
+|---|
+
 <!-- |<img src="https://komarev.com/ghpvc/?username=bylickilabs&label=Profile%20views&color=0e75b6&style=flat" alt="bylickilabs" />|
 |---|
 
