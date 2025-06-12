@@ -22,9 +22,6 @@
   - 🚧 My special areas include HTML, CSS, JavaScript, Python, PHP, LUA
 ```
 
-|![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=👨‍💻bylickilabs👨‍💻&text2=💖A%20passionate%20Developer%20from%20Germany💖&width=900&height=400)|
-|---|
-
 |![bylickilabs's Stats](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)|![bylickilabs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bylickilabs&theme=tokyonight&hide_border=true)|![bylickilabs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)|
 |---|---|---|
 
