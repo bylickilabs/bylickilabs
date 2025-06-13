@@ -27,7 +27,7 @@
 |![](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=bylickilabs&theme=great-gatsby&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)|
 |---|---|---|
 
-|![](https://raw.githubusercontent.com/bylickilabs/github-stats/master/generated/overview.svg#gh-light-mode-only)|
+|![](https://raw.githubusercontent.com/bylickilabs/github-stats/master/generated/overview.svg#gh-dark-mode-only)|
 |---|
 
 <!--|![8454da84-3d4d-4835-93c8-b02fc5133a08_klein](https://github.com/user-attachments/assets/71a02f8f-7467-435a-a8e6-fd93de8d5579)|
