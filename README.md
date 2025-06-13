@@ -1,5 +1,4 @@
-|[![](https://visitcount.itsvg.in/api?id=bylickilabs&icon=0&color=0)](https://visitcount.itsvg.in)|
-|---|
+[![](https://visitcount.itsvg.in/api?id=bylickilabs&icon=0&color=0)](https://visitcount.itsvg.in)
 
 |[![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs)|[![Website](https://img.shields.io/badge/Website-Bylickilabs.de-blue?logo=Google-Chrome&logoColor=white&style=for-the-badge)](https://www.bylickilabs.de)|
 |---|---|
