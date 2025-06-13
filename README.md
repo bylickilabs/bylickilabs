@@ -24,18 +24,17 @@
   - 🚧 My special areas include HTML, CSS, JavaScript, Python, PHP, LUA
 ```
 
-|![](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=bylickilabs&theme=great-gatsby&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)|
-|---|---|---|
+|![](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=bylickilabs&theme=great-gatsby&hide_border=false) |
+|---|---|
 
-<!--|![8454da84-3d4d-4835-93c8-b02fc5133a08_klein](https://github.com/user-attachments/assets/71a02f8f-7467-435a-a8e6-fd93de8d5579)|
-|---|
--->
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=radical) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&layout=compact&theme=radical&langs_count=20)
+|---|---|
+
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
 > ## 🏆 GitHub Trophies
 |![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=monokai&margin-h=10&margin-w=10&no-frame=true&no-bg=true&column=-1)|
 |---| 
-
 
 <br>
 
