@@ -29,6 +29,16 @@
 • 👨‍💻 I am currently working on various projects
 • ⚙️ Focused on innovation, encryption, and forensic automation
 • 🚧 My special areas include HTML, CSS, JavaScript, Python, RUBY, RUST, PHP, LUA
+
+🧠 What Drives Me
+• "I build systems that don't just function — they understand."  
+•  Technology, to me, is not a tool. It's a language, a mindset, a mirror.
+
+🤝 Soft Skills
+• 🔍 Analytical thinking & structured debugging  
+• ✍️ Documentation & technical communication  
+• 🤝 Team collaboration – both remote & cross-disciplinary  
+• 🧩 Problem-solving under time pressure
 ```
 
 <br>
