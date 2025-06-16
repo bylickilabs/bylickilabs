@@ -14,13 +14,24 @@
 |[Discord for our FiveM - GTAV Server](https://discord.gg/8CSVNswc)|[NEW GTAV Forum](https://gtav-nexus.de)|
 |---|---|
 -->
+<br>
+
+#### 👨‍💻 Bylickilabs – OWwner • CEO • Developer • Founder • Analyst • Technologist
+
+- Hi, I’m **Bylickilabs** – founder of **AlphaDevelopment** and creator of systems that don’t just function, but *understand*. 
+  - I specialize in application development, system integration, and cybersecurity.
+
 ```yarn
-• Hi there, I'm Bylickilabs from AlphaDevelopment👋
-  - 💍 Married since 2015
-  - 👶 I was born on March 17th, 1982
-  - 👨‍💻 I am currently working on various projects
-  - 🚧 My special areas include HTML, CSS, JavaScript, Python, PHP, LUA
+• 💍 Married since 2015
+• 👶 I was born on March 17th, 1982
+• 🌍 Based in Germany
+• 🌍 Born in Austria  
+• 👨‍💻 I am currently working on various projects
+• ⚙️ Focused on innovation, encryption, and forensic automation
+• 🚧 My special areas include HTML, CSS, JavaScript, Python, RUBY, RUST, PHP, LUA
 ```
+
+<br>
 
 |![](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=bylickilabs&theme=great-gatsby&hide_border=false) |
 |---|---|
