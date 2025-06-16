@@ -16,7 +16,7 @@
 -->
 <br>
 
-#### 👨‍💻 Bylickilabs – OWwner • CEO • Developer • Founder • Analyst • Technologist
+#### 👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist
 
 - Hi, I’m **Bylickilabs** – founder of **AlphaDevelopment** and creator of systems that don’t just function, but *understand*. 
   - I specialize in application development, system integration, and cybersecurity.
