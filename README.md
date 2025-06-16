@@ -1,11 +1,14 @@
 | [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) 
 |---|
 
-| ![Developer](https://img.shields.io/badge/Role-Developer-cc0000?style=for-the-badge&logo=terminal&logoColor=white) | ![Founder](https://img.shields.io/badge/Founder-AlphaDevelopment-cc0000?style=for-the-badge&logo=codeberg&logoColor=white) | ![AI Engineer](https://img.shields.io/badge/AI-Tamiusz%20Creator-cc0000?style=for-the-badge&logo=brainly&logoColor=white) | ![MindDump](https://img.shields.io/badge/Project-MindDump-cc0000?style=for-the-badge&logo=markdown&logoColor=white) | ![Tamiusz](https://img.shields.io/badge/AI-Tamiusz-cc0000?style=for-the-badge&logo=artstation&logoColor=white) | ![BEA-512](https://img.shields.io/badge/Encryption-BEA--512-cc0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white) | ![TraceHunter](https://img.shields.io/badge/Forensics-TraceHunter-cc0000?style=for-the-badge&logo=search&logoColor=white) |
-|---|---|---|---|---|---|---|
+| ![Developer](https://img.shields.io/badge/Role-Developer-cc0000?style=for-the-badge&logo=terminal&logoColor=white) | ![Founder](https://img.shields.io/badge/Founder-AlphaDevelopment-cc0000?style=for-the-badge&logo=codeberg&logoColor=white) | ![MindDump](https://img.shields.io/badge/Project-MindDump-cc0000?style=for-the-badge&logo=markdown&logoColor=white) | ![Tamiusz](https://img.shields.io/badge/AI-Tamiusz-cc0000?style=for-the-badge&logo=artstation&logoColor=white) | ![BEA-512](https://img.shields.io/badge/Encryption-BEA--512-cc0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white) | ![TraceHunter](https://img.shields.io/badge/Forensics-TraceHunter-cc0000?style=for-the-badge&logo=search&logoColor=white) |
+|---|---|---|---|---|---|
 
-| ![Status](https://img.shields.io/badge/Status-Stable-cc0000?style=for-the-badge&logo=codefactor&logoColor=white) | ![Privacy](https://img.shields.io/badge/Privacy-GDPR%20Compliant-cc0000?style=for-the-badge&logo=keepassxc&logoColor=white) | ![Design](https://img.shields.io/badge/Design-Terminal%20First-cc0000?style=for-the-badge&logo=gnometerminal&logoColor=white) | ![Security](https://img.shields.io/badge/Security-Zero%20Trust-cc0000?style=for-the-badge&logo=datadog&logoColor=white) | ![Dump Active](https://img.shields.io/badge/Dump-Thought%20Protocol%20Active-cc0000?style=for-the-badge&logo=obsidian&logoColor=white) | ![Log Level](https://img.shields.io/badge/Log-Level%3A%20Deep%20System%20Insight-cc0000?style=for-the-badge&logo=logstash&logoColor=white) | ![Integrity](https://img.shields.io/badge/Integrity-Signed%20by%20Bylickilabs-cc0000?style=for-the-badge&logo=gnupg&logoColor=white) |
-|---|---|---|---|---|---|---|
+| ![Status](https://img.shields.io/badge/Status-Stable-cc0000?style=for-the-badge&logo=codefactor&logoColor=white) | ![Privacy](https://img.shields.io/badge/Privacy-GDPR%20Compliant-cc0000?style=for-the-badge&logo=keepassxc&logoColor=white) | ![Design](https://img.shields.io/badge/Design-Terminal%20First-cc0000?style=for-the-badge&logo=gnometerminal&logoColor=white) | 
+|---|---|---|
+
+![Security](https://img.shields.io/badge/Security-Zero%20Trust-cc0000?style=for-the-badge&logo=datadog&logoColor=white) | ![Dump Active](https://img.shields.io/badge/Dump-Thought%20Protocol%20Active-cc0000?style=for-the-badge&logo=obsidian&logoColor=white) | ![Log Level](https://img.shields.io/badge/Log-Level%3A%20Deep%20System%20Insight-cc0000?style=for-the-badge&logo=logstash&logoColor=white) | ![Integrity](https://img.shields.io/badge/Integrity-Signed%20by%20Bylickilabs-cc0000?style=for-the-badge&logo=gnupg&logoColor=white) |
+|---|---|---|---|
 
 |![banner](https://github.com/user-attachments/assets/2e838a14-2ee8-40d8-8990-10b8334c2f99)|
 |---|
