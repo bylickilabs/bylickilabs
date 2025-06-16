@@ -1,6 +1,12 @@
 | [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) 
 |---|
 
+| ![Developer](https://img.shields.io/badge/Role-Developer-cc0000?style=for-the-badge&logo=terminal&logoColor=white) | ![Founder](https://img.shields.io/badge/Founder-AlphaDevelopment-cc0000?style=for-the-badge&logo=codeberg&logoColor=white) | ![AI Engineer](https://img.shields.io/badge/AI-Tamiusz%20Creator-cc0000?style=for-the-badge&logo=brainly&logoColor=white) |
+|---|---|---|
+
+|![MindDump](https://img.shields.io/badge/Project-MindDump-cc0000?style=for-the-badge&logo=markdown&logoColor=white) | ![Tamiusz](https://img.shields.io/badge/AI-Tamiusz-cc0000?style=for-the-badge&logo=artstation&logoColor=white) | ![BEA-512](https://img.shields.io/badge/Encryption-BEA--512-cc0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white) | ![TraceHunter](https://img.shields.io/badge/Forensics-TraceHunter-cc0000?style=for-the-badge&logo=search&logoColor=white) |
+|---|---|---|---|
+
 | ![Status](https://img.shields.io/badge/Status-Stable-cc0000?style=for-the-badge&logo=codefactor&logoColor=white) | ![Privacy](https://img.shields.io/badge/Privacy-GDPR%20Compliant-cc0000?style=for-the-badge&logo=keepassxc&logoColor=white) | ![Design](https://img.shields.io/badge/Design-Terminal%20First-cc0000?style=for-the-badge&logo=gnometerminal&logoColor=white) | ![Security](https://img.shields.io/badge/Security-Zero%20Trust-cc0000?style=for-the-badge&logo=datadog&logoColor=white) |
 |---|---|---|---|
 
