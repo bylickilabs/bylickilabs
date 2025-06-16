@@ -25,7 +25,6 @@
 • 💍 Married since 2015
 • 👶 I was born on March 17th, 1982
 • 🌍 Based in Germany
-• 🌍 Born in Austria  
 • 👨‍💻 I am currently working on various projects
 • ⚙️ Focused on innovation, encryption, and forensic automation
 • 🚧 My special areas include HTML, CSS, JavaScript, Python, RUBY, RUST, PHP, LUA
