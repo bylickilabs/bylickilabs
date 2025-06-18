@@ -1,5 +1,3 @@
-# .github/workflows/snake.yml
-
 name: Generate Snake Contribution Grid
 
 on:
@@ -10,20 +8,21 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Snake SVG
+      - name: Generate Snake SVG (Grün-Schwarz)
         uses: Platane/snk@v3
         with:
-          github_user_name: $bylickilabs
+          github_user_name: bylickilabs
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-green.svg?palette=github-dark-dimmed
 
-      - name: Deploy to GitHub Pages (output branch)
+      - name: Deploy Snake to GitHub Pages (output branch)
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
