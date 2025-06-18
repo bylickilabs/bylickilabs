@@ -54,6 +54,8 @@
 |![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=monokai&margin-h=10&margin-w=10&no-frame=true&no-bg=true&column=-1)|
 |---| 
 
+|![Snake animation](https://github.com/bylickilabs/bylickilabs/blob/output/github-contribution-grid-snake.svg?raw=true)|
+|---|
 <br>
 
 ---
