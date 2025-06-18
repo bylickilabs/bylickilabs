@@ -1,28 +1,25 @@
-name: Generate Snake Contribution Grid
+name: Snake Test CI
 
 on:
-  schedule:
-    - cron: "0 * * * *"  # stündlich (UTC)
   workflow_dispatch:
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Generate Snake SVG (green/black)
+      - name: Download Snake SVG
         run: |
           mkdir -p dist
           curl -s "https://snake-graph.vercel.app/api/github-contribution-grid?username=bylickilabs&palette=github-dark-dimmed" -o dist/github-snake-green.svg
-          echo "snake_path=dist/github-snake-green.svg" >> $GITHUB_OUTPUT
+          ls -lah dist
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push to output
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git fetch origin output || git checkout --orphan output
+          git switch output || git checkout -b output
+          cp dist/github-snake-green.svg github-snake-green.svg
+          git add github-snake-green.svg
+          git commit -m "Add snake graphic" || echo "No changes"
+          git push origin output
