@@ -1,25 +1,37 @@
-name: Snake Test CI
+name: Generate Snake SVG (bylickilabs)
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
 
 jobs:
   snake:
     runs-on: ubuntu-latest
-    steps:
-      - name: Download Snake SVG
-        run: |
-          mkdir -p dist
-          curl -s "https://snake-graph.vercel.app/api/github-contribution-grid?username=bylickilabs&palette=github-dark-dimmed" -o dist/github-snake-green.svg
-          ls -lah dist
 
-      - name: Push to output
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Clone or Init Output Branch
         run: |
-          git config --global user.name "GitHub Actions"
+          git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git fetch origin output || git checkout --orphan output
-          git switch output || git checkout -b output
-          cp dist/github-snake-green.svg github-snake-green.svg
+
+          git fetch origin output || echo "No remote output branch"
+          git switch output || git checkout --orphan output
+          git reset --hard
+          git rm -rf .
+          mkdir -p dist
+
+      - name: Generate Snake SVG
+        run: |
+          curl -s "https://snake-graph.vercel.app/api/github-contribution-grid?username=bylickilabs&palette=github-dark-dimmed" -o dist/github-snake-green.svg
+          ls -lah dist/
+
+      - name: Commit and Push to Output Branch
+        run: |
+          cp dist/github-snake-green.svg .
           git add github-snake-green.svg
-          git commit -m "Add snake graphic" || echo "No changes"
+          git commit -m "Update snake graphic"
           git push origin output
