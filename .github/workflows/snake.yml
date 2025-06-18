@@ -1,37 +1,32 @@
-name: Generate Snake SVG (bylickilabs)
+name: Generate Snake Contribution Grid
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # jede Stunde
+  workflow_dispatch:
 
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Clone or Init Output Branch
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+      - name: Generate Snake (SVG + GIF + Green Style)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: bylickilabs
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-green.svg?palette=github-dark-dimmed
+            dist/ocean.gif?color_snake=#00ff88&color_dots=#0d1117,#00ff88,#00cc66,#009944,#007733
 
-          git fetch origin output || echo "No remote output branch"
-          git switch output || git checkout --orphan output
-          git reset --hard
-          git rm -rf .
-          mkdir -p dist
-
-      - name: Generate Snake SVG
-        run: |
-          curl -s "https://snake-graph.vercel.app/api/github-contribution-grid?username=bylickilabs&palette=github-dark-dimmed" -o dist/github-snake-green.svg
-          ls -lah dist/
-
-      - name: Commit and Push to Output Branch
-        run: |
-          cp dist/github-snake-green.svg .
-          git add github-snake-green.svg
-          git commit -m "Update snake graphic"
-          git push origin output
+      - name: Deploy to GitHub Pages (output branch)
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
