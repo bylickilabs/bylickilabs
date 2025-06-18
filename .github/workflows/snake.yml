@@ -2,7 +2,7 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 * * * *"  # jede volle Stunde (UTC)
+    - cron: "0 * * * *"  # stündlich (UTC)
   workflow_dispatch:
 
 jobs:
@@ -13,16 +13,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG (Grün-Schwarz)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: bylickilabs
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-green.svg?palette=github-dark-dimmed
+      - name: Generate Snake SVG (green/black)
+        run: |
+          mkdir -p dist
+          curl -s "https://snake-graph.vercel.app/api/github-contribution-grid?username=bylickilabs&palette=github-dark-dimmed" -o dist/github-snake-green.svg
+          echo "snake_path=dist/github-snake-green.svg" >> $GITHUB_OUTPUT
 
-      - name: Deploy Snake to GitHub Pages (output branch)
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
