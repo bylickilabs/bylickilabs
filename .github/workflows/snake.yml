@@ -1,0 +1,32 @@
+# .github/workflows/snake.yml
+
+name: Generate Snake Contribution Grid
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # jede volle Stunde (UTC)
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-green.svg?palette=github-dark-dimmed
+
+      - name: Deploy to GitHub Pages (output branch)
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
