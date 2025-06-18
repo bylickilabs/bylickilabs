@@ -1,0 +1,33 @@
+name: 🐍 Generate Snake Game (Hourly)
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 🐍 Generate GitHub Snake in Green
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-green.svg?palette=custom
+
+      - name: 📤 Commit Snake Output
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "🐍 [Automated] Snake update (Hourly)"
+          add: "dist/"
+
+      - name: 🚀 Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
