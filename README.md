@@ -29,11 +29,14 @@
 • ⚙️ Focused on innovation, encryption, and forensic automation
 • 🚧 My special areas include HTML, CSS, JavaScript, Python, RUBY, RUST, PHP, LUA
 
-🧠 What Drives Me
-• "I build systems that don't just function — they understand."  
-•  Technology, to me, is not a tool. It's a language, a mindset, a mirror.
+🌟 What Drives Me:
+• 🪞 Technology is not just a tool – it's a language, a mindset, a mirror.
+• 🧠 Building systems that adapt and think  
+• ⚙️ Merging engineering with intelligence  
+• 🧩 Automating analysis and encryption  
+• 🔍 Deep-dive problem solving under pressure  
 
-🤝 Soft Skills
+🤝 Soft Skills:
 • 🔍 Analytical thinking & structured debugging  
 • ✍️ Documentation & technical communication  
 • 🤝 Team collaboration – both remote & cross-disciplinary  
