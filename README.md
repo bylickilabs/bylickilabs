@@ -42,6 +42,74 @@
 
 <br>
 
+---
+
+<br>
+
+> 🚀 Featured Projects
+  - A curated selection of tools, frameworks, security modules, and utilities developed by **Bylickilabs**.
+
+---
+
+|🧩 Templates & Starters|
+|---|
+
+- 🌐 [`NeonStarter`](https://github.com/bylickilabs/neonstarter) — Animated UI starter with theme switch and neon visuals
+- 🧠 [`FocusPulse`](https://github.com/bylickilabs/focuspulse) — Productivity dashboard with timer logic and session tracking
+- 💼 [`FocusPulse-Pro`](https://github.com/bylickilabs/focuspulse-pro) — Advanced version with analytics, sound modules, and reporting
+- 🔤 [`MD-Crypter`](https://github.com/bylickilabs/md-crypter) — Markdown encryption and decryption with browser support
+- 📋 [`Organizer`](https://github.com/bylickilabs/organizer) — Smart note & file organizer with encryption support
+
+---
+
+|🔐 Security & Encryption|
+|---|
+
+- 🔒 [`NeonPGP`](https://github.com/bylickilabs/neonpgp) — Browser-based PGP tool with local key storage and secure download
+- 🧬 [`QuantumKeys-PGP`](https://github.com/bylickilabs/quantumkeys-pgp) — Next-gen encryption interface using quantum-safe principles
+- 📧 [`Email_En-Decryption`](https://github.com/bylickilabs/email-en-decryption) — Client-side encryption for emails with public key handling
+- 🔐 [`SecurePass`](https://github.com/bylickilabs/securepass) — Secure password manager with local encryption and no backend
+- 🧿 [`Password-Manager`](https://github.com/bylickilabs/password-manager) — Offline password storage & generation with clipboard safety
+- 🔁 [`PasswordGenerator`](https://github.com/bylickilabs/passwordgenerator) — Customizable password generator with export functions
+- 🔐 [`NeonCryptProSuite`](https://github.com/bylickilabs/neoncryptprosuite) — Full encryption toolkit with file, string, and key features
+
+---
+
+|🕵️‍♂️ Forensics & Monitoring|
+|---|
+
+- 🕵️ [`TraceHunter`](https://github.com/bylickilabs/tracehunter) — Web forensic suite with EXIF, hash, and content scanning
+- 🔎 [`Sleuth`](https://github.com/bylickilabs/sleuth) — Visual metadata explorer with timeline and geo tagging
+- 🧮 [`SysScope`](https://github.com/bylickilabs/sysscope) — Full system diagnostics toolkit for analysis and reporting
+- 🖧  [`SpeedScanX`](https://github.com/bylickilabs/speedscanx) — Real-time network scanner with Speedport/Router interface
+- 🔍 [`Link-Checker`](https://github.com/bylickilabs/link-checker) — Dead-link finder with colored output, CSV export, and domain filter
+- 🛡️ [`NetProtect`](https://github.com/bylickilabs/netprotect) — Network shield interface with port and firewall monitoring
+
+---
+
+|🧠 Tools & Workflow|
+|---|
+
+- ⚙️ [`Context-menu-Lock`](https://github.com/bylickilabs/context-menu-lock) — Client-side DevTools blocker and context protection
+- 🧰 [`HashForge`](https://github.com/bylickilabs/hashforge) — Hash calculator supporting MD5, SHA, bcrypt with cost selector
+- 📂 [`Image_Konverter`](https://github.com/bylickilabs/image-konverter) — File conversion interface (PDF, HEIC, TXT, JPG)
+- 🔄 [`System-Diagnose-Tool`](https://github.com/bylickilabs/system-diagnose-tool) — Node-based diagnostics for networking and services
+- 🧠 [`TaskFlow-One`](https://github.com/bylickilabs/taskflow-one) — AI-supported task and process planner with timeline
+- 🔡 [`CodePulse`](https://github.com/bylickilabs/codepulse) — Online code editor with syntax highlighting and neon preview
+
+---
+
+|🧪 Simulation & Gamified Systems|
+|---|
+- 👤 [`ZeroTrace`](https://github.com/bylickilabs/zerotrace) — Hacker simulation game with terminal-like challenges and upload tools
+- ⏳ [`
+
+<br>
+
+---
+
+<br>
+
 |![](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=bylickilabs&theme=great-gatsby&hide_border=false) |
 |---|---|
 
