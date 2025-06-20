@@ -49,8 +49,6 @@
 > 🚀 Featured Projects
   - A curated selection of tools, frameworks, security modules, and utilities developed by **Bylickilabs**.
 
----
-
 |🧩 Templates & Starters|
 |---|
 
@@ -102,7 +100,7 @@
 |🧪 Simulation & Gamified Systems|
 |---|
 - 👤 [`ZeroTrace`](https://github.com/bylickilabs/zerotrace) — Hacker simulation game with terminal-like challenges and upload tools
-- ⏳ [`
+- ⏳ [`ChronoCraft`](https://github.com/bylickilabs/chronocraft) — Visual timeline builder for project planning and story mapping
 
 <br>
 
