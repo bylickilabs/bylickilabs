@@ -58,7 +58,7 @@
 |---| 
 
 > ## 🐍 Github Snake
-|![](https://raw.githubusercontent.com/bylickilabs/bylickilabs/0e723895a0cc320b48fb1625f2000a97b5f9dabd/github-snake-dark.svg)|
+|![](https://github.com/bylickilabs/bylickilabs/blob/refs/heads/output/github-snake-dark.svg)|
 |---|
 
 <br>
