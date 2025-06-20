@@ -79,7 +79,7 @@
 - 🕵️ [`TraceHunter`](https://github.com/bylickilabs/tracehunter) — Web forensic suite with EXIF, hash, and content scanning
 - 🔎 [`Sleuth`](https://github.com/bylickilabs/sleuth) — Visual metadata explorer with timeline and geo tagging
 - 🧮 [`SysScope`](https://github.com/bylickilabs/sysscope) — Full system diagnostics toolkit for analysis and reporting
-- 🖧  [`SpeedScanX`](https://github.com/bylickilabs/speedscanx) — Real-time network scanner with Speedport/Router interface
+- 🖧 &nbsp;[`SpeedScanX`](https://github.com/bylickilabs/speedscanx) — Real-time network scanner with Speedport/Router interface
 - 🔍 [`Link-Checker`](https://github.com/bylickilabs/link-checker) — Dead-link finder with colored output, CSV export, and domain filter
 - 🛡️ [`NetProtect`](https://github.com/bylickilabs/netprotect) — Network shield interface with port and firewall monitoring
 
