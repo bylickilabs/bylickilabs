@@ -6,7 +6,10 @@
 
 <br>
 
-#### 👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist
+<details>
+  <summary>#### 👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist</summary>
+
+<br>
 
 - Hi, I’m **Bylickilabs** – founder of and creator of systems that don’t just function, but *understand*. 
   - I specialize in application development, system integration, and cybersecurity.
@@ -32,6 +35,8 @@
 • 🤝 Team collaboration – both remote & cross-disciplinary  
 • 🧩 Problem-solving under time pressure
 ```
+
+</details>
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
