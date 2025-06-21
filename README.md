@@ -7,7 +7,7 @@
 <br>
 
 <details>
-  <summary>#### 👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist</summary>
+  <summary>👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist</summary>
 
 <br>
 
