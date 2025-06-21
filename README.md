@@ -43,7 +43,7 @@
 <br>
 
 <details>
-  <summary>🚀 Featured Projects anzeigen</summary>
+  <summary>🚀 Featured Projects</summary>
 
 <br>
 
@@ -105,7 +105,7 @@
 
 
 <details>
-  <summary>💻 Tech Stack anzeigen</summary>
+  <summary>💻 Tech Stack</summary>
 
 <br>
 
