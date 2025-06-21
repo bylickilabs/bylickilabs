@@ -43,7 +43,9 @@
 • 🧩 Problem-solving under time pressure
 ```
 
+---
 
+<br>
 
 <details>
   <summary>🚀 Featured Projects anzeigen</summary>
@@ -160,7 +162,6 @@
 
 ---
 
-<br>
 
 |![](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=bylickilabs&theme=great-gatsby&hide_border=false) |
 |---|---|
