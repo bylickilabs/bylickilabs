@@ -11,7 +11,7 @@
 
 <br>
 
-- Hi, I’m **Bylickilabs** – founder of and creator of systems that don’t just function, but *understand*. 
+- Hi, I’m **Bylickilabs** – founder and creator of systems that don’t just function, but *understand*. 
   - I specialize in application development, system integration, and cybersecurity.
 
 ```yarn
