@@ -1,0 +1,29 @@
+{
+  "name": "mein-projekt",
+  "version": "1.0.0",
+  "description": "Modernes Node.js-Projekt mit CI/CD, Labeler und automatischen Tests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bylickilabs/bylickilabs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ci",
+    "cicd",
+    "eslint",
+    "jest",
+    "github-actions"
+  ],
+  "author": "Thorsten Bylicki",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0"
+  }
+}
