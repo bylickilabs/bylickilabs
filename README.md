@@ -4,6 +4,10 @@
 |![banner](https://github.com/user-attachments/assets/2e838a14-2ee8-40d8-8990-10b8334c2f99)|
 |---|
 
+|RELEASE|
+|---|
+|![image](https://github.com/user-attachments/assets/2e93c8a5-0d61-43b2-adb1-b41d048dcdec)[LINK](https://bylickilabs.github.io/github-table-maker/)|
+
 <br>
 
 <details>
