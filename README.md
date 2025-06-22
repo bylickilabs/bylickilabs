@@ -1,9 +1,6 @@
 | [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs)  | [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![CodeCryptor - HTML/CSS/JS Obfuscator](https://img.shields.io/badge/CodeCryptor-►%20HTML%2FCSS%2FJS%20◄-brightgreen?style=for-the-badge&logo=javascript&logoColor=white)](https://bylickilabs.github.io/CodeCryptor/) |
 |---|---|---|---|
 
-|![banner](https://github.com/user-attachments/assets/2e838a14-2ee8-40d8-8990-10b8334c2f99)|
-|---|
-
 |RELEASE|
 |---|
 |![image](https://github.com/user-attachments/assets/2e93c8a5-0d61-43b2-adb1-b41d048dcdec)[LINK](https://bylickilabs.github.io/github-table-maker/)|
