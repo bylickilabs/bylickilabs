@@ -9,9 +9,10 @@
 
 <br>
 
-|RELEASE 22/06/2025 - 10:00 Uhr|
-|---|
-|![image](https://github.com/user-attachments/assets/2e93c8a5-0d61-43b2-adb1-b41d048dcdec)[LINK](https://bylickilabs.github.io/github-table-maker/)|
+> RELEASE 22/06/2025 - 10:00 Uhr
+
+|![logo](https://github.com/user-attachments/assets/cff67778-40aa-4f11-a8ff-7d40970d4be9)[LINK](https://bylickilabs.github.io/github-table-maker/)|![image](https://github.com/user-attachments/assets/2e93c8a5-0d61-43b2-adb1-b41d048dcdec)|
+|---|---|
 
 <br>
 
