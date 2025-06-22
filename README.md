@@ -9,13 +9,6 @@
 
 <br>
 
-> RELEASE 22/06/2025 - 10:00 Uhr
-
-|![logo](https://github.com/user-attachments/assets/cff67778-40aa-4f11-a8ff-7d40970d4be9)[LINK](https://bylickilabs.github.io/github-table-maker/)|![image](https://github.com/user-attachments/assets/2e93c8a5-0d61-43b2-adb1-b41d048dcdec)|
-|---|---|
-
-<br>
-
 <details>
   <summary>👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist</summary>
 
@@ -60,6 +53,12 @@
 <br>
 
 > Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.
+
+---
+
+### 📋 Github TableMaker
+
+- 📋 [`TableMaker`](https://github.com/bylickilabs/github-table-maker) — Intuitive Web App for Rapid Creation and Editing of Markdown Tables
 
 ---
 
