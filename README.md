@@ -49,15 +49,11 @@
 
 <details>
   <summary>🚀 Featured Projects</summary>
-
-<br>
-
-> Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.
-
----
-
-### 📋 Github TableMaker
-
+<br>  
+   - Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>
+ 
+### 📋 Github TableMaker<br>
+> 🚀 RELEASE 22/06/2025 | 10:00 Uhr
 - 📋 [`TableMaker`](https://github.com/bylickilabs/github-table-maker) — Intuitive Web App for Rapid Creation and Editing of Markdown Tables
 
 ---
