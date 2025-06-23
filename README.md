@@ -12,8 +12,10 @@
 <br>
 
 > Interactive Tutorial's
-  - Available on (DE)
-    - 👉 Click the badge to go directly to the GH Page
+  - stand.: 23/06/2025 | 22:00
+
+- Available on (DE)
+  - 👉 Click the badge to go directly to the GH Page
 
 | [![GitHub Pages](https://img.shields.io/badge/Tutorial%20-HTML%20Guide-neon?style=for-the-badge&logo=html5&logoColor=white)](https://bylickilabs.github.io/HTML-Guide/) | [![GitHub Pages](https://img.shields.io/badge/Tutorial%20-CSS%20Guide-19fff2?style=for-the-badge&logo=css3&logoColor=white)](https://bylickilabs.github.io/CSS-Guide/) | [![MD Guide](https://img.shields.io/badge/Tutorial-MD%20Guide-ff2be6?style=for-the-badge&logo=markdown&logoColor=white)](https://bylickilabs.github.io/MD-Guide/) |
 |---|---|---|
