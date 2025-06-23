@@ -11,7 +11,7 @@
 
 <br>
 
-> Interactive Tutorial's | 23/06/2025 | 23:30
+> Interactive Tutorial's | 23/06/2025 | 23:45
   - Available on (DE)
     - 👉 Click the badge to go directly to the GH Page
       - EXCLUSIVE
