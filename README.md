@@ -19,8 +19,8 @@
 | [![GitHub Pages](https://img.shields.io/badge/Tutorial%20-HTML%20Guide-neon?style=for-the-badge&logo=html5&logoColor=white)](https://bylickilabs.github.io/HTML-Guide/) | [![GitHub Pages](https://img.shields.io/badge/Tutorial%20-CSS%20Guide-19fff2?style=for-the-badge&logo=css3&logoColor=white)](https://bylickilabs.github.io/CSS-Guide/) | [![Python Guide](https://img.shields.io/badge/Tutorial-Python%20Guide-43c7ff?style=for-the-badge&logo=python&logoColor=white)](https://bylickilabs.github.io/Python-Guide/) | [![MD Guide](https://img.shields.io/badge/Tutorial-MD%20Guide-ff2be6?style=for-the-badge&logo=markdown&logoColor=white)](https://bylickilabs.github.io/MD-Guide/) |
 |---|---|---|---|
 
-| [![Batch Guide](https://img.shields.io/badge/Tutorial-Batch%20Guide-ff2be6?style=for-the-badge&logo=windows&logoColor=white)](https://bylickilabs.github.io/Batch-Guide/) |
-|---|
+| [![Batch Guide](https://img.shields.io/badge/Tutorial-Batch%20Guide-ff2be6?style=for-the-badge&logo=windows&logoColor=white)](https://bylickilabs.github.io/Batch-Guide/) | [![PHP Guide](https://img.shields.io/badge/Tutorial-PHP%20Guide-8ac2ec?style=for-the-badge&logo=php&logoColor=white)](https://bylickilabs.github.io/PHP-Guide/) |
+|---|---|
 
 <br>
 
