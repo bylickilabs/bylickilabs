@@ -22,7 +22,7 @@
 | [![Batch Guide](https://img.shields.io/badge/Tutorial-Batch%20Guide-ff2be6?style=for-the-badge&logo=windows&logoColor=white)](https://bylickilabs.github.io/Batch-Guide/) | [![PHP Guide](https://img.shields.io/badge/Tutorial-PHP%20Guide-8ac2ec?style=for-the-badge&logo=php&logoColor=white)](https://bylickilabs.github.io/PHP-Guide/) | [![CodeCryptor - HTML/CSS/JS Obfuscator](https://img.shields.io/badge/CodeCryptor-►%20HTML%2FCSS%2FJS%20◄-brightgreen?style=for-the-badge&logo=javascript&logoColor=white)](https://bylickilabs.github.io/CodeCryptor/) | [![GitHub Table Maker – Live Demo](https://img.shields.io/badge/GitHub%20Pages-Table%20Maker-%2319fff2?style=for-the-badge&logo=github)](https://bylickilabs.github.io/github-table-maker/) |
 |---|---|---|---|
 
-| ![CroplyTech – Neon Web-Tool Badge](https://img.shields.io/badge/CroplyTech-%20Web--Tool-%2300fff7?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=141e2e) |
+| [![CroplyTech – Web-Tool](https://img.shields.io/badge/CroplyTech-Web--Tool-%2300fff7?style=for-the-badge&logo=code&logoColor=white&labelColor=141e2e)](https://bylickilabs.github.io/CroplyTech/) |
 |---|
 
 <br>
