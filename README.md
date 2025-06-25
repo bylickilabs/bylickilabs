@@ -8,7 +8,7 @@
 
 <br>
 
-> Interactive Tutorial's & Web-Tools| 24/06/2025 | 12:15
+> Interactive Tutorial's & Web-Tools | 24/06/2025 | 12:15
   - Available on (DE)
     - 👉 Click the badge to go directly to the GH Page
       - EXCLUSIVE
