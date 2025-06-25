@@ -4,32 +4,7 @@
 | [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
 |---|---|
 
-> Interactive Tutorial's & Web-Tools | 25/06/2025 | 15:15 </> CroplyTech [LINK](https://bylickilabs.github.io/CroplyTech/)
-  - Available on (DE)
-    - 👉 Click the badge to go directly to the GH Page
-      - EXCLUSIVE
- 
-| [![GitHub Pages](https://img.shields.io/badge/Tutorial%20-HTML%20Guide-neon?style=for-the-badge&logo=html5&logoColor=white)](https://bylickilabs.github.io/HTML-Guide/) | [![GitHub Pages](https://img.shields.io/badge/Tutorial%20-CSS%20Guide-19fff2?style=for-the-badge&logo=css3&logoColor=white)](https://bylickilabs.github.io/CSS-Guide/) | [![Python Guide](https://img.shields.io/badge/Tutorial-Python%20Guide-43c7ff?style=for-the-badge&logo=python&logoColor=white)](https://bylickilabs.github.io/Python-Guide/) | [![MD Guide](https://img.shields.io/badge/Tutorial-MD%20Guide-ff2be6?style=for-the-badge&logo=markdown&logoColor=white)](https://bylickilabs.github.io/MD-Guide/) 
-|---|---|---|---|
-
-| [![Batch Guide](https://img.shields.io/badge/Tutorial-Batch%20Guide-ff2be6?style=for-the-badge&logo=windows&logoColor=white)](https://bylickilabs.github.io/Batch-Guide/) | [![PHP Guide](https://img.shields.io/badge/Tutorial-PHP%20Guide-8ac2ec?style=for-the-badge&logo=php&logoColor=white)](https://bylickilabs.github.io/PHP-Guide/) | [![CodeCryptor - HTML/CSS/JS Obfuscator](https://img.shields.io/badge/CodeCryptor-►%20HTML%2FCSS%2FJS%20◄-brightgreen?style=for-the-badge&logo=javascript&logoColor=white)](https://bylickilabs.github.io/CodeCryptor/) | [![GitHub Table Maker – Live Demo](https://img.shields.io/badge/GitHub%20Pages-Table%20Maker-%2319fff2?style=for-the-badge&logo=github)](https://bylickilabs.github.io/github-table-maker/) |
-|---|---|---|---|
-
-| [![CroplyTech – Web-Tool](https://img.shields.io/badge/CroplyTech-Web--Tool-%2300fff7?style=for-the-badge&logo=code&logoColor=white&labelColor=141e2e)](https://bylickilabs.github.io/CroplyTech/) |
-|---|
-
-<br>
-
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
-
-<br>
-
-> Dropdown
-
-<details>
-  <summary>👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist</summary>
-
-<br>
+👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist</summary>
 
 - Hi, I’m **Bylickilabs** – founder and creator of systems that don’t just function, but *understand*. 
   - I specialize in application development, system integration, and cybersecurity.
@@ -56,7 +31,25 @@
 • 🧩 Problem-solving under time pressure
 ```
 
-</details>
+---
+
+> Interactive Tutorial's & Web-Tools | 25/06/2025 | 15:15 </> CroplyTech [LINK](https://bylickilabs.github.io/CroplyTech/)
+  - Available on (DE)
+    - 👉 Click the badge to go directly to the GH Page
+      - EXCLUSIVE
+ 
+| [![GitHub Pages](https://img.shields.io/badge/Tutorial%20-HTML%20Guide-neon?style=for-the-badge&logo=html5&logoColor=white)](https://bylickilabs.github.io/HTML-Guide/) | [![GitHub Pages](https://img.shields.io/badge/Tutorial%20-CSS%20Guide-19fff2?style=for-the-badge&logo=css3&logoColor=white)](https://bylickilabs.github.io/CSS-Guide/) | [![Python Guide](https://img.shields.io/badge/Tutorial-Python%20Guide-43c7ff?style=for-the-badge&logo=python&logoColor=white)](https://bylickilabs.github.io/Python-Guide/) | [![MD Guide](https://img.shields.io/badge/Tutorial-MD%20Guide-ff2be6?style=for-the-badge&logo=markdown&logoColor=white)](https://bylickilabs.github.io/MD-Guide/) 
+|---|---|---|---|
+
+| [![Batch Guide](https://img.shields.io/badge/Tutorial-Batch%20Guide-ff2be6?style=for-the-badge&logo=windows&logoColor=white)](https://bylickilabs.github.io/Batch-Guide/) | [![PHP Guide](https://img.shields.io/badge/Tutorial-PHP%20Guide-8ac2ec?style=for-the-badge&logo=php&logoColor=white)](https://bylickilabs.github.io/PHP-Guide/) | [![CodeCryptor - HTML/CSS/JS Obfuscator](https://img.shields.io/badge/CodeCryptor-►%20HTML%2FCSS%2FJS%20◄-brightgreen?style=for-the-badge&logo=javascript&logoColor=white)](https://bylickilabs.github.io/CodeCryptor/) | [![GitHub Table Maker – Live Demo](https://img.shields.io/badge/GitHub%20Pages-Table%20Maker-%2319fff2?style=for-the-badge&logo=github)](https://bylickilabs.github.io/github-table-maker/) |
+|---|---|---|---|
+
+| [![CroplyTech – Web-Tool](https://img.shields.io/badge/CroplyTech-Web--Tool-%2300fff7?style=for-the-badge&logo=code&logoColor=white&labelColor=141e2e)](https://bylickilabs.github.io/CroplyTech/) |
+|---|
+
+<br>
+
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
 <br>
 
