@@ -31,6 +31,8 @@
 • 🧩 Problem-solving under time pressure
 ```
 
+---
+
 - Interactive Tutorial's & Web-Tools | 25/06/2025 | 15:15 </> CroplyTech [LINK](https://bylickilabs.github.io/CroplyTech/)
   - Available on (DE)
     - 👉 Click the badge to go directly to the GH Page
