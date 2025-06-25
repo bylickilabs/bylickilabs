@@ -1,3 +1,6 @@
+|![banner](https://github.com/user-attachments/assets/3845a890-5100-4920-8d93-2e51bc4a48e1)|
+|---|
+
 | [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) | [![BylickiLabs.de - Innovation & Software](https://img.shields.io/badge/BylickiLabs-Innovation%20%7C%20Software-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
 |---|---|
 
