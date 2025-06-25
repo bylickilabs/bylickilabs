@@ -47,8 +47,6 @@
 | [![CroplyTech – Web-Tool](https://img.shields.io/badge/CroplyTech-Web--Tool-%2300fff7?style=for-the-badge&logo=code&logoColor=white&labelColor=141e2e)](https://bylickilabs.github.io/CroplyTech/) |
 |---|
 
----
-
 > Dropdown
 
 <details>
