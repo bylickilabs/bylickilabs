@@ -4,10 +4,6 @@
 | [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
 |---|---|
 
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
-
-<br>
-
 > Interactive Tutorial's & Web-Tools | 25/06/2025 | 15:15 </> CroplyTech [LINK](https://bylickilabs.github.io/CroplyTech/)
   - Available on (DE)
     - 👉 Click the badge to go directly to the GH Page
