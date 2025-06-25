@@ -1,9 +1,11 @@
 | [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) | 
 |---|
 
+<br>
+
 - 👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist
   - Hi, I’m **Bylickilabs**
-    – Founder and creator of systems that don’t just function, but *understand*. 
+    - Founder and creator of systems that don’t just function, but *understand*. 
       - I specialize in application development, system integration, and cybersecurity.
 
 <br>
