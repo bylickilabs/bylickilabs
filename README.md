@@ -3,6 +3,16 @@
 
 <br>
 
+---
+# ✅ CERTIFIED
+
+|![certificate_of_completion_html](https://github.com/user-attachments/assets/6a9a7915-e928-4a70-8f05-bf8bb1403908)|
+|---|
+
+<br>
+
+---
+
 - 👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist
   - Hi, I’m **Bylickilabs**
     - Founder and creator of systems that don’t just function, but *understand*. 
