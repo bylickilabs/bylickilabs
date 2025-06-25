@@ -3,6 +3,12 @@
 
 <br>
 
+- 👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist
+  - Hi, I’m **Bylickilabs**
+    - Founder and creator of systems that don’t just function, but *understand*. 
+      - I specialize in application development, system integration, and cybersecurity.
+
+
 ---
 # ✅ CERTIFIED
 
@@ -12,13 +18,6 @@
 <br>
 
 ---
-
-- 👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist
-  - Hi, I’m **Bylickilabs**
-    - Founder and creator of systems that don’t just function, but *understand*. 
-      - I specialize in application development, system integration, and cybersecurity.
-
-<br>
 
 ```yarn
 • 💍 Married since 2015
