@@ -15,8 +15,30 @@
 <details>
   <summary> ✅ CERTIFIED</summary>
 
+|![certificate_of_completion_front_end_development](https://github.com/user-attachments/assets/24f368f3-5a61-4c45-9239-59a240510888)|
+|---|
+
 |![certificate_of_completion_html](https://github.com/user-attachments/assets/6a9a7915-e928-4a70-8f05-bf8bb1403908)|
 |---|
+
+|![certificate_of_completion_css](https://github.com/user-attachments/assets/4593d799-d166-4fb4-82f7-eaaae058cff0)|
+|---|
+
+|![certificate_of_completion_javascript](https://github.com/user-attachments/assets/bb1719e9-c44d-45a2-8880-34da35c4d26e)|
+|---|
+
+|![certificate_of_completion_php](https://github.com/user-attachments/assets/aadb0e41-fcd8-4538-a8dc-a2f5f6156d84)|
+|---|
+
+|![certificate_of_completion_python](https://github.com/user-attachments/assets/8b97b0f0-4b53-4d7e-9acb-f2fa09c0c44e)|
+|---|
+
+|![certificate_of_completion_c#](https://github.com/user-attachments/assets/b2d7dce9-42a4-4417-9b32-be5d8d3ca0af)|
+|---|
+
+|![certificate_of_completion_cyber_security](https://github.com/user-attachments/assets/e5820cf0-22aa-43eb-9c9a-966dacaba1f4)|
+|---|
+
 </details>
 
 <br>
