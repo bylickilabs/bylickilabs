@@ -8,7 +8,6 @@
     - Founder and creator of systems that don’t just function, but *understand*. 
       - I specialize in application development, system integration, and cybersecurity.
 
-
 ---
 
 > W3 SCHOOL CERTIFIED
