@@ -10,10 +10,15 @@
 
 
 ---
-# ✅ CERTIFIED
+
+> W3 SCHOOL CERTIFIED
+
+<details>
+  <summary> ✅ CERTIFIED</summary>
 
 |![certificate_of_completion_html](https://github.com/user-attachments/assets/6a9a7915-e928-4a70-8f05-bf8bb1403908)|
 |---|
+</details>
 
 <br>
 
