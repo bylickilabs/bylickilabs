@@ -21,8 +21,6 @@
 
 <br>
 
----
-
 ```yarn
 • 💍 Married since 2015
 • 👶 I was born on March 17th, 1982
