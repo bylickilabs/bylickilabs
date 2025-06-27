@@ -36,6 +36,15 @@
 |![certificate_of_completion_c#](https://github.com/user-attachments/assets/b2d7dce9-42a4-4417-9b32-be5d8d3ca0af)|
 |---|
 
+|![certificate_of_completion_data_science](https://github.com/user-attachments/assets/3ebe2066-7c10-4227-b13b-f3c5f4bb6cd7)|
+|---|
+
+|![certificate_of_completion_general_problem_solving_and_logical_reasoning](https://github.com/user-attachments/assets/e01b0973-c97c-4ed8-8d3d-08da61267971)|1
+|---|
+
+|![certificate_of_completion_statistics](https://github.com/user-attachments/assets/13bba786-e424-4f6c-abec-e08690d09276)|
+|---|
+
 |![certificate_of_completion_cyber_security](https://github.com/user-attachments/assets/e5820cf0-22aa-43eb-9c9a-966dacaba1f4)|
 |---|
 
