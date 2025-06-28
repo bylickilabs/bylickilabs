@@ -84,7 +84,7 @@
 
 <br>
 
-- CyberSecLab | 29/06/2025 | 00:30 </> CroplyTech [LINK](https://bylickilabs.github.io/CyberSecLab)
+- 29/06/2025 | 00:30 </> CyberSecLab [LINK](https://bylickilabs.github.io/CyberSecLab)
   - Available on (DE)
     - 👉 Click the badge to go directly to the GH Page
       - EXCLUSIVE
