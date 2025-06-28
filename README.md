@@ -103,6 +103,7 @@
 <br>
 
 > Dropdown
+   - Please click the “>” icon to open the dropdown menu and display additional options.
 
 <details>
   <summary>🚀 Featured Projects</summary>
