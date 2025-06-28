@@ -40,10 +40,10 @@
 |![certificate_of_completion_data_science](https://github.com/user-attachments/assets/3ebe2066-7c10-4227-b13b-f3c5f4bb6cd7)|
 |---|
 
-|![certificate_of_completion_general_problem_solving_and_logical_reasoning](https://github.com/user-attachments/assets/e01b0973-c97c-4ed8-8d3d-08da61267971)|
+|![certificate_of_completion_statistics (3)](https://github.com/user-attachments/assets/1a41374b-9fe6-405a-816b-739fbab4b95f)|
 |---|
 
-|![certificate_of_completion_statistics](https://github.com/user-attachments/assets/13bba786-e424-4f6c-abec-e08690d09276)|
+|![certificate_of_completion_general_problem_solving_and_logical_reasoning](https://github.com/user-attachments/assets/e01b0973-c97c-4ed8-8d3d-08da61267971)|
 |---|
 
 |![certificate_of_completion_cyber_security](https://github.com/user-attachments/assets/e5820cf0-22aa-43eb-9c9a-966dacaba1f4)|
