@@ -91,12 +91,9 @@
 
 <br>
 
-> Dropdown
+> Dropdown </> W3 CERTIFIED & Projects
    - Please click the “>” icon to open the dropdown menu and display additional options.
 
-
-> W3 SCHOOL CERTIFIED
-   - Please click the “>” icon to open the dropdown menu and display additional options.
 
 <details>
   <summary> ✅ CERTIFIED</summary>
