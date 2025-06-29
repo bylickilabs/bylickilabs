@@ -100,7 +100,7 @@
 | [![CroplyTech – Web-Tool](https://img.shields.io/badge/CroplyTech-Web--Tool-%2300fff7?style=for-the-badge&logo=code&logoColor=white&labelColor=141e2e)](https://bylickilabs.github.io/CroplyTech/) | [![CyberSecLab – Interaktive Cybersecurity Suite](https://img.shields.io/badge/CyberSecLab-Interaktive%20Cybersecurity%20Suite-24292f?style=for-the-badge&logo=github&logoColor=white)](https://bylickilabs.github.io/CyberSecLab) 
 |---|---|
 
-| [![Security Awareness Trainer](https://img.shields.io/badge/Security%20Awareness%20Trainer-open%20project-2d2d2d?style=for-the-badge&logo=shield&logoColor=white)](https://bylickilabs.github.io/Security-Awareness-Trainer)|[![Interaktiver Passwort-Manager](https://img.shields.io/badge/Interaktiver%20Passwort--Manager-open%20project-2d2d2d?style=for-the-badge&logo=lock&logoColor=white)](https://bylickilabs.github.io/Interaktiver-Passwort-Manager/)|
+|[![Security Awareness Trainer – Interaktive Trainingsplattform](https://img.shields.io/badge/Security%20Awareness%20Trainer-Interaktive%20Trainingsplattform-24292f?style=for-the-badge&logo=shield&logoColor=white)](https://bylickilabs.github.io/Security-Awareness-Trainer) | [![Interaktiver Passwort-Manager – Clientseitig & Verschlüsselt](https://img.shields.io/badge/Interaktiver%20Passwort--Manager-Clientseitig%20%26%20Verschl%C3%BCsselt-24292f?style=for-the-badge&logo=lock&logoColor=white)](https://bylickilabs.github.io/Interaktiver-Passwort-Manager/) |
 |---|---|
 
 <br>
