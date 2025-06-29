@@ -84,30 +84,10 @@
 
 <br>
 
-- 29/06/2025 | 09:00 </> Security Awareness Trainer [LINK](https://bylickilabs.github.io/Security-Awareness-Trainer)
+- 29/06/2025 | 09:00 </> TZhreat Intelligence Dashboard [LINK](https://bylickilabs.github.io/Intelligence-Dashboard/)
   - Available on (DE)
     - 👉 Click the badge to go directly to the GH Page
       - EXCLUSIVE
-
-<br>
- 
-| [![GitHub Pages](https://img.shields.io/badge/Tutorial%20-HTML%20Guide-neon?style=for-the-badge&logo=html5&logoColor=white)](https://bylickilabs.github.io/HTML-Guide/) | [![GitHub Pages](https://img.shields.io/badge/Tutorial%20-CSS%20Guide-19fff2?style=for-the-badge&logo=css3&logoColor=white)](https://bylickilabs.github.io/CSS-Guide/) | [![Python Guide](https://img.shields.io/badge/Tutorial-Python%20Guide-43c7ff?style=for-the-badge&logo=python&logoColor=white)](https://bylickilabs.github.io/Python-Guide/) | [![MD Guide](https://img.shields.io/badge/Tutorial-MD%20Guide-ff2be6?style=for-the-badge&logo=markdown&logoColor=white)](https://bylickilabs.github.io/MD-Guide/) | 
-|---|---|---|---|
-
-| [![Batch Guide](https://img.shields.io/badge/Tutorial-Batch%20Guide-ff2be6?style=for-the-badge&logo=windows&logoColor=white)](https://bylickilabs.github.io/Batch-Guide/) | [![PHP Guide](https://img.shields.io/badge/Tutorial-PHP%20Guide-8ac2ec?style=for-the-badge&logo=php&logoColor=white)](https://bylickilabs.github.io/PHP-Guide/) | [![CodeCryptor - HTML/CSS/JS Obfuscator](https://img.shields.io/badge/CodeCryptor-►%20HTML%2FCSS%2FJS%20◄-brightgreen?style=for-the-badge&logo=javascript&logoColor=white)](https://bylickilabs.github.io/CodeCryptor/) | [![GitHub Table Maker – Live Demo](https://img.shields.io/badge/GitHub%20Pages-Table%20Maker-%2319fff2?style=for-the-badge&logo=github)](https://bylickilabs.github.io/github-table-maker/) |
-|---|---|---|---|
-
-| [![CroplyTech – Web-Tool](https://img.shields.io/badge/CroplyTech-Web--Tool-%2300fff7?style=for-the-badge&logo=code&logoColor=white&labelColor=141e2e)](https://bylickilabs.github.io/CroplyTech/) | [![CyberSecLab – Interaktive Cybersecurity Suite](https://img.shields.io/badge/CyberSecLab-Interaktive%20Cybersecurity%20Suite-24292f?style=for-the-badge&logo=github&logoColor=white)](https://bylickilabs.github.io/CyberSecLab) 
-|---|---|
-
-|[![Security Awareness Trainer – Interaktive Trainingsplattform](https://img.shields.io/badge/Security%20Awareness%20Trainer-Interaktive%20Trainingsplattform-24292f?style=for-the-badge&logo=shield&logoColor=white)](https://bylickilabs.github.io/Security-Awareness-Trainer) | [![Interaktiver Passwort-Manager – Clientseitig & Verschlüsselt](https://img.shields.io/badge/Interaktiver%20Passwort--Manager-Clientseitig%20%26%20Verschl%C3%BCsselt-24292f?style=for-the-badge&logo=lock&logoColor=white)](https://bylickilabs.github.io/Interaktiver-Passwort-Manager/) |
-|---|---|
-
-|[![FileAnalyzer – Forensik File Analyzer](https://img.shields.io/badge/FileAnalyzer-Forensik%20File%20Analyzer-24292f?style=for-the-badge&logo=filezilla&logoColor=white)](https://bylickilabs.github.io/FileAnalyzer)|[![Zero-Day Vulnerability Watcher](https://img.shields.io/badge/Zero--Day%20Vulnerability%20Watcher-exploit%20simulator-24292f?style=for-the-badge&logo=bugatti&logoColor=white)](https://bylickilabs.github.io/Zero-Day/)|[![Intelligence Dashboard](https://img.shields.io/badge/Intelligence%20Dashboard-Realtime%20Threat%20Feed-24292f?style=for-the-badge&logo=cloudflare&logoColor=white)](https://bylickilabs.github.io/Intelligence-Dashboard/)|
-|---|---|---|
-
-|[![Intelligence Dashboard](https://img.shields.io/badge/Intelligence%20Dashboard-Realtime%20Threat%20Feed-24292f?style=for-the-badge&logo=cloudflare&logoColor=white)](https://bylickilabs.github.io/Intelligence-Dashboard/)|
-|---|
 
 <br>
 
@@ -119,9 +99,24 @@
 <br>  
    - Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>
  
-### 📋 Github TableMaker<br>
-> 🚀 RELEASE 22/06/2025 | 10:00 Uhr
-- 📋 [`TableMaker`](https://github.com/bylickilabs/github-table-maker) — Intuitive Web App for Rapid Creation and Editing of Markdown Tables
+### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
+
+- 🌐 [`HTML Guide`](https://bylickilabs.github.io/HTML-Guide/) — Compact reference for modern HTML development.
+- 🎨 [`CSS Guide`](https://bylickilabs.github.io/CSS-Guide/) — Practical overview of all essential CSS techniques.
+- 🐍 [`PYTHON Guide`](https://bylickilabs.github.io/Python-Guide/) — Interactive introduction to Python fundamentals and applied examples.
+- 📝 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
+- ⚙️ [`BATCH Guide`](https://bylickilabs.github.io/Batch-Guide/) — Quick start to Windows batch scripting with hands-on tips.
+- 🐘 [`PHP Guide`](https://bylickilabs.github.io/PHP-Guide/) — Comprehensive guide to PHP programming and best practices.
+- 🔐 [`CodeCryptor`](https://bylickilabs.github.io/CodeCryptor/) — Web-based solution for code encryption and obfuscation.
+- 📊 [`Markdown Table Maker`](https://bylickilabs.github.io/github-table-maker/) — Simple online creation and editing of Markdown tables.
+- ✂️ [`CroplyTech`](https://bylickilabs.github.io/CroplyTech/) — Innovative browser tool for cropping and optimizing images.
+- 🛡️ [`Cybersecurity`](https://bylickilabs.github.io/CyberSecLab) — Interactive suite for hands-on IT security training and awareness.
+- 🧠 [`Awareness Trainer`](https://bylickilabs.github.io/Security-Awareness-Trainer) — Quiz-based platform to boost cybersecurity awareness.
+- 🗝️ [`Password Manager`](https://bylickilabs.github.io/Interaktiver-Passwort-Manager/) — Local password manager with encryption and real-time strength check.
+- 🕵️ [`FileAnalyzer`](https://bylickilabs.github.io/FileAnalyzer) — Tool for analyzing file metadata, hashes, and tampering traces.
+- ⚡ [`Zero Day`](https://bylickilabs.github.io/Zero-Day/) — Real-time visualization of zero-day vulnerabilities and exploit cycles.
+- 🌩️ [`Intelligence-Dashboard`](https://bylickilabs.github.io/Intelligence-Dashboard/) — Realtime cyber threat overview with live API integration and trend analysis.
+- 📋 [`TableMaker`](https://github.com/bylickilabs/github-table-maker) — Intuitive web app for fast creation and editing of Markdown tables.
 
 ---
 
