@@ -45,14 +45,11 @@
 
 - 29/06/2025 | 09:00 </> TZhreat Intelligence Dashboard [LINK](https://bylickilabs.github.io/Intelligence-Dashboard/)
   - Available on (DE)
-    - 👉 Click the badge to go directly to the GH Page
-      - EXCLUSIVE
+    - Please click the 👉 “>” icon to open the dropdown menu and display additional options.
 
 <br>
 
 > Dropdown </> W3 CERTIFIED & Projects
-   - Please click the “>” icon to open the dropdown menu and display additional options.
-
 
 <details>
   <summary> ✅ CERTIFIED</summary>
