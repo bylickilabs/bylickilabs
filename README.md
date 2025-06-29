@@ -103,6 +103,9 @@
 |[![Security Awareness Trainer – Interaktive Trainingsplattform](https://img.shields.io/badge/Security%20Awareness%20Trainer-Interaktive%20Trainingsplattform-24292f?style=for-the-badge&logo=shield&logoColor=white)](https://bylickilabs.github.io/Security-Awareness-Trainer) | [![Interaktiver Passwort-Manager – Clientseitig & Verschlüsselt](https://img.shields.io/badge/Interaktiver%20Passwort--Manager-Clientseitig%20%26%20Verschl%C3%BCsselt-24292f?style=for-the-badge&logo=lock&logoColor=white)](https://bylickilabs.github.io/Interaktiver-Passwort-Manager/) |
 |---|---|
 
+|[![FileAnalyzer – Forensik File Analyzer](https://img.shields.io/badge/FileAnalyzer-Forensik%20File%20Analyzer-24292f?style=for-the-badge&logo=filezilla&logoColor=white)](https://bylickilabs.github.io/FileAnalyzer)|
+|---|
+
 <br>
 
 > Dropdown
