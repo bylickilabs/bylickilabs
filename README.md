@@ -106,6 +106,9 @@
 |[![FileAnalyzer – Forensik File Analyzer](https://img.shields.io/badge/FileAnalyzer-Forensik%20File%20Analyzer-24292f?style=for-the-badge&logo=filezilla&logoColor=white)](https://bylickilabs.github.io/FileAnalyzer)|[![Zero-Day Vulnerability Watcher](https://img.shields.io/badge/Zero--Day%20Vulnerability%20Watcher-exploit%20simulator-24292f?style=for-the-badge&logo=bugatti&logoColor=white)](https://bylickilabs.github.io/Zero-Day/)|[![Intelligence Dashboard](https://img.shields.io/badge/Intelligence%20Dashboard-Realtime%20Threat%20Feed-24292f?style=for-the-badge&logo=cloudflare&logoColor=white)](https://bylickilabs.github.io/Intelligence-Dashboard/)|
 |---|---|---|
 
+|[![Intelligence Dashboard](https://img.shields.io/badge/Intelligence%20Dashboard-Realtime%20Threat%20Feed-24292f?style=for-the-badge&logo=cloudflare&logoColor=white)](https://bylickilabs.github.io/Intelligence-Dashboard/)|
+|---|
+
 <br>
 
 > Dropdown
