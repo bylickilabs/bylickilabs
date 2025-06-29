@@ -43,7 +43,7 @@
 
 <br>
 
-- 29/06/2025 | 09:00 </> TZhreat Intelligence Dashboard [LINK](https://bylickilabs.github.io/Intelligence-Dashboard/)
+- 29/06/2025 | 09:00 </> Threat Intelligence Dashboard [LINK](https://bylickilabs.github.io/Intelligence-Dashboard/)
   - Available on (DE)
     - Please click the 👉 “>” icon to open the dropdown menu and display additional options.
 
