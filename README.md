@@ -97,7 +97,7 @@
    - Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>
  
 ### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
-
+- 🕵️ [`SteganoGraphy`](https://bylickilabs.github.io/SteganoGraphy/) — Hide and reveal secret messages in images, 100% client-side with detection score.
 - 🌐 [`HTML Guide`](https://bylickilabs.github.io/HTML-Guide/) — Compact reference for modern HTML development.
 - 🎨 [`CSS Guide`](https://bylickilabs.github.io/CSS-Guide/) — Practical overview of all essential CSS techniques.
 - 🐍 [`PYTHON Guide`](https://bylickilabs.github.io/Python-Guide/) — Interactive introduction to Python fundamentals and applied examples.
