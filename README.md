@@ -104,7 +104,7 @@
  
 ### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
 
-- 🔥 [`HashingTool`](https://github.com/bylickilabs/HashingTool) — Compact Tool for Hashing
+- 🔥 [`HashingTool`](https://bylickilabs.github.io/HashingTool) — Compact Tool for Hashing
 - ⚙️ [`SysAnalyzer`](https://github.com/bylickilabs/SysAnalyzer) — Compact Tool for System Informations
 - 🧩 [`HashChecker`](https://github.com/bylickilabs/HashChecker) — Compact Tool for file integrity verification.
 - 🕵️ [`PDFAnalyzer`](https://github.com/bylickilabs/pdfAnalyzer) — PDF Analyzer is an efficient Python tool for automatically analyzing PDF documents.
