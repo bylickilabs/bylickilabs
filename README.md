@@ -104,9 +104,9 @@
  
 ### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
 
-- 🔥 [`HashingTool`](https://github.com/bylickilabs/HashingTool) — Compact tool for Hashing
-- ⚙️ [`SysAnalyzer`](https://github.com/bylickilabs/SysAnalyzer) — Compact tool for System Informations
-- 🧩 [`HashChecker`](https://github.com/bylickilabs/HashChecker) — Compact tool for file integrity verification.
+- 🔥 [`HashingTool`](https://github.com/bylickilabs/HashingTool) — Compact Tool for Hashing
+- ⚙️ [`SysAnalyzer`](https://github.com/bylickilabs/SysAnalyzer) — Compact Tool for System Informations
+- 🧩 [`HashChecker`](https://github.com/bylickilabs/HashChecker) — Compact Tool for file integrity verification.
 - 🕵️ [`PDFAnalyzer`](https://github.com/bylickilabs/pdfAnalyzer) — PDF Analyzer is an efficient Python tool for automatically analyzing PDF documents.
 - 🚀 [`StatMaster`](https://github.com/bylickilabs/StatMaster) — Interactive data science & statistics app: Import, analyze, and visualize data directly in the browser
 - 🕵️ [`SteganoGraphy`](https://bylickilabs.github.io/SteganoGraphy/) — Hide and reveal secret messages in images, 100% client-side with detection score.
