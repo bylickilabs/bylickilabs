@@ -97,7 +97,8 @@
    - Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>
  
 ### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
-- 🚀 [`StatMaster`](https://github.com/bylickilabs/StatMaster) — Interaktive Data-Science- & Statistik-App: Import, Analyse und Visualisierung von Daten direkt im Browser
+- 🕵️ [`PDFAnalyzer`](https://github.com/bylickilabs/pdfAnalyzer) — PDF Analyzer is an efficient Python tool for automatically analyzing PDF documents.
+- 🚀 [`StatMaster`](https://github.com/bylickilabs/StatMaster) — Interactive data science & statistics app: Import, analyze, and visualize data directly in the browser
 - 🕵️ [`SteganoGraphy`](https://bylickilabs.github.io/SteganoGraphy/) — Hide and reveal secret messages in images, 100% client-side with detection score.
 - 🌐 [`HTML Guide`](https://bylickilabs.github.io/HTML-Guide/) — Compact reference for modern HTML development.
 - 🎨 [`CSS Guide`](https://bylickilabs.github.io/CSS-Guide/) — Practical overview of all essential CSS techniques.
