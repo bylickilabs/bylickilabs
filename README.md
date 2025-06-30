@@ -103,6 +103,8 @@
    - Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>
  
 ### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
+
+- 🔥 [`HashingTool`](https://github.com/bylickilabs/HashingTool) — Compact tool for Hashing
 - ⚙️ [`SysAnalyzer`](https://github.com/bylickilabs/SysAnalyzer) — Compact tool for System Informations
 - 🧩 [`HashChecker`](https://github.com/bylickilabs/HashChecker) — Compact tool for file integrity verification.
 - 🕵️ [`PDFAnalyzer`](https://github.com/bylickilabs/pdfAnalyzer) — PDF Analyzer is an efficient Python tool for automatically analyzing PDF documents.
