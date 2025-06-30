@@ -87,6 +87,12 @@
 |![certificate_of_completion_cyber_security](https://github.com/user-attachments/assets/e5820cf0-22aa-43eb-9c9a-966dacaba1f4)|
 |---|
 
+|![certificate_of_completion_dsa](https://github.com/user-attachments/assets/0a66cc9c-ac5b-4d38-9774-af8cc2e49443)|
+|---|
+
+|![certificate_of_completion_numpy](https://github.com/user-attachments/assets/2b19bedb-076f-4f64-8c85-85e2132186da)|
+|---|
+
 </details>
 
 
