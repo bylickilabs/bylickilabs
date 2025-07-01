@@ -1,5 +1,5 @@
-| [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) | 
-|---|
+| [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) | SEO Meta Tag Generator (RELEASE - 01/07/2025 / 17:00 Uhr)|
+|---|---|
 
 <br>
 
@@ -103,7 +103,7 @@
    - Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>
  
 ### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
-- 🌐 [`SEo Meta Tag Generator`](https://bylickilabs.github.io/SEO-Meta-Tag-Generator/) — SEO Meta Tag Generator (RELEASE - 01/07/2025 / 17:00 Uhr)
+- 🌐 [`SEO Meta Tag Generator`](https://bylickilabs.github.io/SEO-Meta-Tag-Generator/) — SEO Meta Tag Generator (RELEASE - 01/07/2025 / 17:00 Uhr)
 - 🔥 [`HashingTool`](https://bylickilabs.github.io/HashingTool) — Compact Tool for Hashing
 - ⚙️ [`SysAnalyzer`](https://github.com/bylickilabs/SysAnalyzer) — Compact Tool for System Informations
 - 🧩 [`HashChecker`](https://github.com/bylickilabs/HashChecker) — Compact Tool for file integrity verification.
