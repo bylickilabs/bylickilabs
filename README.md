@@ -1,5 +1,5 @@
-| [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) | SEO Meta Tag Generator - Featured Projects |
-|---|---|
+| [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) | SEO Meta Tag Generator - Featured Projects | TemplateGenerator - Featured Projects|
+|---|---|---|
 
 <br>
 
@@ -103,6 +103,7 @@
    - Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>
  
 ### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
+- 🌐 [`TemplateGenerator`](https://bylickilabs.github.io/TemplateGenerator) — Modern, browser-based HTML/CSS Template Editor and Generator.
 - 🌐 [`SEO Meta Tag Generator`](https://bylickilabs.github.io/SEO-Meta-Tag-Generator/) — SEO Meta Tag Generator (RELEASE - 01/07/2025 / 17:00 Uhr)
 - 🔥 [`HashingTool`](https://bylickilabs.github.io/HashingTool) — Compact Tool for Hashing
 - ⚙️ [`SysAnalyzer`](https://github.com/bylickilabs/SysAnalyzer) — Compact Tool for System Informations
