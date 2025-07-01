@@ -1,4 +1,4 @@
-| [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) | SEO Meta Tag Generator (RELEASE - 01/07/2025 / 17:00 Uhr)|
+| [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) | SEO Meta Tag Generator - Feature Projects |
 |---|---|
 
 <br>
