@@ -3,25 +3,6 @@
 
 <br>
 
-- Please click the 👉 “>” icon to open the dropdown menu and display Interactive Guides
-
-<details>
-  <summary>🚀 HERE 🚀</summary> 
-   <!--- Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>-->
- 
-### 🆕 Exclusive Guides
-- 🌐 [`HTML Guide`](https://bylickilabs.github.io/HTML-Guide/) — Compact reference for modern HTML development.
-- 🌐 [`CSS Guide`](https://bylickilabs.github.io/CSS-Guide/) — Practical overview of all essential CSS techniques.
-- 🌐 [`PHP Guide`](https://bylickilabs.github.io/PHP-Guide/) — Comprehensive guide to PHP programming and best practices.
-- 🌐 [`PYTHON Guide`](https://bylickilabs.github.io/Python-Guide/) — Interactive introduction to Python fundamentals and applied examples.
-- 🌐 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
-- 🌐 [`BATCH Guide`](https://bylickilabs.github.io/Batch-Guide/) — Quick start to Windows batch scripting with hands-on tips.
-- 🌐 [`TS Guide`](https://bylickilabs.github.io/TS-Guide/) — Interactive and practical TypeScript learning suite featuring 30 Modules
-
-</details>
-
-<br>
-
 - 👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist
   - Hi, I’m **Bylickilabs**
     - Founder and creator of systems that don’t just function, but *understand*. 
@@ -57,6 +38,27 @@
 
 | [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs.de - Innovation & Software](https://img.shields.io/badge/BylickiLabs-Innovation%20%7C%20Software-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
 |---|---|---|
+
+---
+
+<br>
+
+- Please click the 👉 “>” icon to open the dropdown menu and display Interactive Guides
+
+<details>
+  <summary>🚀 HERE 🚀</summary> 
+   <!--- Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>-->
+ 
+### 🆕 Exclusive Guides
+- 🌐 [`HTML Guide`](https://bylickilabs.github.io/HTML-Guide/) — Compact reference for modern HTML development.
+- 🌐 [`CSS Guide`](https://bylickilabs.github.io/CSS-Guide/) — Practical overview of all essential CSS techniques.
+- 🌐 [`PHP Guide`](https://bylickilabs.github.io/PHP-Guide/) — Comprehensive guide to PHP programming and best practices.
+- 🌐 [`PYTHON Guide`](https://bylickilabs.github.io/Python-Guide/) — Interactive introduction to Python fundamentals and applied examples.
+- 🌐 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
+- 🌐 [`BATCH Guide`](https://bylickilabs.github.io/Batch-Guide/) — Quick start to Windows batch scripting with hands-on tips.
+- 🌐 [`TS Guide`](https://bylickilabs.github.io/TS-Guide/) — Interactive and practical TypeScript learning suite featuring 30 Modules
+
+</details>
 
 ---
 
