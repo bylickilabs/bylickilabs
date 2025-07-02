@@ -3,10 +3,10 @@
 
 <br>
 
-- Please click the 👉 “>” icon to open the dropdown menu and display additional options.
+- Please click the 👉 “>” icon to open the dropdown menu and display Interactive Guides
 
 <details>
-  <summary>🚀 HERE </summary> 
+  <summary>🚀 HERE 🚀</summary> 
    <!--- Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>-->
  
 ### 🆕 Exclusive Guides
