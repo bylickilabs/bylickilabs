@@ -1,4 +1,4 @@
-| [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) |[![TS Guide](https://img.shields.io/badge/TS%20Guide-Open-0ff?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://bylickilabs.github.io/TS-Guide/)|
+| [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) |[![TS Guide](https://img.shields.io/badge/TS%20Guide-LINK-0ff?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://bylickilabs.github.io/TS-Guide/)|
 |---|---|
 
 <br>
