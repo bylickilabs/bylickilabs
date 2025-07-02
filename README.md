@@ -93,6 +93,9 @@
 |![certificate_of_completion_numpy](https://github.com/user-attachments/assets/2b19bedb-076f-4f64-8c85-85e2132186da)|
 |---|
 
+|![certificate_of_completion_typescript](https://github.com/user-attachments/assets/04dfa273-46bb-4463-80c3-51a65b6ace4d)|
+|---|
+
 </details>
 
 
