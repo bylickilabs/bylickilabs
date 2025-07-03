@@ -10,11 +10,6 @@
 
 ---
 
-- 03/07/2025 | 21:00 </> 🌐 [`Rust Guide`](https://bylickilabs.github.io/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules
-  - Available on (DE)
-    - Please click the 👉 “>” icon to open the dropdown menu and display additional options.
-
----
 
 ```yarn
 • 💍 Married since 2015
@@ -62,6 +57,8 @@
 - 🌐 [`BATCH Guide`](https://bylickilabs.github.io/Batch-Guide/) — Quick start to Windows batch scripting with hands-on tips.
 - 🌐 [`TS Guide`](https://bylickilabs.github.io/TS-Guide/) — Interactive and practical TypeScript learning suite featuring 30 Modules
 - 🌐 [`Rust Guide`](https://bylickilabs.github.io/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules
+- 🌐 [`Ruby Guide`](https://bylickilabs.github.io/Ruby-guide/) — An advanced, interactive guide for Ruby developers. Featuring 30 real-world modules
+- 🌐 [`HTMl Guide v2.0`](https://bylickilabs.github.io/HTML-Guide-v2.0/) — The next-generation HTML learning experience: 30 advanced modules with live code previews
 </details>
 
 ---
