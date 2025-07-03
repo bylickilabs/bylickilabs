@@ -64,7 +64,7 @@
 
 <br>
 
-- 29/06/2025 | 09:00 </> Threat Intelligence Dashboard [LINK](https://bylickilabs.github.io/Intelligence-Dashboard/)
+- 03/07/2025 | 21:00 </> - 📋 [`TableMaker`](https://github.com/bylickilabs/github-table-maker) — Intuitive web app for fast creation and editing of Markdown tables.
   - Available on (DE)
     - Please click the 👉 “>” icon to open the dropdown menu and display additional options.
 
