@@ -57,7 +57,7 @@
 - 🌐 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
 - 🌐 [`BATCH Guide`](https://bylickilabs.github.io/Batch-Guide/) — Quick start to Windows batch scripting with hands-on tips.
 - 🌐 [`TS Guide`](https://bylickilabs.github.io/TS-Guide/) — Interactive and practical TypeScript learning suite featuring 30 Modules
-
+- 🌐 [`Rust Guide`](https://github.com/bylickilabs/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules
 </details>
 
 ---
