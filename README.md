@@ -10,7 +10,11 @@
 
 ---
 
-<br>
+- 03/07/2025 | 21:00 </> - 🌐 [`Rust Guide`](https://github.com/bylickilabs/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules
+  - Available on (DE)
+    - Please click the 👉 “>” icon to open the dropdown menu and display additional options.
+
+---
 
 ```yarn
 • 💍 Married since 2015
@@ -62,13 +66,6 @@
 
 ---
 
-<br>
-
-- 03/07/2025 | 21:00 </> - 🌐 [`Rust Guide`](https://github.com/bylickilabs/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules
-  - Available on (DE)
-    - Please click the 👉 “>” icon to open the dropdown menu and display additional options.
-
-<br>
 
 > Dropdown </> W3 CERTIFIED & Projects
 
