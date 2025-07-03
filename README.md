@@ -49,7 +49,7 @@
    <!--- Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>-->
  
 ### 🆕 Exclusive Guides
-- 🌐 [`HTML Guide`](https://bylickilabs.github.io/HTML-Guide/) — Compact reference for modern HTML development.
+- 🌐 [`HTMl Guide`](https://bylickilabs.github.io/HTML-Guide-v2.0/) — The next-generation HTML learning experience: 30 advanced modules with live code previews
 - 🌐 [`CSS Guide`](https://bylickilabs.github.io/CSS-Guide/) — Practical overview of all essential CSS techniques.
 - 🌐 [`PHP Guide`](https://bylickilabs.github.io/PHP-Guide/) — Comprehensive guide to PHP programming and best practices.
 - 🌐 [`PYTHON Guide`](https://bylickilabs.github.io/Python-Guide/) — Interactive introduction to Python fundamentals and applied examples.
@@ -58,7 +58,6 @@
 - 🌐 [`TS Guide`](https://bylickilabs.github.io/TS-Guide/) — Interactive and practical TypeScript learning suite featuring 30 Modules
 - 🌐 [`Rust Guide`](https://bylickilabs.github.io/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules
 - 🌐 [`Ruby Guide`](https://bylickilabs.github.io/Ruby-guide/) — An advanced, interactive guide for Ruby developers. Featuring 30 real-world modules
-- 🌐 [`HTMl Guide v2.0`](https://bylickilabs.github.io/HTML-Guide-v2.0/) — The next-generation HTML learning experience: 30 advanced modules with live code previews
 - 🌐 [`C Guide`](https://bylickilabs.github.io/C-Guide/) — A modern interactive guide to advanced C programming. Includes 30 real-world modules with code
 </details>
 
