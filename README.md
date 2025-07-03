@@ -64,7 +64,7 @@
 
 <br>
 
-- 03/07/2025 | 21:00 </> - 📋 [`TableMaker`](https://github.com/bylickilabs/github-table-maker) — Intuitive web app for fast creation and editing of Markdown tables.
+- 03/07/2025 | 21:00 </> - 🌐 [`Rust Guide`](https://github.com/bylickilabs/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules
   - Available on (DE)
     - Please click the 👉 “>” icon to open the dropdown menu and display additional options.
 
