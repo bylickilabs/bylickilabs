@@ -59,6 +59,7 @@
 - 🌐 [`Rust Guide`](https://bylickilabs.github.io/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules
 - 🌐 [`Ruby Guide`](https://bylickilabs.github.io/Ruby-guide/) — An advanced, interactive guide for Ruby developers. Featuring 30 real-world modules
 - 🌐 [`HTMl Guide v2.0`](https://bylickilabs.github.io/HTML-Guide-v2.0/) — The next-generation HTML learning experience: 30 advanced modules with live code previews
+- 🌐 [`C Guide`](https://bylickilabs.github.io/C-Guide/) — A modern interactive guide to advanced C programming. Includes 30 real-world modules with code
 </details>
 
 ---
