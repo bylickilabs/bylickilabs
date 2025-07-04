@@ -54,17 +54,18 @@
 - 🌐 [`HTML Guide`](https://bylickilabs.github.io/HTML-Guide-v2.0/) — The next-generation HTML learning experience: 30 advanced modules with live code previews.
 - 🌐 [`CSS Guide`](https://bylickilabs.github.io/CSS-Guide/) — Practical overview of all essential CSS techniques.
 - 🌐 [`JavaScript Guide`](https://bylickilabs.github.io/JavaScript-Guide/) — Advanced, hands-on JavaScript learning with 30+ modules.
-- 🌐 [`Git Guide`](https://bylickilabs.github.io/Git-Guide/) — Unlock the power of Git: 100 deep-dive modules, visual learning, and workflows in one unified platform.
-- 🌐 [`PHP Guide`](https://bylickilabs.github.io/PHP-Guide/) — Comprehensive guide to PHP programming and best practices.
-- 🌐 [`PYTHON Guide`](https://bylickilabs.github.io/Python-Guide/) — Interactive introduction to Python fundamentals and applied examples.
-- 🌐 [`LUA Guide`](https://bylickilabs.github.io/LUA-Guide/) — Interactive Lua Guide: Learn and experiment with advanced Lua concepts—hands-on and easy.
-- 🌐 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
-- 🌐 [`BATCH Guide`](https://bylickilabs.github.io/Batch-Guide/) — Quick start to Windows batch scripting with hands-on tips.
-- 🌐 [`TS Guide`](https://bylickilabs.github.io/TS-Guide/) — Interactive and practical TypeScript learning suite featuring 30 Modules.
-- 🌐 [`Rust Guide`](https://bylickilabs.github.io/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules.
-- 🌐 [`Ruby Guide`](https://bylickilabs.github.io/Ruby-guide/) — An advanced, interactive guide for Ruby developers. Featuring 30 real-world modules.
 - 🌐 [`C Guide`](https://bylickilabs.github.io/C-Guide/) — A modern interactive guide to advanced C programming. Includes 30 real-world modules with code.
 - 🌐 [`C++ Guide`](https://bylickilabs.github.io/Cplusplus--Guide/) — A compact, hands-on reference for modern C++ featuring 30 modules.
+- 🌐 [`C# Guide`]() — coming soon
+- 🌐 [`Rust Guide`](https://bylickilabs.github.io/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules.
+- 🌐 [`Ruby Guide`](https://bylickilabs.github.io/Ruby-guide/) — An advanced, interactive guide for Ruby developers. Featuring 30 real-world modules.
+- 🌐 [`PHP Guide`](https://bylickilabs.github.io/PHP-Guide/) — Comprehensive guide to PHP programming and best practices.
+- 🌐 [`LUA Guide`](https://bylickilabs.github.io/LUA-Guide/) — Interactive Lua Guide: Learn and experiment with advanced Lua concepts—hands-on and easy.
+- 🌐 [`PYTHON Guide`](https://bylickilabs.github.io/Python-Guide/) — Interactive introduction to Python fundamentals and applied examples.
+- 🌐 [`BATCH Guide`](https://bylickilabs.github.io/Batch-Guide/) — Quick start to Windows batch scripting with hands-on tips.
+- 🌐 [`Git Guide`](https://bylickilabs.github.io/Git-Guide/) — Unlock the power of Git: 100 deep-dive modules, visual learning, and workflows in one unified platform.
+- 🌐 [`TS Guide`](https://bylickilabs.github.io/TS-Guide/) — Interactive and practical TypeScript learning suite featuring 30 Modules.
+- 🌐 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
 </details>
 
 ---
