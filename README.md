@@ -47,7 +47,7 @@
     - Your shortcut to real progress!
 
 <details>
-  <summary>🚀 HERE 🚀</summary> 
+  <summary>🚀 HERE 🚀</summary>
    <!--- Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>-->
  
 ### 🆕 Exclusive Guides
