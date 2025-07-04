@@ -52,11 +52,17 @@
  
 ### 🆕 Exclusive Guides
 - 🌐 [`HTML Guide`](https://bylickilabs.github.io/HTML-Guide-v2.0/) — The next-generation HTML learning experience: 30 advanced modules with live code previews.
-- 🌐 [`CSS Guide`](https://bylickilabs.github.io/CSS-Guide/) — Practical overview of all essential CSS techniques.
-- 🌐 [`JavaScript Guide`](https://bylickilabs.github.io/JavaScript-Guide/) — Advanced, hands-on JavaScript learning with 30+ modules.
+  - 🌐 [`CSS Guide`](https://bylickilabs.github.io/CSS-Guide/) — Practical overview of all essential CSS techniques.
+    - 🌐 [`JavaScript Guide`](https://bylickilabs.github.io/JavaScript-Guide/) — Advanced, hands-on JavaScript learning with 30+ modules.
+  
+<br>
+
 - 🌐 [`C Guide`](https://bylickilabs.github.io/C-Guide/) — A modern interactive guide to advanced C programming. Includes 30 real-world modules with code.
-- 🌐 [`C++ Guide`](https://bylickilabs.github.io/Cplusplus--Guide/) — A compact, hands-on reference for modern C++ featuring 30 modules.
-- 🌐 [`C# Guide`]() — coming soon
+  - 🌐 [`C++ Guide`](https://bylickilabs.github.io/Cplusplus--Guide/) — A compact, hands-on reference for modern C++ featuring 30 modules.
+    - 🌐 [`C# Guide`]() — coming soon
+  
+<br>
+
 - 🌐 [`Rust Guide`](https://bylickilabs.github.io/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules.
 - 🌐 [`Ruby Guide`](https://bylickilabs.github.io/Ruby-guide/) — An advanced, interactive guide for Ruby developers. Featuring 30 real-world modules.
 - 🌐 [`PHP Guide`](https://bylickilabs.github.io/PHP-Guide/) — Comprehensive guide to PHP programming and best practices.
@@ -65,7 +71,11 @@
 - 🌐 [`BATCH Guide`](https://bylickilabs.github.io/Batch-Guide/) — Quick start to Windows batch scripting with hands-on tips.
 - 🌐 [`Git Guide`](https://bylickilabs.github.io/Git-Guide/) — Unlock the power of Git: 100 deep-dive modules, visual learning, and workflows in one unified platform.
 - 🌐 [`TS Guide`](https://bylickilabs.github.io/TS-Guide/) — Interactive and practical TypeScript learning suite featuring 30 Modules.
+  
+<br>
+
 - 🌐 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
+  - 📊 [`Markdown Table Maker`](https://bylickilabs.github.io/github-table-maker/) — Simple online creation and editing of Markdown tables.
 </details>
 
 ---
@@ -138,7 +148,6 @@
 - 🚀 [`StatMaster`](https://github.com/bylickilabs/StatMaster) — Interactive data science & statistics app: Import, analyze, and visualize data directly in the browser
 - 🕵️ [`SteganoGraphy`](https://bylickilabs.github.io/SteganoGraphy/) — Hide and reveal secret messages in images, 100% client-side with detection score.
 - 🔐 [`CodeCryptor`](https://bylickilabs.github.io/CodeCryptor/) — Web-based solution for code encryption and obfuscation.
-- 📊 [`Markdown Table Maker`](https://bylickilabs.github.io/github-table-maker/) — Simple online creation and editing of Markdown tables.
 - ✂️ [`CroplyTech`](https://bylickilabs.github.io/CroplyTech/) — Innovative browser tool for cropping and optimizing images.
 - 🛡️ [`Cybersecurity`](https://bylickilabs.github.io/CyberSecLab) — Interactive suite for hands-on IT security training and awareness.
 - 🧠 [`Awareness Trainer`](https://bylickilabs.github.io/Security-Awareness-Trainer) — Quiz-based platform to boost cybersecurity awareness.
