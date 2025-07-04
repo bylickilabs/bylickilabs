@@ -43,7 +43,7 @@
 <br>
 
 - Please click the 👉 “>” icon to open the dropdown menu and display Interactive Guides
-  - All-in-one interactive guides that empower users to learn, experiment, and master programming—clearly, centrally, and hands-on.
+  - All-in-one interactive guides that empower users to learn, experiment, and master programming.
     - Your shortcut to real progress!
 
 <details>
