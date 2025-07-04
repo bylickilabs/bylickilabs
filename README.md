@@ -59,7 +59,7 @@
 
 - 🌐 [`C Guide`](https://bylickilabs.github.io/C-Guide/) — A modern interactive guide to advanced C programming. Includes 30 real-world modules with code.
   - 🌐 [`C++ Guide`](https://bylickilabs.github.io/Cplusplus--Guide/) — A compact, hands-on reference for modern C++ featuring 30 modules.
-    - 🌐 [`C# Guide`]() — coming soon
+    - 🌐 [`C# Guide`](https://bylickilabs.github.io/Csharp/) — A hands-on interactive C# guide with 30 practical modules
   
 <br>
 
