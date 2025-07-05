@@ -72,7 +72,6 @@
 - 🌐 [`Git Guide`](https://bylickilabs.github.io/Git-Guide/) — Unlock the power of Git: 100 deep-dive modules, visual learning, and workflows in one unified platform.
 - 🌐 [`TS Guide`](https://bylickilabs.github.io/TS-Guide/) — Interactive and practical TypeScript learning suite featuring 30 Modules.
 - 🌐 [`Shell Guide`](https://bylickilabs.github.io/Shell-guide/) — A fully functional, browser-based shell guide with interactive modules.
-- 🌐 [`NSIS Guide`](https://bylickilabs.github.io/NSIS-Guide/) — Coming soon
 <br>
 
 - 🌐 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
