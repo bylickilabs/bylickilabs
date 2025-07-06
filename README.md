@@ -1,6 +1,9 @@
 | [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) |
 |---|
 
+|![FullStackHero](https://github.com/user-attachments/assets/d88e1033-313e-4e02-b1e1-686f9c631619)|
+|---|
+
 <br>
 
 - 👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist
