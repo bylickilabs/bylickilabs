@@ -4,8 +4,6 @@
 |![FullStackHero](https://github.com/user-attachments/assets/d88e1033-313e-4e02-b1e1-686f9c631619)|
 |---|
 
-<br>
-
 - 👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist
   - Hi, I’m **Bylickilabs**
     - Founder and creator of systems that don’t just function, but *understand*. 
