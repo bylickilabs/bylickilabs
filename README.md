@@ -1,4 +1,4 @@
-| [![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs) |
+| [![Obfuscator Enterprise Suite](https://img.shields.io/badge/Obfuscator-Enterprise--Ready-253147?style=flat-square&logo=shield&logoColor=white&labelColor=1c2330)](https://obfuscator.me) |
 |---|
 
 |![FullStackHero](https://github.com/user-attachments/assets/d88e1033-313e-4e02-b1e1-686f9c631619)|
