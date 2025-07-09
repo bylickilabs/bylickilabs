@@ -114,6 +114,9 @@
 |![certificate_of_completion_node js](https://github.com/user-attachments/assets/339aff41-7075-4abd-84ef-a5bcbfd81080)|
 |---|
 
+|![certificate_of_completion_numpy](https://github.com/user-attachments/assets/2b19bedb-076f-4f64-8c85-85e2132186da)|
+|---|
+
 |![certificate_of_completion_php](https://github.com/user-attachments/assets/aadb0e41-fcd8-4538-a8dc-a2f5f6156d84)|
 |---|
 
@@ -133,9 +136,6 @@
 |---|
 
 |![certificate_of_completion_dsa](https://github.com/user-attachments/assets/0a66cc9c-ac5b-4d38-9774-af8cc2e49443)|
-|---|
-
-|![certificate_of_completion_numpy](https://github.com/user-attachments/assets/2b19bedb-076f-4f64-8c85-85e2132186da)|
 |---|
 
 |![certificate_of_completion_typescript](https://github.com/user-attachments/assets/04dfa273-46bb-4463-80c3-51a65b6ace4d)|
