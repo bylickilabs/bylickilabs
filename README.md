@@ -96,19 +96,28 @@
 |![certificate_of_completion_javascript](https://github.com/user-attachments/assets/bb1719e9-c44d-45a2-8880-34da35c4d26e)|
 |---|
 
+|![certificate_of_completion_c](https://github.com/user-attachments/assets/867f1147-1412-4233-b6ef-10d661188a53)|
+|---|
+
+|![certificate_of_completion_c++](https://github.com/user-attachments/assets/cca3a632-e16a-4ba9-a405-76bfe29c9ebb)|
+|---|
+
+|![certificate_of_completion_c#](https://github.com/user-attachments/assets/b2d7dce9-42a4-4417-9b32-be5d8d3ca0af)|
+|---|
+
 |![certificate_of_completion_git](https://github.com/user-attachments/assets/303c1108-977a-4414-afef-33ae1b60afde)|
 |---|
 
 |![certificate_of_completion_react](https://github.com/user-attachments/assets/1de60bea-943d-49df-937a-2af79500660c)|
 |---|
 
+|![certificate_of_completion_node js](https://github.com/user-attachments/assets/339aff41-7075-4abd-84ef-a5bcbfd81080)|
+|---|
+
 |![certificate_of_completion_php](https://github.com/user-attachments/assets/aadb0e41-fcd8-4538-a8dc-a2f5f6156d84)|
 |---|
 
 |![certificate_of_completion_python](https://github.com/user-attachments/assets/8b97b0f0-4b53-4d7e-9acb-f2fa09c0c44e)|
-|---|
-
-|![certificate_of_completion_c#](https://github.com/user-attachments/assets/b2d7dce9-42a4-4417-9b32-be5d8d3ca0af)|
 |---|
 
 |![certificate_of_completion_data_science](https://github.com/user-attachments/assets/3ebe2066-7c10-4227-b13b-f3c5f4bb6cd7)|
