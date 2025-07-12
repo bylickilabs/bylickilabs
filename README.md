@@ -5,10 +5,7 @@
   - Hi, I’m **Bylickilabs**
     - Founder and creator of systems that don’t just function, but *understand*. 
       - I specialize in application development, system integration, and cybersecurity.
-
-|<a href="https://app.daily.dev/bylickilabs"><img src="https://api.daily.dev/devcards/v2/u5XmP7slgCNST2o3CiyC2.png?type=wide&r=59r" width="652" alt="BYLICKILABS's Dev Card"/></a>|
-|---|
-
+s
 ---
 
 
