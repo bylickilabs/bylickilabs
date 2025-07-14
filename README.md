@@ -104,6 +104,9 @@ s
 |![certificate_of_completion_typescript](https://github.com/user-attachments/assets/04dfa273-46bb-4463-80c3-51a65b6ace4d)|
 |---|
 
+|![certificate_of_completion_accessibility](https://github.com/user-attachments/assets/3934cf57-ee8f-473d-acb4-4cd1d2607738)|
+|---|
+
 </details>
 
 <br>
