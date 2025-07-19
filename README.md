@@ -107,6 +107,8 @@ s
 
 <br>
 
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
+
 <details>
   <summary>🚀 Interactive Guides 🚀</summary>
    <!--- Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>-->
@@ -215,12 +217,9 @@ s
 
 <br>
 
----
-
-<br>
-
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
+<br>
 
 |![](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=bylickilabs&theme=great-gatsby&hide_border=false) |
 |---|---|
