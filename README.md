@@ -111,6 +111,50 @@ s
 
 <br>
 
+<br>
+
+- Please click the 👉 “>” icon to open the dropdown menu and display Interactive Guides
+  - All-in-one interactive guides that empower users to learn, experiment, and master programming.
+    - Your shortcut to real progress!
+
+<details>
+  <summary>🚀 HERE 🚀</summary>
+   <!--- Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>-->
+ 
+### 🆕 Exclusive Guides
+- 🌐 [`HTML Guide`](https://bylickilabs.github.io/HTML-Guide-v2.0/) — The next-generation HTML learning experience: 30 advanced modules with live code previews.
+  - 🌐 [`CSS Guide`](https://bylickilabs.github.io/CSS-Guide/) — Practical overview of all essential CSS techniques.
+    - 🌐 [`JavaScript Guide`](https://bylickilabs.github.io/JavaScript-Guide/) — Advanced, hands-on JavaScript learning with 30+ modules.
+  
+<br>
+
+- 🌐 [`C Guide`](https://bylickilabs.github.io/C-Guide/) — A modern interactive guide to advanced C programming. Includes 30 real-world modules with code.
+  - 🌐 [`C++ Guide`](https://bylickilabs.github.io/Cplusplus--Guide/) — A compact, hands-on reference for modern C++ featuring 30 modules.
+    - 🌐 [`C# Guide`](https://bylickilabs.github.io/Csharp/) — A hands-on interactive C# guide with 30 practical modules
+  
+<br>
+
+- 🌐 [`Rust Guide`](https://bylickilabs.github.io/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules.
+- 🌐 [`Ruby Guide`](https://bylickilabs.github.io/Ruby-guide/) — An advanced, interactive guide for Ruby developers. Featuring 30 real-world modules.
+- 🌐 [`PHP Guide`](https://bylickilabs.github.io/PHP-Guide/) — Comprehensive guide to PHP programming and best practices.
+- 🌐 [`LUA Guide`](https://bylickilabs.github.io/LUA-Guide/) — Interactive Lua Guide: Learn and experiment with advanced Lua concepts—hands-on and easy.
+- 🌐 [`PYTHON Guide`](https://bylickilabs.github.io/Python-Guide/) — Interactive introduction to Python fundamentals and applied examples.
+- 🌐 [`BATCH Guide`](https://bylickilabs.github.io/Batch-Guide/) — Quick start to Windows batch scripting with hands-on tips.
+- 🌐 [`Git Guide`](https://bylickilabs.github.io/Git-Guide/) — Unlock the power of Git: 100 deep-dive modules, visual learning, and workflows in one unified platform.
+- 🌐 [`TS Guide`](https://bylickilabs.github.io/TS-Guide/) — Interactive and practical TypeScript learning suite featuring 30 Modules.
+- 🌐 [`Shell Guide`](https://bylickilabs.github.io/Shell-guide/) — A fully functional, browser-based shell guide with interactive modules.
+<br>
+
+- 🌐 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
+  - 📊 [`Markdown Table Maker`](https://bylickilabs.github.io/github-table-maker/) — Simple online creation and editing of Markdown tables.
+</details>
+
+<br>
+
+---
+
+<br>
+
 <details>
   <summary>🚀 Featured Projects</summary>
 <br>  
