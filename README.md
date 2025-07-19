@@ -163,7 +163,6 @@ s
 - 🕵️ [`FileAnalyzer`](https://bylickilabs.github.io/FileAnalyzer) — Tool for analyzing file metadata, hashes, and tampering traces.
 - ⚡ [`Zero Day`](https://bylickilabs.github.io/Zero-Day/) — Real-time visualization of zero-day vulnerabilities and exploit cycles.
 - 🌩️ [`Intelligence-Dashboard`](https://bylickilabs.github.io/Intelligence-Dashboard/) — Realtime cyber threat overview with live API integration and trend analysis.
-- 📋 [`TableMaker`](https://github.com/bylickilabs/github-table-maker) — Intuitive web app for fast creation and editing of Markdown tables.
 
 ---
 
