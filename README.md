@@ -111,6 +111,89 @@ s
 
 <br>
 
+<details>
+  <summary>🚀 Featured Projects</summary>
+<br>  
+   - Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>
+ 
+### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
+- ⚙️ [`SystemAnalyzer`](https://github.com/bylickilabs/SystemAnalyzer) — Powerful Python-based Tool for System Statistics & Monitoring
+- 🌐 [`TemplateGenerator`](https://bylickilabs.github.io/TemplateGenerator) — Modern, browser-based HTML/CSS Template Editor and Generator.
+- 🌐 [`SEO Meta Tag Generator`](https://bylickilabs.github.io/SEO-Meta-Tag-Generator/) — SEO Meta Tag Generator.
+- 🔥 [`HashingTool`](https://bylickilabs.github.io/HashingTool) — Compact Tool for Hashing
+- ⚙️ [`SysAnalyzer`](https://github.com/bylickilabs/SysAnalyzer) — Compact Tool for System Informations
+- 🧩 [`HashChecker`](https://github.com/bylickilabs/HashChecker) — Compact Tool for file integrity verification.
+- 🕵️ [`PDFAnalyzer`](https://github.com/bylickilabs/pdfAnalyzer) — PDF Analyzer is an efficient Python tool for automatically analyzing PDF documents.
+- 🚀 [`StatMaster`](https://github.com/bylickilabs/StatMaster) — Interactive data science & statistics app: Import, analyze, and visualize data directly in the browser
+- 🕵️ [`SteganoGraphy`](https://bylickilabs.github.io/SteganoGraphy/) — Hide and reveal secret messages in images, 100% client-side with detection score.
+- 🔐 [`CodeCryptor`](https://bylickilabs.github.io/CodeCryptor/) — Web-based solution for code encryption and obfuscation.
+- ✂️ [`CroplyTech`](https://bylickilabs.github.io/CroplyTech/) — Innovative browser tool for cropping and optimizing images.
+- 🛡️ [`Cybersecurity`](https://bylickilabs.github.io/CyberSecLab) — Interactive suite for hands-on IT security training and awareness.
+- 🧠 [`Awareness Trainer`](https://bylickilabs.github.io/Security-Awareness-Trainer) — Quiz-based platform to boost cybersecurity awareness.
+- 🗝️ [`Password Manager`](https://bylickilabs.github.io/Interaktiver-Passwort-Manager/) — Local password manager with encryption and real-time strength check.
+- 🕵️ [`FileAnalyzer`](https://bylickilabs.github.io/FileAnalyzer) — Tool for analyzing file metadata, hashes, and tampering traces.
+- ⚡ [`Zero Day`](https://bylickilabs.github.io/Zero-Day/) — Real-time visualization of zero-day vulnerabilities and exploit cycles.
+- 🌩️ [`Intelligence-Dashboard`](https://bylickilabs.github.io/Intelligence-Dashboard/) — Realtime cyber threat overview with live API integration and trend analysis.
+- 📋 [`TableMaker`](https://github.com/bylickilabs/github-table-maker) — Intuitive web app for fast creation and editing of Markdown tables.
+
+---
+
+### 🧩 Templates & Starters
+
+- 🌐 [`NeonStarter`](https://github.com/bylickilabs/neonstarter) — Animated UI starter with theme switch and neon visuals  
+- 🧠 [`FocusPulse`](https://github.com/bylickilabs/focuspulse) — Productivity dashboard with timer logic and session tracking  
+- 💼 [`FocusPulse-Pro`](https://github.com/bylickilabs/focuspulse-pro) — Advanced version with analytics, sound modules, and reporting  
+- 🔤 [`MD-Crypter`](https://github.com/bylickilabs/md-crypter) — Markdown encryption and decryption with browser support  
+- 📋 [`Organizer`](https://github.com/bylickilabs/organizer) — Smart note & file organizer with encryption support  
+
+---
+
+### 🔐 Security & Encryption
+
+- 🔒 [`NeonPGP`](https://github.com/bylickilabs/neonpgp) — Browser-based PGP tool with local key storage and secure download  
+- 🧬 [`QuantumKeys-PGP`](https://github.com/bylickilabs/quantumkeys-pgp) — Next-gen encryption interface using quantum-safe principles  
+- 📧 [`Email_En-Decryption`](https://github.com/bylickilabs/email-en-decryption) — Client-side encryption for emails with public key handling  
+- 🔐 [`SecurePass`](https://github.com/bylickilabs/securepass) — Secure password manager with local encryption and no backend  
+- 🧿 [`Password-Manager`](https://github.com/bylickilabs/password-manager) — Offline password storage & generation with clipboard safety  
+- 🔁 [`PasswordGenerator`](https://github.com/bylickilabs/passwordgenerator) — Customizable password generator with export functions  
+- 🔐 [`NeonCryptProSuite`](https://github.com/bylickilabs/neoncryptprosuite) — Full encryption toolkit with file, string, and key features  
+
+---
+
+### 🕵️‍♂️ Forensics & Monitoring
+
+- 🕵️ [`TraceHunter`](https://github.com/bylickilabs/tracehunter) — Web forensic suite with EXIF, hash, and content scanning  
+- 🔎 [`Sleuth`](https://github.com/bylickilabs/sleuth) — Visual metadata explorer with timeline and geo tagging  
+- 🧮 [`SysScope`](https://github.com/bylickilabs/sysscope) — Full system diagnostics toolkit for analysis and reporting  
+- 🖧 [`SpeedScanX`](https://github.com/bylickilabs/speedscanx) — Real-time network scanner with Speedport/Router interface  
+- 🔍 [`Link-Checker`](https://github.com/bylickilabs/link-checker) — Dead-link finder with colored output, CSV export, and domain filter  
+- 🛡️ [`NetProtect`](https://github.com/bylickilabs/netprotect) — Network shield interface with port and firewall monitoring  
+
+---
+
+### 🧠 Tools & Workflow
+
+- ⚙️ [`Context-menu-Lock`](https://github.com/bylickilabs/context-menu-lock) — Client-side DevTools blocker and context protection  
+- 🧰 [`HashForge`](https://github.com/bylickilabs/hashforge) — Hash calculator supporting MD5, SHA, bcrypt with cost selector  
+- 📂 [`Image_Konverter`](https://github.com/bylickilabs/image-konverter) — File conversion interface (PDF, HEIC, TXT, JPG)  
+- 🔄 [`System-Diagnose-Tool`](https://github.com/bylickilabs/system-diagnose-tool) — Node-based diagnostics for networking and services  
+- 🧠 [`TaskFlow-One`](https://github.com/bylickilabs/taskflow-one) — AI-supported task and process planner with timeline  
+- 🔡 [`CodePulse`](https://github.com/bylickilabs/codepulse) — Online code editor with syntax highlighting and neon preview  
+
+---
+
+### 🧪 Simulation & Gamified Systems
+
+- 👤 [`ZeroTrace`](https://github.com/bylickilabs/zerotrace) — Hacker simulation game with terminal-like challenges and upload tools  
+- ⏳ [`ChronoCraft`](https://github.com/bylickilabs/chronocraft) — Visual timeline builder for project planning and story mapping  
+
+</details>
+
+<br>
+
+---
+
+<br>
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
 
