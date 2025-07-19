@@ -179,7 +179,6 @@ s
 ### 🔐 Security & Encryption
 
 - 🧬 [`QuantumKeys-PGP`](https://github.com/bylickilabs/quantumkeys-pgp) — Next-gen encryption interface using quantum-safe principles  
-- 📧 [`Email_En-Decryption`](https://github.com/bylickilabs/email-en-decryption) — Client-side encryption for emails with public key handling  
 - 🔐 [`SecurePass`](https://github.com/bylickilabs/securepass) — Secure password manager with local encryption and no backend  
 - 🧿 [`Password-Manager`](https://github.com/bylickilabs/password-manager) — Offline password storage & generation with clipboard safety  
 - 🔁 [`PasswordGenerator`](https://github.com/bylickilabs/passwordgenerator) — Customizable password generator with export functions  
