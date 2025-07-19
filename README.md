@@ -117,7 +117,6 @@ s
    - Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>
  
 ### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
-- ⚙️ [`SystemAnalyzer`](https://github.com/bylickilabs/SystemAnalyzer) — Powerful Python-based Tool for System Statistics & Monitoring
 - 🌐 [`TemplateGenerator`](https://bylickilabs.github.io/TemplateGenerator) — Modern, browser-based HTML/CSS Template Editor and Generator.
 - 🌐 [`SEO Meta Tag Generator`](https://bylickilabs.github.io/SEO-Meta-Tag-Generator/) — SEO Meta Tag Generator.
 - 🔥 [`HashingTool`](https://bylickilabs.github.io/HashingTool) — Compact Tool for Hashing
