@@ -40,7 +40,7 @@ s
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
-> Dropdown </> W3 CERTIFIED, GUIDES & Projects
+> Dropdown </> W3 CERTIFIED, Guides & Projects
 
 <details>
   <summary> ✅ CERTIFIED</summary>
