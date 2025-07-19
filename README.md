@@ -199,8 +199,7 @@ s
 ### 🧠 Tools & Workflow
 
 - ⚙️ [`Context-menu-Lock`](https://github.com/bylickilabs/context-menu-lock) — Client-side DevTools blocker and context protection  
-- 🧰 [`HashForge`](https://github.com/bylickilabs/hashforge) — Hash calculator supporting MD5, SHA, bcrypt with cost selector  
-- 📂 [`Image_Konverter`](https://github.com/bylickilabs/image-konverter) — File conversion interface (PDF, HEIC, TXT, JPG)  
+- 🧰 [`HashForge`](https://github.com/bylickilabs/hashforge) — Hash calculator supporting MD5, SHA, bcrypt with cost selector  https://bylickilabs.github.io/PasswordGenerator/
 - 🔄 [`System-Diagnose-Tool`](https://github.com/bylickilabs/system-diagnose-tool) — Node-based diagnostics for networking and services  
 - 🧠 [`TaskFlow-One`](https://github.com/bylickilabs/taskflow-one) — AI-supported task and process planner with timeline  
 - 🔡 [`CodePulse`](https://github.com/bylickilabs/codepulse) — Online code editor with syntax highlighting and neon preview  
