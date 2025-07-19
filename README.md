@@ -38,10 +38,6 @@ s
 
 <br>
 
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
-
-<br>
-
 > Dropdown </> W3 CERTIFIED & Projects
 
 <details>
@@ -111,8 +107,6 @@ s
 
 <br>
 
-<br>
-
 <details>
   <summary>🚀 Interactive Guides 🚀</summary>
    <!--- Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>-->
@@ -144,10 +138,6 @@ s
 - 🌐 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
   - 📊 [`Markdown Table Maker`](https://bylickilabs.github.io/github-table-maker/) — Simple online creation and editing of Markdown tables.
 </details>
-
-<br>
-
----
 
 <br>
 
