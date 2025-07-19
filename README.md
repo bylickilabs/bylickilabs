@@ -188,7 +188,6 @@ s
 
 ### 🕵️‍♂️ Forensics & Monitoring
 
-- 🕵️ [`TraceHunter`](https://github.com/bylickilabs/tracehunter) — Web forensic suite with EXIF, hash, and content scanning  
 - 🔎 [`Sleuth`](https://github.com/bylickilabs/sleuth) — Visual metadata explorer with timeline and geo tagging  
 - 🧮 [`SysScope`](https://github.com/bylickilabs/sysscope) — Full system diagnostics toolkit for analysis and reporting  
 - 🖧 [`SpeedScanX`](https://github.com/bylickilabs/speedscanx) — Real-time network scanner with Speedport/Router interface  
