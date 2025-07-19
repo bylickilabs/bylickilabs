@@ -178,7 +178,6 @@ s
 
 ### 🔐 Security & Encryption
 
-- 🔒 [`NeonPGP`](https://github.com/bylickilabs/neonpgp) — Browser-based PGP tool with local key storage and secure download  
 - 🧬 [`QuantumKeys-PGP`](https://github.com/bylickilabs/quantumkeys-pgp) — Next-gen encryption interface using quantum-safe principles  
 - 📧 [`Email_En-Decryption`](https://github.com/bylickilabs/email-en-decryption) — Client-side encryption for emails with public key handling  
 - 🔐 [`SecurePass`](https://github.com/bylickilabs/securepass) — Secure password manager with local encryption and no backend  
