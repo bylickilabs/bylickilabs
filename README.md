@@ -113,12 +113,8 @@ s
 
 <br>
 
-- Please click the 👉 “>” icon to open the dropdown menu and display Interactive Guides
-  - All-in-one interactive guides that empower users to learn, experiment, and master programming.
-    - Your shortcut to real progress!
-
 <details>
-  <summary>🚀 HERE 🚀</summary>
+  <summary>🚀 Interactive Guides 🚀</summary>
    <!--- Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>-->
  
 ### 🆕 Exclusive Guides
