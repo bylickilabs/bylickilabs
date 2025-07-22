@@ -5,7 +5,44 @@
   - Hi, I’m **Bylickilabs**
     - Founder and creator of systems that don’t just function, but *understand*. 
       - I specialize in application development, system integration, and cybersecurity.
-s
+
+<details>
+  <summary> ✅ Quotes - ©Thorsten Bylicki – 2025</summary>
+
+```yarn
+“Technology is not an end in itself – it should expand our thinking and simplify our lives.”
+
+“True progress begins where curiosity meets the courage to execute.”
+
+“Innovation arises when we question the familiar and dare the impossible.”
+
+“Science is the art of asking questions before others provide answers.”
+
+“Those who want to succeed in the digital world must be willing to learn anew every day.”
+
+“Every line of code is a small step toward the future.”
+
+“Digitalization connects people – but character connects ideas.”
+
+“The best software solves problems before anyone even notices them.”
+
+“Technology is constantly evolving – our mindset should be, too.”
+
+“Every advancement begins with a vision – and the courage to realize it.”
+
+“Science gives us the power to question; technology gives us the means to shape.”
+
+“Modern development means: listen, understand, implement – and never stand still.”
+
+“Behind every algorithm lies a thought that can change the world.”
+
+“Innovation is when you never stop asking: What if?”
+
+“The future is built on courage, curiosity – and a strong network.”
+```
+
+</details>
+
 ---
 
 
