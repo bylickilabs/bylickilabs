@@ -6,6 +6,8 @@
     - Founder and creator of systems that don’t just function, but *understand*. 
       - I specialize in application development, system integration, and cybersecurity.
 
+<br>
+
 <details>
   <summary> ✅ Quotes - ©Thorsten Bylicki – 2025</summary>
 
