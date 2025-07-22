@@ -105,6 +105,12 @@ s
 |![certificate_of_completion_accessibility](https://github.com/user-attachments/assets/3934cf57-ee8f-473d-acb4-4cd1d2607738)|
 |---|
 
+|![certificate_of_completion_r](https://github.com/user-attachments/assets/e85bb26f-9540-43dd-b518-a0938e9846fa)|
+|---|
+
+|![certificate_of_completion_xml](https://github.com/user-attachments/assets/3bac8847-7bf6-49cb-9a06-a4c23242dcef)|
+|---|
+
 </details>
 
 <br>
