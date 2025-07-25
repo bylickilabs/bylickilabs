@@ -50,6 +50,24 @@
 - ✅ "End-to-End Web Development – Frontend, Backend & Fullstack Expertise"
 
 <details>
+  <summary> Web Designer</summary>
+
+|![certificate_of_completion_web_design](https://github.com/user-attachments/assets/89b9b721-8d81-4c8a-80ee-0a6ab8df806b)|
+|---|
+
+|![521375534_1130776539115313_948381565750391424_n_1130776519115315](https://github.com/user-attachments/assets/e1d6eb5f-1c6b-4712-8ea4-e6650ee58c36)|
+|---|
+
+|![524354252_1130776535781980_4143118385988834659_n_1130776525781981](https://github.com/user-attachments/assets/f808dd73-e3fd-497f-8a8e-a8633dbbcdd4)|
+|---|
+
+|![certificate_of_completion_bootstrap_4](https://github.com/user-attachments/assets/612de122-a3e2-4209-b077-7bdeb1f3f448)|
+|---|
+
+</details>
+
+
+<details>
   <summary> Data Analytics</summary>
 
 |![1](https://github.com/user-attachments/assets/243f50d4-c4c1-490f-b442-cafbeabd10a7)|
