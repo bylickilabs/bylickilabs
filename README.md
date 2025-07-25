@@ -1,6 +1,6 @@
 ### 🔐 Password Generator PRO  
 **Released:** July 25, 2025 | 07:30 PM
-- [✅ Out now on GitHub](https://bylickilabs.github.io/PasswortGeneratorPro/)
+- [✅ BETA - Out now on GitHub](https://bylickilabs.github.io/PasswortGeneratorPro/)
    - Create secure passwords with entropy analysis, favorites, darkmode and SHA-256 – fully local & responsive.
 
 ---
