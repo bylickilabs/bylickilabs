@@ -8,7 +8,12 @@
   - Hi, I’m **Bylickilabs**
     - Founder and creator of systems that don’t just function, but *understand*. 
       - I specialize in application development, system integration, and cybersecurity.
-     
+
+> 🎓 Update: My official W3Schools certificates are now publicly available on Facebook! Transparency meets expertise
+   - feel free to check them out.
+
+[FACEBOOK](https://www.facebook.com/bylickilabs/photos_albums)
+
 ---
 
 ```yarn
