@@ -47,7 +47,8 @@
 
 <br>
 
-- ✅ "End-to-End Web Development – Frontend, Backend & Fullstack Expertise"
+<details>
+  <summary> Dropdown - ✅ "End-to-End Web Development – Frontend, Backend & Fullstack Expertise"</summary>
 
 <details>
   <summary> Web Designer</summary>
@@ -334,6 +335,8 @@
 
 |![523102094_1130818319111135_115034724693317302_n_1130818315777802](https://github.com/user-attachments/assets/16d10b4a-19d1-42f8-9f20-297f8de507e2)|
 |---|
+
+</details>
 
 </details>
 
