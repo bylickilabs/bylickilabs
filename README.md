@@ -13,6 +13,14 @@
     - Founder and creator of systems that don’t just function, but *understand*. 
       - I specialize in application development, system integration, and cybersecurity.
 
+<details>
+  <summary> Dropdown - 🎭 Behind the Code – My Visual Side "</summary>
+
+|<img width="1024" height="1536" alt="ChatGPT Image 26  Juli 2025, 12_59_49" src="https://github.com/user-attachments/assets/adc7b64d-ea98-4554-b604-c84fb6c417c8" /> | <img width="1536" height="1024" alt="ChatGPT Image 26  Juli 2025, 12_29_11" src="https://github.com/user-attachments/assets/8f852b3d-80ee-47e4-8df5-77aa8343257a" /> | <img width="1024" height="1536" alt="ChatGPT Image 26  Juli 2025, 12_59_54" src="https://github.com/user-attachments/assets/bf54b27e-9de2-44ba-aa77-d416bf8ea4cd" />|
+|---|---|---|
+
+</details>
+
 ---
 
 > 🎓 Update: My official W3Schools certificates are now publicly available on Facebook! Transparency meets expertise
