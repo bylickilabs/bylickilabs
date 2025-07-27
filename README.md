@@ -1,5 +1,5 @@
-Coming soon: **SecureFile Encrypter** July 27, 2025 | 11:00 AM
-<!-- - 🔐 [`Password Generator PRO `](https://bylickilabs.github.io/PasswortGeneratorPro/) — Create secure passwords with entropy analysis, favorites, darkmode and SHA-256-->
+> RELEASE **Secure File Encryptor** | July 27, 2025 - 10:45 AM | Available on DE/EN
+- 🔐 [`Secure File Encryptor`](https://bylickilabs.github.io/SecureFileEncryptor/) — Application for encrypting and decrypting files using AES-GCM.
 
 ---
 
