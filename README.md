@@ -12,50 +12,6 @@
       - I specialize in application development, system integration, and cybersecurity.
 
 <details>
-  <summary> Dropdown - 🎭 Behind the Code – My Visual Side "</summary>
-
-|<img width="1024" height="1536" alt="ChatGPT Image 26  Juli 2025, 12_59_49" src="https://github.com/user-attachments/assets/adc7b64d-ea98-4554-b604-c84fb6c417c8" /> | <img width="1536" height="1024" alt="ChatGPT Image 26  Juli 2025, 12_29_11" src="https://github.com/user-attachments/assets/8f852b3d-80ee-47e4-8df5-77aa8343257a" /> | <img width="1024" height="1536" alt="ChatGPT Image 26  Juli 2025, 12_59_54" src="https://github.com/user-attachments/assets/bf54b27e-9de2-44ba-aa77-d416bf8ea4cd" />|
-|---|---|---|
-
-</details>
-
----
-
-> 🎓 Update: My official W3Schools certificates are now publicly available on Facebook! Transparency meets expertise
-   - feel free to check them out. [FACEBOOK](https://www.facebook.com/bylickilabs/photos_albums)
-
----
-
-```yarn
-• 💍 Married since 2015
-• 👶 I was born on March 17th, 1982
-• 🌍 Based in Germany
-• 👨‍💻 I am currently working on various projects
-• ⚙️ Focused on innovation, encryption, and forensic automation
-• 🚧 My special areas include HTML, CSS, JavaScript, Python, RUBY, RUST, PHP, LUA
-
-🌟 What Drives Me:
-• 🪞 Technology is not just a tool – it's a language, a mindset, a mirror.
-• 🧠 Building systems that adapt and think  
-• ⚙️ Merging engineering with intelligence  
-• 🧩 Automating analysis and encryption  
-• 🔍 Deep-dive problem solving under pressure  
-
-🤝 Soft Skills:
-• 🔍 Analytical thinking & structured debugging  
-• ✍️ Documentation & technical communication  
-• 🤝 Team collaboration – both remote & cross-disciplinary  
-• 🧩 Problem-solving under time pressure
-```
-
-<br>
-
-| [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs.de - Innovation & Software](https://img.shields.io/badge/BylickiLabs-Innovation%20%7C%20Software-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
-|---|---|---|
-
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
-
-<details>
   <summary> Dropdown - ✅ "End-to-End Web Development – Frontend, Backend & Fullstack Expertise"</summary>
 
 <br>
@@ -349,6 +305,40 @@
 </details>
 
 </details>
+
+---
+
+> 🎓 Update: My official W3Schools certificates are now publicly available on Facebook! Transparency meets expertise
+   - feel free to check them out. [FACEBOOK](https://www.facebook.com/bylickilabs/photos_albums)
+
+---
+
+```yarn
+• 💍 Married since 2015
+• 👶 I was born on March 17th, 1982
+• 🌍 Based in Germany
+• 👨‍💻 I am currently working on various projects
+• ⚙️ Focused on innovation, encryption, and forensic automation
+• 🚧 My special areas include HTML, CSS, JavaScript, Python, RUBY, RUST, PHP, LUA
+
+🌟 What Drives Me:
+• 🪞 Technology is not just a tool – it's a language, a mindset, a mirror.
+• 🧠 Building systems that adapt and think  
+• ⚙️ Merging engineering with intelligence  
+• 🧩 Automating analysis and encryption  
+• 🔍 Deep-dive problem solving under pressure  
+
+🤝 Soft Skills:
+• 🔍 Analytical thinking & structured debugging  
+• ✍️ Documentation & technical communication  
+• 🤝 Team collaboration – both remote & cross-disciplinary  
+• 🧩 Problem-solving under time pressure
+```
+
+<br>
+
+| [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs.de - Innovation & Software](https://img.shields.io/badge/BylickiLabs-Innovation%20%7C%20Software-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
+|---|---|---|
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
