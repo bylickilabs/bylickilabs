@@ -1,4 +1,4 @@
-**Coming soon:** SecureFile Encrypter July 27, 2025 | 11:00 AM
+**Coming soon:** **SecureFile Encrypter** July 27, 2025 | 11:00 AM
 <!-- - 🔐 [`Password Generator PRO `](https://bylickilabs.github.io/PasswortGeneratorPro/) — Create secure passwords with entropy analysis, favorites, darkmode and SHA-256-->
 
 ---
