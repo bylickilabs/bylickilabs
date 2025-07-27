@@ -1,5 +1,6 @@
 ### 🔐 Password Generator PRO  
 **Released:** July 25, 2025 | 07:30 PM
+
 - ✅ [`BETA - Out now on GitHub`](https://bylickilabs.github.io/PasswortGeneratorPro/) — Create secure passwords with entropy analysis, favorites, darkmode and SHA-256 – fully local & responsive.
 
 ---
@@ -381,6 +382,7 @@
 - 🌐 [`Git Guide`](https://bylickilabs.github.io/Git-Guide/) — Unlock the power of Git: 100 deep-dive modules, visual learning, and workflows in one unified platform.
 - 🌐 [`TS Guide`](https://bylickilabs.github.io/TS-Guide/) — Interactive and practical TypeScript learning suite featuring 30 Modules.
 - 🌐 [`Shell Guide`](https://bylickilabs.github.io/Shell-guide/) — A fully functional, browser-based shell guide with interactive modules.
+
 <br>
 
 - 🌐 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
