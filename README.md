@@ -308,10 +308,14 @@
 
 ---
 
+<!--
+
 > 🎓 Update: My official W3Schools certificates are now publicly available on Facebook! Transparency meets expertise
    - feel free to check them out. [FACEBOOK](https://www.facebook.com/bylickilabs/photos_albums)
 
 ---
+
+-->
 
 ```yarn
 • 💍 Married since 2015
