@@ -1,5 +1,5 @@
-**Released:** July 25, 2025 | 07:30 PM
-- 🔐 [`Password Generator PRO `](https://bylickilabs.github.io/PasswortGeneratorPro/) — Create secure passwords with entropy analysis, favorites, darkmode and SHA-256
+**Coming soon:** July 27, 2025 | 11:00 AM
+<!-- - 🔐 [`Password Generator PRO `](https://bylickilabs.github.io/PasswortGeneratorPro/) — Create secure passwords with entropy analysis, favorites, darkmode and SHA-256-->
 
 ---
 
@@ -389,6 +389,7 @@
    - Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>
  
 ### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
+- 🔐 [`Password Generator PRO `](https://bylickilabs.github.io/PasswortGeneratorPro/) — Create secure passwords with entropy analysis, favorites, darkmode and SHA-256
 - 🌐 [`TemplateGenerator`](https://bylickilabs.github.io/TemplateGenerator) — Modern, browser-based HTML/CSS Template Editor and Generator.
 - 🌐 [`SEO Meta Tag Generator`](https://bylickilabs.github.io/SEO-Meta-Tag-Generator/) — SEO Meta Tag Generator.
 - 🔥 [`HashingTool`](https://bylickilabs.github.io/HashingTool) — Compact Tool for Hashing
