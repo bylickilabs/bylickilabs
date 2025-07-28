@@ -1,5 +1,8 @@
 > RELEASE **Secure File Encryptor** | July 27, 2025 - 10:45 AM | Available on DE/EN
-- 🔐 [`Secure File Encryptor`](https://bylickilabs.github.io/SecureFileEncryptor/) — Application for encrypting and decrypting files using AES-GCM.
+- 🔐 [`Gh Pages`](https://bylickilabs.github.io/SecureFileEncryptor/) — Application for encrypting and decrypting files using AES-GCM.
+
+> RELEASE **DNA Password Generator** | July 28, 2025 - 03:15 AM | Available on DE/EN
+- 🔐 [`GH Pages`](https://bylickilabs.github.io/DNAPasswordGenerator/) — Creates passwords inspired by complexity of genetic sequences.
 
 ---
 
