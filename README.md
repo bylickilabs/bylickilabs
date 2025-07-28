@@ -473,9 +473,6 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=radical) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&layout=compact&theme=radical&langs_count=20)
 |---|---|
 
-|[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?bylickilabs=ffflabs)](https://github.com/bylickilabs/github-readme-stats)|
-|---|
-
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
 > ## 🏆 GitHub Trophies
