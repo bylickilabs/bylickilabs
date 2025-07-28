@@ -1,5 +1,5 @@
 > RELEASE **Secure File Encryptor** | July 27, 2025 - 10:45 AM | Available on DE/EN
-- 🔐 [`Gh Pages`](https://bylickilabs.github.io/SecureFileEncryptor/) — Application for encrypting and decrypting files using AES-GCM.
+- 🔐 [`GH Pages`](https://bylickilabs.github.io/SecureFileEncryptor/) — Application for encrypting and decrypting files using AES-GCM.
 
 ---
 
