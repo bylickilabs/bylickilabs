@@ -1,4 +1,4 @@
-|[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
+|[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner--Founder-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
 |---|
 
 | <img width="1279" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/9236084f-28ec-46a3-b892-217542dc8456" /> |
