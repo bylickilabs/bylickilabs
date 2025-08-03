@@ -1,6 +1,3 @@
-|[![Visit Hash Studio Pro](https://img.shields.io/badge/🔐%20Hash%20Studio%20Pro-Release%20Tool-blueviolet?style=for-the-badge)](https://bylickilabs.github.io/HashStudioPro/)|
-|---|
-
 |[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
 |---|
 
