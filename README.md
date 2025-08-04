@@ -5,7 +5,7 @@
 |---|
 
 > **VirusTotal File Scanner** | August 01, 2025 - August 03, 2025 | Available on DE/EN
-- 🔐 [`RELEASE`](https://github.com/bylickilabs/VirusTotal-File-Scanner) — A local Python-based graphical GUI application to scan files
+- 🔐 [`RELEASE`](https://github.com/bylickilabs/VirusTotal-File-Scanner) — A local Python-based graphical GUI application to scan files, with 70+ realtime engine
 
 <br>
 
