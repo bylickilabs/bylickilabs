@@ -7,6 +7,14 @@
 > **VirusTotal File Scanner** | August 01, 2025 - August 03, 2025 | Available on DE/EN
 - 🔐 [`RELEASE`](https://github.com/bylickilabs/VirusTotal-File-Scanner) — A local Python-based graphical GUI application to scan files
 
+<details>
+  <summary> Dropdown - COMING SOON</summary>
+
+|<img width="1280" height="640" alt="uart" src="https://github.com/user-attachments/assets/b1e1dcc0-8e09-4d12-aae3-2d66bceb490c" />|
+|---|
+
+</details>
+
 ---
 
 | [![Obfuscator Enterprise Suite](https://img.shields.io/badge/Obfuscator-Enterprise--Ready-253147?style=flat-square&logo=shield&logoColor=white&labelColor=1c2330)](https://www.obfuscator.me) | [![VirusTotal Analyse](https://img.shields.io/badge/VirusTotal-Analyse-blue?style=flat-square&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/url/9b57f097b81182d96c7fd9fc8a8a0309f5265df3269e049d805b059a5ec497b7/details) | [![BylickiLabs on Dev.to](https://img.shields.io/badge/BylickiLabs-on_Dev.to-blue?logo=dev.to)](https://dev.to/bylickilabs) |
