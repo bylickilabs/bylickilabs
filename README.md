@@ -8,7 +8,7 @@
 - 🔐 [`RELEASE`](https://github.com/bylickilabs/VirusTotal-File-Scanner) — A local Python-based graphical GUI application to scan files
 
 <details>
-  <summary> Dropdown - COMING SOON</summary>
+  <summary> Dropdown | COMING SOON - August 10, 2025</summary>
 
 |<img width="1280" height="640" alt="uart" src="https://github.com/user-attachments/assets/b1e1dcc0-8e09-4d12-aae3-2d66bceb490c" />|
 |---|
