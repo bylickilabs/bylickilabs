@@ -10,7 +10,9 @@
 <br>
 
 <details>
-  <summary> Dropdown <</>> Coming soon Raspberry PI 5 (UART Debug Console) - August 10, 2025 (AVAILABLE ON DE/EN)</summary>
+  <summary> Dropdown - COMING SOON</summary>
+
+- 🔥 [`UART Debug Console`](https://github.com/bylickilabs/UART-Debug-Console-Pro/blob/main/README.md) — Raspberry PI 5 Edition
 
 |<img width="1280" height="640" alt="uart" src="https://github.com/user-attachments/assets/b1e1dcc0-8e09-4d12-aae3-2d66bceb490c" />|
 |---|
