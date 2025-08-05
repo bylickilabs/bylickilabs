@@ -17,6 +17,8 @@
 |<img width="1280" height="640" alt="uart" src="https://github.com/user-attachments/assets/b1e1dcc0-8e09-4d12-aae3-2d66bceb490c" />|
 |---|
 
+</details>
+
 ---
 
 <details>
@@ -33,8 +35,6 @@
 - 🔐 [`SecureFileAccessWatcher`](https://github.com/bylickilabs/SecureFileAccessWatcher)
 - 🔐 [`ProcessBehaviorProfiler`](https://github.com/bylickilabs/ProcessBehaviorProfiler)
 - 🔐 [`SmartLogAnalyzer`](https://github.com/bylickilabs/SmartLogAnalyzer)
-
-</details>
 
 </details>
 
