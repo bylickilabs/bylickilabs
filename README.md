@@ -17,6 +17,25 @@
 |<img width="1280" height="640" alt="uart" src="https://github.com/user-attachments/assets/b1e1dcc0-8e09-4d12-aae3-2d66bceb490c" />|
 |---|
 
+---
+
+<details>
+  <summary> Python Releases</summary>
+
+- 🔐 [`Stealth-File-Provenance`](https://github.com/bylickilabs/Stealth-File-Provenance)
+- 🔐 [`VirusTotal-File-Scanner`](https://github.com/bylickilabs/VirusTotal-File-Scanner)
+- 🔐 [`Network-Intelligence-Suite-Toolset`](https://github.com/bylickilabs/Network-Intelligence-Suite-Toolset)
+- 🔐 [`NetworkToolkit`](https://github.com/bylickilabs/NetworkToolkit)
+- 🔐 [`Binary-Visualizer`](https://github.com/bylickilabs/Binary-Visualizer)
+- 🔐 [`Text-Code-Converter`](https://github.com/bylickilabs/Text-Code-Converter)
+- 🔐 [`FileHashChecker`](https://github.com/bylickilabs/FileHashChecker)
+- 🔐 [`ZipCracker`](https://github.com/bylickilabs/ZipCracker)
+- 🔐 [`SecureFileAccessWatcher`](https://github.com/bylickilabs/SecureFileAccessWatcher)
+- 🔐 [`ProcessBehaviorProfiler`](https://github.com/bylickilabs/ProcessBehaviorProfiler)
+- 🔐 [`SmartLogAnalyzer`](https://github.com/bylickilabs/SmartLogAnalyzer)
+
+</details>
+
 </details>
 
 ---
