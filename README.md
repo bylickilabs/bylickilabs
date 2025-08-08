@@ -10,7 +10,7 @@
 <br>
 
 <details>
-  <summary> Dropdown - OUT NOW</summary>
+  <summary> Dropdown | Raspberry Pi 5 - UART Debug Console OUT NOW</summary>
 
 - 🔥 [`UART Debug Console`](https://www.bylickilabs.com/e-commerce/uart-debug-console) — Raspberry PI 5 Edition
 
