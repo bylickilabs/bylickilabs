@@ -12,7 +12,7 @@
 <details>
   <summary> Dropdown - OUT NOW</summary>
 
-- 🔥 [`UART Debug Console`](https://github.com/bylickilabs/UART-Debug-Console-Pro/blob/main/README.md) — Raspberry PI 5 Edition
+- 🔥 [`UART Debug Console`](https://www.bylickilabs.com/e-commerce/uart-debug-console) — Raspberry PI 5 Edition
 
 |<img width="1280" height="640" alt="uart" src="https://github.com/user-attachments/assets/b1e1dcc0-8e09-4d12-aae3-2d66bceb490c" />|
 |---|
