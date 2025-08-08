@@ -10,7 +10,7 @@
 <br>
 
 <details>
-  <summary> Dropdown - COMING SOON | First tests run stable</summary>
+  <summary> Dropdown - OUT NOW</summary>
 
 - 🔥 [`UART Debug Console`](https://github.com/bylickilabs/UART-Debug-Console-Pro/blob/main/README.md) — Raspberry PI 5 Edition
 
