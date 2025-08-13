@@ -50,6 +50,7 @@
 
 ---
 
+<!--
 <details>
   <summary> Dropdown - ✅ "End-to-End Web Development – Frontend, Backend & Fullstack Expertise"</summary>
 
@@ -344,7 +345,7 @@
 </details>
 
 </details>
-
+-->
 ---
 
 <!--
