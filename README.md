@@ -9,6 +9,8 @@
 
 <br>
 
+<!--
+
 <details>
   <summary> Dropdown | Raspberry Pi 5 - UART Debug Console OUT NOW</summary>
 
@@ -37,6 +39,8 @@
 - 🔐 [`SmartLogAnalyzer`](https://github.com/bylickilabs/SmartLogAnalyzer)
 
 </details>
+
+-->
 
 ---
 
