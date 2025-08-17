@@ -9,6 +9,8 @@
   - A local HTML/JavaScript-based graphical web application to explore GitHub profiles and repositories.
   - With multilingual UI and live metrics rendering.
 
+---
+
 > **VirusTotal File Scanner** | Available on DE/EN
 - 🔐 [`RELEASE`](https://github.com/bylickilabs/VirusTotal-File-Scanner)
   - A local Python-based graphical GUI application to scan files.
