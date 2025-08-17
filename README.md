@@ -4,8 +4,15 @@
 | <img width="1279" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/9236084f-28ec-46a3-b892-217542dc8456" /> |
 |---|
 
+> **GitHub Portfolio Hub** | Available on DE/EN
+- 🔐 [`RELEASE`](https://github.com/bylickilabs/GitHub-Portfolio-Hub)
+  - A local HTML/JavaScript-based graphical web application to explore GitHub profiles and repositories.
+  - With multilingual UI and live metrics rendering.
+
 > **VirusTotal File Scanner** | Available on DE/EN
-- 🔐 [`RELEASE`](https://github.com/bylickilabs/VirusTotal-File-Scanner) — A local Python-based graphical GUI application to scan files, with 70+ realtime engine
+- 🔐 [`RELEASE`](https://github.com/bylickilabs/VirusTotal-File-Scanner)
+  - A local Python-based graphical GUI application to scan files.
+    - With 70+ realtime engine
 
 <br>
 
