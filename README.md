@@ -51,9 +51,10 @@
 
 </details>
 
--->
+
 
 ---
+-->
 
 <!--
 | [![Obfuscator Enterprise Suite](https://img.shields.io/badge/Obfuscator-Enterprise--Ready-253147?style=flat-square&logo=shield&logoColor=white&labelColor=1c2330)](https://www.obfuscator.me) | [![VirusTotal Analyse](https://img.shields.io/badge/VirusTotal-Analyse-blue?style=flat-square&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/url/9b57f097b81182d96c7fd9fc8a8a0309f5265df3269e049d805b059a5ec497b7/details) | [![BylickiLabs on Dev.to](https://img.shields.io/badge/BylickiLabs-on_Dev.to-blue?logo=dev.to)](https://dev.to/bylickilabs) |
