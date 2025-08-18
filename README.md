@@ -1,6 +1,9 @@
 <!-- |[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
 |---| -->
 
+| [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs.de - Innovation & Software](https://img.shields.io/badge/BylickiLabs-Innovation%20%7C%20Software-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
+|---|---|---|
+
 | <img width="1279" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/9236084f-28ec-46a3-b892-217542dc8456" /> |
 |---|
 
@@ -400,8 +403,12 @@
 
 <br>
 
+<!--
+
 | [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs.de - Innovation & Software](https://img.shields.io/badge/BylickiLabs-Innovation%20%7C%20Software-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
 |---|---|---|
+
+-->
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
