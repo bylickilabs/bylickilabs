@@ -59,6 +59,7 @@
     - Founder and creator of systems that don’t just function, but *understand*. 
       - I specialize in application development, system integration, and cybersecurity.
 
+<!--
 
 <details>
   <summary> Dropdown - ✅ "End-to-End Web Development – Frontend, Backend & Fullstack Expertise"</summary>
@@ -354,6 +355,8 @@
 </details>
 
 </details>
+
+-->
 
 ---
 
