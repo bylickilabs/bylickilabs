@@ -4,7 +4,7 @@
 | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
 |---|
 
-RELEASE - Augsut, 21.2025 🕥[Advanced Vulnerability Scanner](https://github.com/bylickilabs/Advanced-Vulnerability-Scanner)
+RELEASE - August 21, 2025 🕥[Advanced Vulnerability Scanner](https://github.com/bylickilabs/Advanced-Vulnerability-Scanner)
 
 | <img width="1279" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/9236084f-28ec-46a3-b892-217542dc8456" /> |
 |---|
