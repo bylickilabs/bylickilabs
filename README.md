@@ -1,7 +1,7 @@
 <!-- |[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
 |---| -->
 
-RELEASE - August 21, 2025 🕥 - [Advanced Vulnerability Scanner](https://github.com/bylickilabs/Advanced-Vulnerability-Scanner)
+RELEASE - November 01, 2025 🕥 - [URL-Reputation-Analyzer](https://github.com/bylickilabs/URL-Reputation-Analyzer)
 
 | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
 |---|
