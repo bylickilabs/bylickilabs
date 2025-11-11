@@ -456,7 +456,6 @@ RELEASE - November 01, 2025 🕥 - [URL-Reputation-Analyzer](https://github.com/
 ### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
 - 🔐 [`Password Generator PRO `](https://bylickilabs.github.io/PasswortGeneratorPro/) — Create secure passwords with entropy analysis, favorites, darkmode and SHA-256
 - 🌐 [`TemplateGenerator`](https://bylickilabs.github.io/TemplateGenerator) — Modern, browser-based HTML/CSS Template Editor and Generator.
-- 🌐 [`SEO Meta Tag Generator`](https://bylickilabs.github.io/SEO-Meta-Tag-Generator/) — SEO Meta Tag Generator.
 - 🔥 [`HashingTool`](https://bylickilabs.github.io/HashingTool) — Compact Tool for Hashing
 - ⚙️ [`SysAnalyzer`](https://github.com/bylickilabs/SysAnalyzer) — Compact Tool for System Informations
 - 🧩 [`HashChecker`](https://github.com/bylickilabs/HashChecker) — Compact Tool for file integrity verification.
