@@ -1,7 +1,7 @@
 <!-- |[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
 |---| -->
 
-RELEASE - November 01, 2025 🕥 - [URL-Reputation-Analyzer](https://github.com/bylickilabs/URL-Reputation-Analyzer)
+RELEASE - November 15, 2025 🕥 - [Titancrypt - LandingPage](https://bylickilabs.github.io/TitanCrypt-LandingPage/)
 
 | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
 |---|
