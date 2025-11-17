@@ -72,6 +72,9 @@ RELEASE - November 16, 2025 🕥 - [AURORA Media Engine](https://github.com/byli
     - Founder and creator of systems that don’t just function, but *understand*. 
       - I specialize in application development, system integration, and cybersecurity.
 
+| <img width="1280" height="640" alt="625098c8bd6d485284455dadea2070f0" src="https://github.com/user-attachments/assets/379725ae-40b7-40e9-a3e2-17eea6536ce5" /> |
+|---|
+
 <details>
   <summary> Dropdown - ✅ "End-to-End Web Development – Frontend, Backend & Fullstack Expertise"</summary>
 
