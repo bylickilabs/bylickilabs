@@ -1,7 +1,7 @@
 <!-- |[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
 |---| -->
 
-RELEASE - November 16, 2025 🕥 - [AURORA Media Engine](https://github.com/bylickilabs/AURORA-Media-Engine)
+RELEASE - November 19, 2025 🕥 - [Anonymous IRC Console](https://github.com/bylickilabs/Anonymous-IRC-Console)
 
 | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
 |---|
