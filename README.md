@@ -2,6 +2,7 @@
 |---| -->
 
 RELEASE - November 19, 2025 🕥 - [Anonymous IRC Console](https://github.com/bylickilabs/Anonymous-IRC-Console)
+RELEASE - November 16, 2025 🕥 - [AURORA Media Engine](https://github.com/bylickilabs/AURORA-Media-Engine)
 
 | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
 |---|
