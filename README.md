@@ -18,8 +18,8 @@
 
 | RELEASE | Date   | URL   |
 |:---:|:---:|:---:|
-| Anonymous IRC Console  | November 19, 2025 | ► [LINK](https://github.com/bylickilabs/Anonymous-IRC-Console) ◄ |
-| AURORA Media Engine  | November 16, 2025  | ► [LINK](https://github.com/bylickilabs/AURORA-Media-Engine) ◄ |
+| Anonymous IRC Console  | November 19, 2025 | ► [Github](https://github.com/bylickilabs/Anonymous-IRC-Console) ◄ |
+| AURORA Media Engine  | November 16, 2025  | ► [Github](https://github.com/bylickilabs/AURORA-Media-Engine) ◄ |
 
 </div>
 
