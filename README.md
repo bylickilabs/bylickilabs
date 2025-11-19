@@ -18,7 +18,6 @@
 
 | RELEASE | Date   | URL   |
 |:---:|:---:|:---:|
-|![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188)  |![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) |![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) |
 | Anonymous IRC Console  | November 19, 2025 | ► [LINK](https://github.com/bylickilabs/Anonymous-IRC-Console) ◄ |
 | AURORA Media Engine  | November 16, 2025  | ► [LINK](https://github.com/bylickilabs/AURORA-Media-Engine) ◄ |
 
