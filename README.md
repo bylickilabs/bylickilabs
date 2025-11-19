@@ -1,6 +1,19 @@
 <!-- |[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
 |---| -->
 
+<div align="left">
+
+| [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
+|---|
+
+- 👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist
+  - Hi, I’m **Bylickilabs**
+    - Founder and creator of systems that don’t just function, but *understand*. 
+      - I specialize in application development, system integration, and cybersecurity.
+
+</div>
+
+
 <div align="right">
 
 | RELEASE |    |    |
@@ -9,9 +22,6 @@
 | AURORA Media Engine  | November 16, 2025  | ► [LINK](https://github.com/bylickilabs/AURORA-Media-Engine) ◄ |
 
 </div>
-
-| [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
-|---|
 
 <!--| <img width="1279" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/9236084f-28ec-46a3-b892-217542dc8456" /> |
 |---|
@@ -73,11 +83,6 @@
 | [![Obfuscator Enterprise Suite](https://img.shields.io/badge/Obfuscator-Enterprise--Ready-253147?style=flat-square&logo=shield&logoColor=white&labelColor=1c2330)](https://www.obfuscator.me) | [![VirusTotal Analyse](https://img.shields.io/badge/VirusTotal-Analyse-blue?style=flat-square&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/url/9b57f097b81182d96c7fd9fc8a8a0309f5265df3269e049d805b059a5ec497b7/details) | [![BylickiLabs on Dev.to](https://img.shields.io/badge/BylickiLabs-on_Dev.to-blue?logo=dev.to)](https://dev.to/bylickilabs) |
 |---|---|---|
 -->
-
-- 👨‍💻 Bylickilabs – Owner • CEO • Developer • Founder • Analyst • Technologist
-  - Hi, I’m **Bylickilabs**
-    - Founder and creator of systems that don’t just function, but *understand*. 
-      - I specialize in application development, system integration, and cybersecurity.
 
 | <img width="1280" height="640" alt="625098c8bd6d485284455dadea2070f0" src="https://github.com/user-attachments/assets/379725ae-40b7-40e9-a3e2-17eea6536ce5" /> |
 |---|
