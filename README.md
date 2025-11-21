@@ -84,7 +84,7 @@
 |---|---|---|
 -->
 
-| <img width="1280" height="640" alt="625098c8bd6d485284455dadea2070f0" src="https://github.com/user-attachments/assets/379725ae-40b7-40e9-a3e2-17eea6536ce5" /> |
+| <img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/f786dfdc-4fc9-46c7-aef1-47b725e69b07" /> |
 |---|
 
 <details>
