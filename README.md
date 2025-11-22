@@ -87,8 +87,12 @@
 | <img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/f786dfdc-4fc9-46c7-aef1-47b725e69b07" /> |
 |---|
 
+  
 <details>
-  <summary> Dropdown - ✅ "End-to-End Web Development – Frontend, Backend & Fullstack Expertise"</summary>
+  <summary> Certifications - ✅ "End-to-End Web Development – Frontend, Backend & Fullstack Expertise"</summary>
+
+| [![W3](https://github.com/user-attachments/assets/f8d8686d-9030-4c63-a7fa-cf38ce9fb321)](https://www.w3profile.com/ThorstenBylicki) |
+|---|
 
 <br>
 
@@ -108,7 +112,6 @@
 |---|
 
 </details>
-
 
 <details>
   <summary> Data Analytics</summary>
