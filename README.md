@@ -16,11 +16,11 @@
 
 <div align="right">
 
-| RELEASE | Date   | URL   |
-|:---:|:---:|:---:|
-| Media Information System | November 23, 2025| ► [Github](Media-Information-System) ◄ |
-| Anonymous IRC Console  | November 19, 2025 | ► [Github](https://github.com/bylickilabs/Anonymous-IRC-Console) ◄ |
-| AURORA Media Engine  | November 16, 2025  | ► [Github](https://github.com/bylickilabs/AURORA-Media-Engine) ◄ |
+| RELEASE | Date   | Time | URL   |
+|:---:|:---:|:---:|:---:|
+| Media Information System | November 23, 2025 | 01:00 AM | ► [Github](Media-Information-System) ◄ |
+| Anonymous IRC Console  | November 19, 2025 | 08:00 PM | ► [Github](https://github.com/bylickilabs/Anonymous-IRC-Console) ◄ |
+| AURORA Media Engine  | November 16, 2025  | 04:00 PM | ► [Github](https://github.com/bylickilabs/AURORA-Media-Engine) ◄ |
 
 </div>
 
