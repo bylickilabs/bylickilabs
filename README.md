@@ -18,7 +18,7 @@
 
 | RELEASE | Date   | Time | LICENSE | URL   |
 |:---:|:---:|:---:|:---:|:---:|
-| Media Information System | November 23, 2025 | 01:00 AM | MIT | ► [Github](Media-Information-System) ◄ |
+| Media Information System | November 23, 2025 | 01:00 AM | MIT | ► [Github](https://github.com/bylickilabs/Media-Information-System) ◄ |
 | Anonymous IRC Console  | November 19, 2025 | 08:00 PM | MIT | ► [Github](https://github.com/bylickilabs/Anonymous-IRC-Console) ◄ |
 | AURORA Media Engine  | November 16, 2025  | 04:00 PM | MIT | ► [Github](https://github.com/bylickilabs/AURORA-Media-Engine) ◄ |
 
