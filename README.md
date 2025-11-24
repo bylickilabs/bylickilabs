@@ -88,6 +88,9 @@
 | <img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/f786dfdc-4fc9-46c7-aef1-47b725e69b07" /> |
 |---|
 
+
+| ![be201967ed1e439f9d0ccab6f1e8cace](https://github.com/user-attachments/assets/9ca2296d-f5b3-4eec-a4d0-90c692db72e8) | ![f11b60bd30624dee8828fd7efb687fce](https://github.com/user-attachments/assets/79b95fc7-a4db-4482-94a2-16499a896103) | ![d8f50c7fb2634f43b399498dd10ddb4c](https://github.com/user-attachments/assets/4dc02fcd-dec7-48af-9161-0a8695876779) | ![189d3a0fa29d49baa94ee1b9c50ff34e](https://github.com/user-attachments/assets/14b31921-cd58-44aa-b987-0b47330d2cb0) |
+|---|---|---|---|
   
 <details>
   <summary> Certifications - ✅ "End-to-End Web Development – Frontend, Backend & Fullstack Expertise"</summary>
