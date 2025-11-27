@@ -22,7 +22,7 @@
 
 <div align="right">
 
-| NEW | RELEASE | Date   | Time | LICENSE | URL  | RELEASE |
+| NEW | APPLICATION | Date   | Time | LICENSE | URL  | RELEASE |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | ✅ | SecureVault | November 27, 2025 | 07:45 PM  | MIT | ► [REPOSITORY](https://github.com/bylickilabs/SecureVault) | ► [v1.0.1](https://github.com/bylickilabs/SecureVault/releases/tag/v1.0.1) |
 | ✅ | CryptoGuard Keys | November 24, 2025 | 09:00 PM  | MIT | ► [REPOSITORY](https://github.com/bylickilabs/CryptoGuard-Keys) |  |
