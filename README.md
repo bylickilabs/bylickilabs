@@ -6,10 +6,11 @@
 | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
 |---|
 
+<!--
+
 | <img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/f786dfdc-4fc9-46c7-aef1-47b725e69b07" /> |
 |---|
 
-<!--
 | <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
 |---|
 
