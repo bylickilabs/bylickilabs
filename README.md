@@ -14,10 +14,10 @@
 
 
 - 👨‍💻 Thorsten Bylicki
-  – OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST | ARCHITECT | INNOVATOR | SECURITY SPECIALIST
-    - Hi, I’m **Bylickilabs**
-    - Founder and creator of systems that don’t just function, but *understand*. 
-    - I specialize in application development, system integration, and cybersecurity.
+   - OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST | ARCHITECT | INNOVATOR | SECURITY SPECIALIST
+     - Hi, I’m **Bylickilabs**
+     - Founder and creator of systems that don’t just function, but *understand*. 
+     - I specialize in application development, system integration, and cybersecurity.
 
 </div>
 
