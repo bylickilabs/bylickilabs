@@ -6,6 +6,9 @@
 | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
 |---|
 
+| <img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/f786dfdc-4fc9-46c7-aef1-47b725e69b07" /> |
+|---|
+
 <!--
 | <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
 |---|
@@ -94,11 +97,13 @@
 <!--
 | [![Obfuscator Enterprise Suite](https://img.shields.io/badge/Obfuscator-Enterprise--Ready-253147?style=flat-square&logo=shield&logoColor=white&labelColor=1c2330)](https://www.obfuscator.me) | [![VirusTotal Analyse](https://img.shields.io/badge/VirusTotal-Analyse-blue?style=flat-square&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/url/9b57f097b81182d96c7fd9fc8a8a0309f5265df3269e049d805b059a5ec497b7/details) | [![BylickiLabs on Dev.to](https://img.shields.io/badge/BylickiLabs-on_Dev.to-blue?logo=dev.to)](https://dev.to/bylickilabs) |
 |---|---|---|
--->
+
 
 | <img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/f786dfdc-4fc9-46c7-aef1-47b725e69b07" /> |
 |---|
-  
+
+-->  
+
 <details>
   <summary> Certifications - ✅ "End-to-End Web Development – Frontend, Backend & Fullstack Expertise"</summary>
 
