@@ -6,17 +6,12 @@
 | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
 |---|
 
-<!--
-
-| <img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/f786dfdc-4fc9-46c7-aef1-47b725e69b07" /> |
-|---|
-
 | <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
 |---|
 
 | ![be201967ed1e439f9d0ccab6f1e8cace](https://github.com/user-attachments/assets/9ca2296d-f5b3-4eec-a4d0-90c692db72e8) | ![f11b60bd30624dee8828fd7efb687fce](https://github.com/user-attachments/assets/79b95fc7-a4db-4482-94a2-16499a896103) | ![d8f50c7fb2634f43b399498dd10ddb4c](https://github.com/user-attachments/assets/4dc02fcd-dec7-48af-9161-0a8695876779) | ![189d3a0fa29d49baa94ee1b9c50ff34e](https://github.com/user-attachments/assets/14b31921-cd58-44aa-b987-0b47330d2cb0) |
 |---|---|---|---|
--->
+
 
 - 👨‍💻 Thorsten Bylicki – OWNER • CEO • DEV • FOUNDER • ANALYST • TECHNOLOGIST
   - Hi, I’m **Bylickilabs**
@@ -38,6 +33,9 @@
 | ✅ | AURORA Media Engine  | November 16, 2025  | 04:00 PM | MIT | ► [REPOSITORY](https://github.com/bylickilabs/AURORA-Media-Engine) |  |
 
 </div>
+
+| <img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/f786dfdc-4fc9-46c7-aef1-47b725e69b07" /> |
+|---|
 
 <!--| <img width="1279" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/9236084f-28ec-46a3-b892-217542dc8456" /> |
 |---|
