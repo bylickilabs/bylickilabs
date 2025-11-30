@@ -35,8 +35,8 @@
 
 </div>
 
-| <img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/f786dfdc-4fc9-46c7-aef1-47b725e69b07" /> |
-|---|
+| <img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/f786dfdc-4fc9-46c7-aef1-47b725e69b07" /> | <img width="1280" height="640" alt="github_Neu3" src="https://github.com/user-attachments/assets/46abe13f-632f-4294-9104-d0c1009a1ef3" /> |
+|---|---|
 
 <!--| <img width="1279" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/9236084f-28ec-46a3-b892-217542dc8456" /> |
 |---|
