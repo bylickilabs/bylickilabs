@@ -33,12 +33,12 @@
 | NEW | APPLICATION | DATE   | TIME | LICENSE | URL  | RELEASE | WEBSITE |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 📎 | 🛡️ SecureAI PolicyGuard | COMING SOON | | | |  |  |
-| ✅ | SentinelGuard | November 29, 2025 | 07:30 PM | MIT | ► [REPOSITORY](https://github.com/bylickilabs/SentinelGuard) |  |  |
-| ❌ | SecureVault | November 27, 2025 | 07:45 PM  | MIT | ► [REPOSITORY](https://github.com/bylickilabs/SecureVault) | ► [v1.0.1](https://github.com/bylickilabs/SecureVault/releases/tag/v1.0.1) |  |
-| ❌ | CryptoGuard Keys | November 24, 2025 | 09:00 PM  | MIT | ► [REPOSITORY](https://github.com/bylickilabs/CryptoGuard-Keys) |  |  |
-| ❌ | Media Information System | November 23, 2025 | 01:00 AM | MIT | ► [REPOSITORY](https://github.com/bylickilabs/Media-Information-System) |  |   |
-| ❌ | Anonymous IRC Console  | November 19, 2025 | 08:00 PM | MIT | ► [REPOSITORY](https://github.com/bylickilabs/Anonymous-IRC-Console) |  |  |
-| ❌ | AURORA Media Engine  | November 16, 2025  | 04:00 PM | MIT | ► [REPOSITORY](https://github.com/bylickilabs/AURORA-Media-Engine) |  |  |
+| ✅ | SentinelGuard | November 29, 2025 | 07:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/SentinelGuard) |  |  |
+| ❌ | SecureVault | November 27, 2025 | 07:45 PM  | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureVault) | [v1.0.1](https://github.com/bylickilabs/SecureVault/releases/tag/v1.0.1) |  |
+| ❌ | CryptoGuard Keys | November 24, 2025 | 09:00 PM  | MIT | [REPOSITORY](https://github.com/bylickilabs/CryptoGuard-Keys) |  |  |
+| ❌ | Media Information System | November 23, 2025 | 01:00 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/Media-Information-System) |  |   |
+| ❌ | Anonymous IRC Console  | November 19, 2025 | 08:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/Anonymous-IRC-Console) |  |  |
+| ❌ | AURORA Media Engine  | November 16, 2025  | 04:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/AURORA-Media-Engine) |  |  |
 
 </div>
 
