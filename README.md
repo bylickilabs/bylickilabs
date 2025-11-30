@@ -32,6 +32,7 @@
 
 | NEW | APPLICATION | DATE   | TIME | LICENSE | URL  | RELEASE | WEBSITE |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 12/2025    |     |     |     |     |     |     |     |
 | 📎 | 🛡️ SecureAI PolicyGuard | COMING SOON | | | |  |  |
 |     |     |     |     |     |     |     |     |
 |  11/2025   |     |     |     |     |     |     |     |
