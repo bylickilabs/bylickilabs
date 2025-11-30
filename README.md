@@ -33,6 +33,8 @@
 | NEW | APPLICATION | DATE   | TIME | LICENSE | URL  | RELEASE | WEBSITE |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 📎 | 🛡️ SecureAI PolicyGuard | COMING SOON | | | |  |  |
+|     |     |     |     |     |     |     |     |
+|  11/2025   |     |     |     |     |     |     |     |
 | ✅ | SentinelGuard | 11/29/2025 | 07:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/SentinelGuard) |  |  |
 | ✅ | SecureVault | 11/27/2025 | 07:45 PM  | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureVault) | [v1.0.1](https://github.com/bylickilabs/SecureVault/releases/tag/v1.0.1) |  |
 | ✅ | CryptoGuard Keys | 11/24/2025 | 09:00 PM  | MIT | [REPOSITORY](https://github.com/bylickilabs/CryptoGuard-Keys) |  |  |
