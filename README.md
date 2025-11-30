@@ -33,7 +33,7 @@
 | NEW | APPLICATION | DATE   | TIME | LICENSE | URL  | RELEASE | WEBSITE |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
-| 📎 | 🛡️ SecureAI PolicyGuard | COMING SOON | | | |  |  |
+| 🪄 | 🛡️ SecureAI PolicyGuard | COMING SOON | | | |  |  |
 |     |     |     |     |     |     |     |     |
 |  11/2025   |     |     |     |     |     |     |     |
 | ✅ | SentinelGuard | 11/29/2025 | 07:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/SentinelGuard) |  |  |
