@@ -33,7 +33,7 @@
 | NEW | APPLICATION | DATE   | TIME | LICENSE | URL  | RELEASE | WEBSITE |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
-| 🪄 | 🛡️ SecureAI PolicyGuard | 12/01/2025 | 10:15 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureAI-PolicyGuard) |  | [URL](https://bylickilabs.github.io/SecureAI-PolicyGuard-Website/) |
+| ✅ | 🛡️ SecureAI PolicyGuard | 12/01/2025 | 10:15 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureAI-PolicyGuard) |  | [URL](https://bylickilabs.github.io/SecureAI-PolicyGuard-Website/) |
 |     |     |     |     |     |     |     |     |
 |  11/2025   |     |     |     |     |     |     |     |
 | ✅ | SentinelGuard | 11/29/2025 | 07:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/SentinelGuard) |  |  |
