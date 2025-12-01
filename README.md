@@ -29,14 +29,20 @@
 
 </div>
 
+<div align="center">
+
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
-<div align="right">
+</div>
+
+<div align="center">
 
 | NEW | APPLICATION | DATE   | TIME | LICENSE | URL  | RELEASE | WEBSITE |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
 | ✅ | 🛡️ SecureAI PolicyGuard | 12/01/2025 | 10:15 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureAI-PolicyGuard) |  | [URL](https://bylickilabs.github.io/SecureAI-PolicyGuard-Website/) |
+
+</div>
 
 <!--
 |     |     |     |     |     |     |     |     |
@@ -48,12 +54,15 @@
 | ✅ | Anonymous IRC Console  | 11/19/2025 | 08:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/Anonymous-IRC-Console) |  |  |
 | ✅ | AURORA Media Engine  | 11/16/2025  | 04:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/AURORA-Media-Engine) |  |  |-->
 
-</div>
+
+<div align="center">
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
 | <img width="1280" height="640" alt="github (1)" src="https://github.com/user-attachments/assets/9d9dfef4-97df-44d4-b040-58758230ddc4" /> | <img width="1280" height="640" alt="github_Neu3" src="https://github.com/user-attachments/assets/46abe13f-632f-4294-9104-d0c1009a1ef3" /> | 
 |---|---|
+
+</div>
 
 <!--| <img width="1279" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/9236084f-28ec-46a3-b892-217542dc8456" /> |
 |---|
