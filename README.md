@@ -40,6 +40,7 @@
 | NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
+| ✅ | AURORA Media Engine  | 12/01/2025  | 06:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/AURORA-Media-Engine) | [v1.0.1](https://github.com/bylickilabs/AURORA-Media-Engine/releases/tag/v1.0.1) | [URL](https://github.com/bylickilabs/AURORA-Media-Engine/releases) |
 | ✅ | SecureVault | 12/01/2025 | 03:00 PM  | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureVault) | [v1.0.2](https://github.com/bylickilabs/SecureVault/releases/tag/v1.0.2) | [URL](https://github.com/bylickilabs/SecureVault/releases)  |
 | ✅ | 🛡️ SecureAI PolicyGuard | 12/01/2025 | 10:15 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureAI-PolicyGuard) |  | [URL](https://bylickilabs.github.io/SecureAI-PolicyGuard-Website/) |
 |     |     |     |     |     |     |     |     |
@@ -48,7 +49,6 @@
 | ✅ | CryptoGuard Keys | 11/24/2025 | 09:00 PM  | MIT | [REPOSITORY](https://github.com/bylickilabs/CryptoGuard-Keys) |  |  |
 | ✅ | Media Information System | 11/23/2025 | 01:00 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/Media-Information-System) |  |   |
 | ✅ | Anonymous IRC Console  | 11/19/2025 | 08:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/Anonymous-IRC-Console) |  |  |
-| ✅ | AURORA Media Engine  | 11/16/2025  | 04:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/AURORA-Media-Engine) |  |  |
 
 </div>
 
