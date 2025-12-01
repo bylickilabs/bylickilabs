@@ -37,7 +37,7 @@
 
 <div align="center">
 
-| NEW | APPLICATION | DATE   | TIME | LICENSE | URL  | RELEASE | WEBSITE |
+| NEW | APPLICATION | DATE   | TIME | LICENSE | URL  | UPDATE | WEBSITE |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
 | ✅ | 🛡️ SecureAI PolicyGuard | 12/01/2025 | 10:15 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureAI-PolicyGuard) |  | [URL](https://bylickilabs.github.io/SecureAI-PolicyGuard-Website/) |
