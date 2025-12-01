@@ -48,7 +48,7 @@
 | ✅ | CryptoGuard Keys | 11/24/2025 | 09:00 PM  | MIT | [REPOSITORY](https://github.com/bylickilabs/CryptoGuard-Keys) |  |  |
 | ✅ | Media Information System | 11/23/2025 | 01:00 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/Media-Information-System) |  |   |
 | ✅ | Anonymous IRC Console  | 11/19/2025 | 08:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/Anonymous-IRC-Console) |  |  |
-| ✅ | AURORA Media Engine  | 11/16/2025  | 04:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/AURORA-Media-Engine) |  |  |-->
+| ✅ | AURORA Media Engine  | 11/16/2025  | 04:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/AURORA-Media-Engine) |  |  |
 
 </div>
 
