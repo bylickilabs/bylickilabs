@@ -37,7 +37,7 @@
 
 <div align="center">
 
-| NEW | APPLICATION | DATE   | TIME | LICENSE | URL  | UPDATE | WEBSITE |
+| NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | WEBSITE |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
 | ✅ | SecureVault | 12/01/2025 | 03:00 PM  | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureVault) | [v1.0.2](https://github.com/bylickilabs/SecureVault/releases/tag/v1.0.2) | [URL](https://github.com/bylickilabs/SecureVault/releases)  |
