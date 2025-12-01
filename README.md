@@ -29,6 +29,9 @@
 
 </div>
 
+<br>
+
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
 <div align="right">
 
@@ -48,6 +51,8 @@
 | ✅ | AURORA Media Engine  | 11/16/2025  | 04:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/AURORA-Media-Engine) |  |  |-->
 
 </div>
+
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
 | <img width="1280" height="640" alt="github (1)" src="https://github.com/user-attachments/assets/9d9dfef4-97df-44d4-b040-58758230ddc4" /> | <img width="1280" height="640" alt="github_Neu3" src="https://github.com/user-attachments/assets/46abe13f-632f-4294-9104-d0c1009a1ef3" /> | 
 |---|---|
