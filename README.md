@@ -36,7 +36,7 @@
 </div>
 
 ```
-AI 
+Advanced AI & Automation Technologies
 ```
 
 <div align="center">
