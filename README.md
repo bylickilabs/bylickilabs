@@ -55,6 +55,7 @@ Advanced AI & Automation Technologies
 | NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
+| ✅ | 🛡️ MalwareHunter X | COMING SOON |  |  |  |  |  |  |
 | ✅ | 🛡️ T.A.M.I.U.S.Z | COMING SOON |  |  |  |  |  |  |
 | ✅ | 🛡️ AstraVault AI | COMING SOON |  |  |  |  |  |  |
 | ✅ | 🛡️ SecureAI PolicyGuard | 12/01/2025 | 10:15 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureAI-PolicyGuard) |  | [URL](https://bylickilabs.github.io/SecureAI-PolicyGuard-Website/) |  |
