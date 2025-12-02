@@ -44,6 +44,7 @@ Advanced AI & Automation Technologies
 | NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
+| ✅ | 🛡️ AstraVault AI | COMING SOON |  |  |  |  |  |  |
 | ✅ | 🛡️ SecureAI PolicyGuard | 12/01/2025 | 10:15 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureAI-PolicyGuard) |  | [URL](https://bylickilabs.github.io/SecureAI-PolicyGuard-Website/) |  |
 
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
@@ -55,7 +56,6 @@ Advanced AI & Automation Technologies
 | 12/2025    |     |     |     |     |     |     |     |
 | ✅ | AURORA Media Engine  | 12/01/2025  | 06:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/AURORA-Media-Engine) | [v1.0.1](https://github.com/bylickilabs/AURORA-Media-Engine/releases/tag/v1.0.1) | [URL](https://github.com/bylickilabs/AURORA-Media-Engine/releases) |  |
 | ✅ | SecureVault | 12/01/2025 | 03:00 PM  | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureVault) | [v1.0.2](https://github.com/bylickilabs/SecureVault/releases/tag/v1.0.2) | [URL](https://github.com/bylickilabs/SecureVault/releases)  |  |
-|     |     |     |     |     |     |     |     |
 |  11/2025   |     |     |     |     |     |     |     |
 | ✅ | SentinelGuard | 11/29/2025 | 07:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/SentinelGuard) |  |  |
 | ✅ | CryptoGuard Keys | 11/24/2025 | 09:00 PM  | MIT | [REPOSITORY](https://github.com/bylickilabs/CryptoGuard-Keys) |  |  |
