@@ -35,11 +35,11 @@
 
 </div>
 
+<div align="center">
+
 ```
 Advanced AI & Automation Technologies
 ```
-
-<div align="center">
 
 | NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
