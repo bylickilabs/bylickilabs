@@ -52,7 +52,7 @@ Advanced AI & Automation Technologies
 ```
 
 | NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
 | ✅ | 🛡️ MalwareHunter X | COMING SOON |  |  |  |  |  |  |
 | ✅ | 🛡️ T.A.M.I.U.S.Z | COMING SOON |  |  |  |  |  |  |
