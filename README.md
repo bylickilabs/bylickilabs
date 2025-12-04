@@ -55,7 +55,7 @@ Advanced AI & Automation Technologies
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
 | ✅ | 🛡️ MalwareHunter X | COMING SOON |  |  |  |  |  |  |
-| ✅ | 🛡️ T.A.M.I.U.S.Z | COMING SOON |  |  |  |  |  |  |
+| ✅ | 🛡️ T.A.M.I.U.S.Z | 12/04/2025 | 04:30 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/T.A.M.I.U.S.Z) |  |  |  |
 | ✅ | 🛡️ SystemMonitor Pro AI | 12/03/2025 | 07:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/SystemMonitor-Pro-AI) |  |  |  |
 | ✅ | 🛡️ AstraVault AI | 12/03/2025 | 08:45 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/AstraVaultAI) | / | / | / |
 | ✅ | 🛡️ SecureAI PolicyGuard | 12/01/2025 | 10:15 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureAI-PolicyGuard) | / | [URL](https://bylickilabs.github.io/SecureAI-PolicyGuard-Website/) |  |
