@@ -52,7 +52,7 @@ Operational Scripting · Guided Automation · Windows Execution Frameworks
 ```
 
 | NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
-|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
 | ✅ | Python Installer Script | 12/04/2025 | 09:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/Python-Automation-Installer-Manager) | / | / | / |
 
@@ -61,7 +61,7 @@ Advanced AI & Automation Technologies
 ```
 
 | NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
-|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
 | ✅ | 🛡️ MalwareHunter X | COMING SOON |  |  |  |  |  |  |
 | ✅ | 🛡️ T.A.M.I.U.S.Z | 12/04/2025 | 04:30 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/T.A.M.I.U.S.Z) | / | / | / |
