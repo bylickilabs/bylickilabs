@@ -17,7 +17,7 @@
 | ![Christmas Animation](./christmas_santa.svg) |
 |---|
 
-|[![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)(https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml)|
+|![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)|
 |---|
 
 | <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
