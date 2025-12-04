@@ -14,7 +14,7 @@
 
 <div align="left">
 
-| [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
+|🎄 [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml)🎄|
 |---|
 
 | <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
@@ -31,7 +31,7 @@
 |---|---|---|---|
 -->
 
-- 👨‍💻 Thorsten Bylicki
+- 🎅 Thorsten Bylicki 🎁
    - OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST | ARCHITECT | INNOVATOR | SECURITY SPECIALIST
      - Hi, I’m **Bylickilabs**
      - Founder and creator of systems that don’t just function, but *understand*. 
