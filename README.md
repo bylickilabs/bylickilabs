@@ -15,6 +15,14 @@
 |![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)|
 |---|
 
+</div>
+
+<div align="center">
+
+![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
+
+</div>
+
 | <img width="1280" height="640" alt="santa" src="https://github.com/user-attachments/assets/8c218130-1215-42bb-ac91-988fc5fc0b09" /> |
 |---|
 
