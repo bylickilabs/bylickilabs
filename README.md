@@ -56,6 +56,8 @@ Operational Scripting · Guided Automation · Windows Execution Frameworks
 | 12/2025    |     |     |     |     |     |     |     |
 | ✅ | Python Installer Script | 12/04/2025 | 09:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/Python-Automation-Installer-Manager) | / | / | / |
 
+<br>
+
 ```
 Advanced AI & Automation Technologies
 ```
@@ -68,6 +70,8 @@ Advanced AI & Automation Technologies
 | ✅ | 🛡️ SystemMonitor Pro AI | 12/03/2025 | 07:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/SystemMonitor-Pro-AI) | / | / | / |
 | ✅ | 🛡️ AstraVault AI | 12/03/2025 | 08:45 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/AstraVaultAI) | / | / | / |
 | ✅ | 🛡️ SecureAI PolicyGuard | 12/01/2025 | 10:15 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureAI-PolicyGuard) | / | [URL](https://bylickilabs.github.io/SecureAI-PolicyGuard-Website/) |  |
+
+<br>
 
 ```
 Software Solutions & Digital Innovations
