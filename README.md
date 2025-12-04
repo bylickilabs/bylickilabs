@@ -54,7 +54,7 @@ Operational Scripting · Guided Automation · Windows Execution Frameworks
 | NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
-| ✅ | Python Installer Script | 12/04/2025 | 09:30 PM |  | [REPOSITORY](https://github.com/bylickilabs/Python-Automation-Installer-Manager) | / | / | / |
+| ✅ | Python Installer Script | 12/04/2025 | 09:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/Python-Automation-Installer-Manager) | / | / | / |
 
 ```
 Advanced AI & Automation Technologies
