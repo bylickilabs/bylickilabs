@@ -69,8 +69,6 @@ Advanced AI & Automation Technologies
 | ✅ | 🛡️ AstraVault AI | 12/03/2025 | 08:45 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/AstraVaultAI) | / | / | / |
 | ✅ | 🛡️ SecureAI PolicyGuard | 12/01/2025 | 10:15 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureAI-PolicyGuard) | / | [URL](https://bylickilabs.github.io/SecureAI-PolicyGuard-Website/) |  |
 
-![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
-
 ```
 Software Solutions & Digital Innovations
 ```
