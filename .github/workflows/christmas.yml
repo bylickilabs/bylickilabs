@@ -10,65 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Generate Christmas SVG
+      - name: Generate Christmas SVG from Base64
         run: |
-          cat > christmas_santa.svg << 'EOF'
-<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+          SVG_BASE64="PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIyMDAiIHZpZXdCb3g9IjAgMCA4MDAgMjAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgoKICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMDAxMDI2Ii8+CgogIDxnIGlkPSJzbm93Ij4KICAgIDxjaXJjbGUgY3g9IjUwIiBjeT0iMjAiIHI9IjMiIGZpbGw9IndoaXRlIj4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3kiIGZyb209Ii0xMCIgdG89IjIxMCIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iMTIwIiBjeT0iNDAiIHI9IjIiIGZpbGw9IndoaXRlIj4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3kiIGZyb209Ii0xMCIgdG89IjIxMCIgZHVyPSI1cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iMjAwIiBjeT0iMTAiIHI9IjMiIGZpbGw9IndoaXRlIj4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3kiIGZyb209Ii0xMCIgdG89IjIxMCIgZHVyPSIzLjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSI1MCIgcj0iMiIgZmlsbD0id2hpdGUiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeSIgZnJvbT0iLTEwIiB0bz0iMjEwIiBkdXI9IjQuNXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9IjUwMCIgY3k9IjUiIHI9IjMiIGZpbGw9IndoaXRlIj4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3kiIGZyb209Ii0xMCIgdG89IjIxMCIgZHVyPSIzLjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC9jaXJjbGU+CiAgICA8Y2lyY2xlIGN4PSI3MDAiIGN5PSIyMCIgcj0iMiIgZmlsbD0id2hpdGUiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJjeSIgZnJvbT0iLTEwIiB0bz0iMjEwIiBkdXI9IjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPC9jaXJjbGU+CiAgPC9nPgoKICA8ZyBpZD0ic2FudGEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDg1MCwgODApIj4KICAgIDxyZWN0IHg9IjAiIHk9IjMwIiB3aWR0aD0iODAiIGhlaWdodD0iMjAiIGZpbGw9IiNiMzAwMDAiLz4KICAgIDxyZWN0IHg9IjEwIiB5PSIxNSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjZmYwMDAwIi8+CiAgICA8Y2lyY2xlIGN4PSIzMCIgY3k9IjEwIiByPSIxMCIgZmlsbD0iI2ZmY2NjYyIvPgogICAgPHJlY3QgeD0iMjAiIHk9IjIwIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIGZpbGw9InJlZCIvPgogICAgPGcg dHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTcwLCAwKSI+CiAgICAgIDxjaXJjbGUgY3g9IjAiIGN5PSIzMCIgcj0iMTAiIGZpbGw9IiM4YjQ1MTMiLz4KICAgICAgPGNpcmNsZSBjeD0iLTMwIiBjeT0iMzAiIHI9IjEwIiBmaWxsPSIjOGI0NTEzIi8+CiAgICAgIDxjaXJjbGUgY3g9Ii02MCIgY3k9IjMwIiByPSIxMCIgZmlsbD0iIzhiNDUxMyIvPgogICAgPC9nPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIGZyb209Ijg1MCA4MCIgdG89Ii0zMDAgODAiIGR1cj0iMTJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvZz4KPC9zdmc+"
 
-  <rect width="100%" height="100%" fill="#001026"/>
+          echo "$SVG_BASE64" | base64 --decode > christmas_santa.svg
 
-  <g id="snow">
-    <circle cx="50" cy="20" r="3" fill="white">
-      <animate attributeName="cy" from="-10" to="210" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="120" cy="40" r="2" fill="white">
-      <animate attributeName="cy" from="-10" to="210" dur="5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="200" cy="10" r="3" fill="white">
-      <animate attributeName="cy" from="-10" to="210" dur="3.3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="300" cy="50" r="2" fill="white">
-      <animate attributeName="cy" from="-10" to="210" dur="4.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="500" cy="5" r="3" fill="white">
-      <animate attributeName="cy" from="-10" to="210" dur="3.8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="700" cy="20" r="2" fill="white">
-      <animate attributeName="cy" from="-10" to="210" dur="6s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <g id="santa" transform="translate(850, 80)">
-    <rect x="0" y="30" width="80" height="20" fill="#b30000"/>
-    <rect x="10" y="15" width="40" height="30" fill="#ff0000"/>
-
-    <circle cx="30" cy="10" r="10" fill="#ffcccc"/>
-    <rect x="20" y="20" width="20" height="20" fill="red"/>
-
-    <g transform="translate(-70, 0)">
-      <circle cx="0" cy="30" r="10" fill="#8b4513"/>
-      <circle cx="-30" cy="30" r="10" fill="#8b4513"/>
-      <circle cx="-60" cy="30" r="10" fill="#8b4513"/>
-    </g>
-
-    <animateTransform attributeName="transform"
-      type="translate"
-      from="850 80"
-      to="-300 80"
-      dur="12s"
-      repeatCount="indefinite"/>
-  </g>
-
-</svg>
-EOF
-
-      - name: Commit Christmas SVG
+      - name: Commit SVG
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "actions@github.com"
           git add christmas_santa.svg
-          git commit -m "Update animated Christmas SVG" || echo "No changes"
+          git commit -m "Update Christmas Animation" || echo "No changes"
           git push
