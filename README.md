@@ -10,12 +10,7 @@
 </object>
 
 
-
-
 <div align="left">
-
-| ![Christmas Animation](./christmas_santa.svg) |
-|---|
 
 |![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)|
 |---|
