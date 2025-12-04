@@ -23,7 +23,7 @@
 
 </div>
 
-| <img width="1280" height="640" alt="santa" src="https://github.com/user-attachments/assets/8c218130-1215-42bb-ac91-988fc5fc0b09" /> |
+| <img width="1536" height="1024" alt="x-mas" src="https://github.com/user-attachments/assets/8941b825-387c-4f43-9ed6-423114616932" /> |
 |---|
 
 <!--
