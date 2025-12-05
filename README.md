@@ -43,14 +43,21 @@
 |---|---|---|---|
 -->
 
-<!--- 🎅 BYLICKILABS 🎁-->
+<!--- 🎅 BYLICKILABS 🎁
 - 👨‍💻 BYLICKILABS
    - OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST | ARCHITECT | INNOVATOR | SECURITY SPECIALIST
      - Hi, I’m **Thorsten Bylicki**
      - Founder and creator of systems that don’t just function, but *understand*. 
-     - I specialize in application development, system integration, and cybersecurity.
+     - I specialize in application development, system integration, and cybersecurity.-->
 
 ```yarn
+• 👨‍💻 BYLICKILABS
+• OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST | ARCHITECT | INNOVATOR | SECURITY SPECIALIST
+
+• Hi, I’m **Thorsten Bylicki**
+• Founder and creator of systems that don’t just function, but *understand*. 
+• I specialize in application development, system integration, and cybersecurity.
+
 • 💍 Married since October 23, 2015
 • 👶 I was born on March 17th, 1982
 • 🌍 Based in Germany
