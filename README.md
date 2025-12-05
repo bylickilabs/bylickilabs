@@ -77,9 +77,7 @@ Advanced AI & Automation Technologies
 | NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
-|  | ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020) |  |  |  |  |  |  |  |
 | ✅ | 🛡️ MalwareHunter X | COMING SOON |  |  |  |  |  |  |
-|  | ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020) |  |  |  |  |  |  |  |
 | ✅ | 🛡️ T.A.M.I.U.S.Z | 12/04/2025 | 04:30 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/T.A.M.I.U.S.Z) | / | / | / |
 | ✅ | 🛡️ SystemMonitor Pro AI | 12/03/2025 | 07:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/SystemMonitor-Pro-AI) | / | / | / |
 | ✅ | 🛡️ AstraVault AI | 12/03/2025 | 08:45 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/AstraVaultAI) | / | / | / |
