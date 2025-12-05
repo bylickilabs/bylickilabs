@@ -50,6 +50,28 @@
      - Founder and creator of systems that don’t just function, but *understand*. 
      - I specialize in application development, system integration, and cybersecurity.
 
+```yarn
+• 💍 Married since October 23, 2015
+• 👶 I was born on March 17th, 1982
+• 🌍 Based in Germany
+• 👨‍💻 I am currently working on various projects
+• ⚙️ Focused on innovation, encryption, and forensic automation
+• 🚧 My special areas include HTML, CSS, JavaScript, Python, RUBY, RUST, PHP, LUA
+
+🌟 What Drives Me:
+• 🪞 Technology is not just a tool – it's a language, a mindset, a mirror.
+• 🧠 Building systems that adapt and think  
+• ⚙️ Merging engineering with intelligence  
+• 🧩 Automating analysis and encryption  
+• 🔍 Deep-dive problem solving under pressure  
+
+🤝 Soft Skills:
+• 🔍 Analytical thinking & structured debugging  
+• ✍️ Documentation & technical communication  
+• 🤝 Team collaboration – both remote & cross-disciplinary  
+• 🧩 Problem-solving under time pressure
+```
+
 </div>
 
 <div align="center">
@@ -485,7 +507,7 @@ Software Solutions & Digital Innovations
 
 ---
 
--->
+
 
 ```yarn
 • 💍 Married since October 23, 2015
@@ -508,7 +530,7 @@ Software Solutions & Digital Innovations
 • 🤝 Team collaboration – both remote & cross-disciplinary  
 • 🧩 Problem-solving under time pressure
 ```
-
+-->
 <br>
 
 <!--
