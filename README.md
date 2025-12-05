@@ -62,9 +62,10 @@
 Operational Scripting · Guided Automation · Windows Execution Frameworks
 ```
 
-| NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
+| NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | INFO | RELEASES |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
+| ✅ | 🧬 NexusPy Operator | 12/05/2025 | 10:15 AM | MIT | [Website](https://bylickilabs.github.io/NexusOperator/) | 100% LOCAL | / | / |
 | ✅ | Python Installer Script | 12/04/2025 | 09:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/Python-Automation-Installer-Manager) | / | / | / |
 
 <br>
