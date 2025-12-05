@@ -42,9 +42,9 @@
 |---|---|---|---|
 -->
 
-- 🎅 Thorsten Bylicki 🎁
+- 🎅 BYLICKILABS 🎁
    - OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST | ARCHITECT | INNOVATOR | SECURITY SPECIALIST
-     - Hi, I’m **Bylickilabs**
+     - Hi, I’m **Thorsten Bylicki**
      - Founder and creator of systems that don’t just function, but *understand*. 
      - I specialize in application development, system integration, and cybersecurity.
 
