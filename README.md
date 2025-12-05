@@ -233,6 +233,8 @@ Software Solutions & Digital Innovations
 
 </details>
 
+---
+
 <details>
   <summary> Data Analytics</summary>
 
@@ -259,6 +261,7 @@ Software Solutions & Digital Innovations
 
 </details>
 
+---
 
 <details>
   <summary> Bootstrap Developer</summary>
@@ -274,6 +277,7 @@ Software Solutions & Digital Innovations
 
 </details>
 
+---
 
 <details>
   <summary> Front End Development</summary>
@@ -292,6 +296,7 @@ Software Solutions & Digital Innovations
 
 </details>
 
+---
 
 <details>
   <summary> Modern Web Development</summary>
@@ -338,6 +343,7 @@ Software Solutions & Digital Innovations
 
 </details>
 
+---
 
 <details>
   <summary> Fullstack Developer with PHP</summary>
@@ -384,6 +390,7 @@ Software Solutions & Digital Innovations
 
 </details>
 
+---
 
 <details>
   <summary> Fullstack Developer with Node.js</summary>
@@ -430,6 +437,7 @@ Software Solutions & Digital Innovations
 
 </details>
 
+---
 
 <details>
   <summary> Fullstack Developer with Python</summary>
@@ -476,6 +484,7 @@ Software Solutions & Digital Innovations
 
 </details>
 
+---
 
 <details>
   <summary> Fullsack Developer with Java</summary>
