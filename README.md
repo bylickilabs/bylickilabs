@@ -23,13 +23,14 @@
 
 </div>
 
+<!--
 | <img width="1280" height="640" alt="x-mas_banner" src="https://github.com/user-attachments/assets/87764c5a-bdd9-4b08-b14c-d5bd76dc64fa" /> |
 |---|
+-->
 
-<!--
 | <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
 |---|
--->
+
 
 <!--
 <div align="center">
@@ -42,7 +43,8 @@
 |---|---|---|---|
 -->
 
-- 🎅 BYLICKILABS 🎁
+<!--- 🎅 BYLICKILABS 🎁-->
+- 👨‍💻 BYLICKILABS
    - OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST | ARCHITECT | INNOVATOR | SECURITY SPECIALIST
      - Hi, I’m **Thorsten Bylicki**
      - Founder and creator of systems that don’t just function, but *understand*. 
