@@ -135,7 +135,6 @@ Software Solutions & Digital Innovations
 
 <details>
   <summary>🚀 Interactive Guides</summary>
-   <!--- Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>-->
  
 ### 🆕 Exclusive Guides
 - 🌐 [`HTML Guide`](https://bylickilabs.github.io/HTML-Guide-v2.0/) — The next-generation HTML learning experience: 30 advanced modules with live code previews.
@@ -169,8 +168,6 @@ Software Solutions & Digital Innovations
 
 <details>
   <summary>🚀 Featured Projects</summary>
-<br>  
-   - Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>
  
 ### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
 - 🔐 [`Password Generator PRO `](https://bylickilabs.github.io/PasswortGeneratorPro/) — Create secure passwords with entropy analysis, favorites, darkmode and SHA-256
