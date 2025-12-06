@@ -515,8 +515,6 @@ Software Solutions & Digital Innovations
 
 </details>
 
----
-
 <!--
 
 > 🎓 Update: My official W3Schools certificates are now publicly available on Facebook! Transparency meets expertise
