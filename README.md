@@ -789,7 +789,6 @@ Software Solutions & Digital Innovations
 
 </details>
 
----
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
 
