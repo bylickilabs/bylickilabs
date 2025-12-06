@@ -3,7 +3,7 @@
 |[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
 |---|
 
-| [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs(A)lgorithm](https://img.shields.io/badge/(B)ylickiLabs-(E)ncryption%20%7C(A)lgorithm-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
+| [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs(A)lgorithm](https://img.shields.io/badge/(B)ylickiLabs-(E)ncryption%20(A)lgorithm-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
 |---|---|---|
 
 </div>
