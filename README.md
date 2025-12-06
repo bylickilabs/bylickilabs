@@ -247,7 +247,7 @@ Software Solutions & Digital Innovations
 
 
 <details>
-  <summary> ⚙️ Systems, Frameworks & Development Ecosystem 🚀</summary>
+  <summary> ⚙️ Systems, Frameworks & Development Ecosystem</summary>
 
 | <img width="1280" height="640" alt="stack" src="https://github.com/user-attachments/assets/71052988-7af5-45e9-9c64-24c6615cf4d7" /> |
 |---|
