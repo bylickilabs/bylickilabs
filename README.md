@@ -163,6 +163,9 @@ Software Solutions & Digital Innovations
 
 - 🌐 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
   - 📊 [`Markdown Table Maker`](https://bylickilabs.github.io/github-table-maker/) — Simple online creation and editing of Markdown tables.
+
+<br>
+
 </details>
 
 
@@ -233,6 +236,8 @@ Software Solutions & Digital Innovations
 
 - 👤 [`ZeroTrace`](https://github.com/bylickilabs/zerotrace) — Hacker simulation game with terminal-like challenges and upload tools  
 - ⏳ [`ChronoCraft`](https://github.com/bylickilabs/chronocraft) — Visual timeline builder for project planning and story mapping  
+
+<br>
 
 </details>
 
@@ -344,6 +349,8 @@ Software Solutions & Digital Innovations
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+
+<br>
 
 </details>
 
