@@ -245,7 +245,7 @@ Software Solutions & Digital Innovations
 <details>
   <summary> ⚙️ Systems, Frameworks & Development Ecosystem</summary>
 
-| <img width="1280" height="640" alt="stack" src="https://github.com/user-attachments/assets/71052988-7af5-45e9-9c64-24c6615cf4d7" /> |
+| <img width="1280" height="320" alt="stack2" src="https://github.com/user-attachments/assets/ed3c9913-da02-4731-ac8d-9fad0b06c93f" /> |
 |---|
 
 <br>
@@ -666,7 +666,6 @@ Software Solutions & Digital Innovations
 </details>
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
-
 
 > ## 🐍 Github Snake
 
