@@ -546,7 +546,6 @@ Software Solutions & Digital Innovations
 • 🧩 Problem-solving under time pressure
 ```
 -->
-<br>
 
 <!--
 
@@ -592,7 +591,6 @@ Software Solutions & Digital Innovations
   - 📊 [`Markdown Table Maker`](https://bylickilabs.github.io/github-table-maker/) — Simple online creation and editing of Markdown tables.
 </details>
 
-<br>
 
 <details>
   <summary>🚀 Featured Projects</summary>
@@ -782,12 +780,16 @@ Software Solutions & Digital Innovations
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
 
+<div align="center">
+
 > ## 🏆 GitHub Trophies
 
 | ![](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=bylickilabs&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 |---|---|---|
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
+
+</div>
 
 ---
 
