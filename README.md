@@ -1,19 +1,10 @@
-<!-- |[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
-|---| -->
-
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=sQh416mHbHA" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=sQh416mHbHA"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
-
-
 <div align="left">
-
-|![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)|
+  
+|[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
 |---|
+
+| [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs.de - Innovation & Software](https://img.shields.io/badge/BylickiLabs-Innovation%20%7C%20Software-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
+|---|---|---|
 
 </div>
 
@@ -31,24 +22,22 @@
 | <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
 |---|
 
-
 <!--
+-🎓 Update: My official W3Schools certificates are now publicly available on Facebook! Transparency meets expertise
+  - feel free to check them out. [FACEBOOK](https://www.facebook.com/bylickilabs/photos_albums)
+
+
 <div align="center">
 
    ### Advanced Industrial Firewall Systems (AIFS) - 07/2026
 
-</div>
+</div>-->
 
-| ![be201967ed1e439f9d0ccab6f1e8cace](https://github.com/user-attachments/assets/9ca2296d-f5b3-4eec-a4d0-90c692db72e8) | ![f11b60bd30624dee8828fd7efb687fce](https://github.com/user-attachments/assets/79b95fc7-a4db-4482-94a2-16499a896103) | ![d8f50c7fb2634f43b399498dd10ddb4c](https://github.com/user-attachments/assets/4dc02fcd-dec7-48af-9161-0a8695876779) | ![189d3a0fa29d49baa94ee1b9c50ff34e](https://github.com/user-attachments/assets/14b31921-cd58-44aa-b987-0b47330d2cb0) |
+
+<!--| ![be201967ed1e439f9d0ccab6f1e8cace](https://github.com/user-attachments/assets/9ca2296d-f5b3-4eec-a4d0-90c692db72e8) | ![f11b60bd30624dee8828fd7efb687fce](https://github.com/user-attachments/assets/79b95fc7-a4db-4482-94a2-16499a896103) | ![d8f50c7fb2634f43b399498dd10ddb4c](https://github.com/user-attachments/assets/4dc02fcd-dec7-48af-9161-0a8695876779) | ![189d3a0fa29d49baa94ee1b9c50ff34e](https://github.com/user-attachments/assets/14b31921-cd58-44aa-b987-0b47330d2cb0) |
 |---|---|---|---|
 -->
 
-<!--- 🎅 BYLICKILABS 🎁
-- 👨‍💻 BYLICKILABS
-   - OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST | ARCHITECT | INNOVATOR | SECURITY SPECIALIST
-     - Hi, I’m **Thorsten Bylicki**
-     - Founder and creator of systems that don’t just function, but *understand*. 
-     - I specialize in application development, system integration, and cybersecurity.-->
 
 ```yarn
 • 👨‍💻 BYLICKILABS
@@ -145,109 +134,6 @@ Software Solutions & Digital Innovations
 
 <!--| <img width="1279" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/9236084f-28ec-46a3-b892-217542dc8456" /> |
 |---|
--->
-
-<!--
-
-> **GitHub Portfolio Hub** | Available on DE/EN
-- 🔐 [`RELEASE`](https://github.com/bylickilabs/GitHub-Portfolio-Hub)
-  - A local HTML/JavaScript-based graphical web application to explore GitHub profiles and repositories.
-  - With multilingual UI and live metrics rendering.
-
----
-
-> **VirusTotal File Scanner** | Available on DE/EN
-- 🔐 [`RELEASE`](https://github.com/bylickilabs/VirusTotal-File-Scanner)
-  - A local Python-based graphical GUI application to scan files.
-    - With 70+ realtime engine
-
-<br>
-
-
-
-<details>
-  <summary> Dropdown | Raspberry Pi 5 - UART Debug Console OUT NOW</summary>
-
-- 🔥 [`UART Debug Console`](https://www.bylickilabs.com/e-commerce/uart-debug-console) — Raspberry PI 5 Edition
-
-|<img width="1280" height="640" alt="uart" src="https://github.com/user-attachments/assets/b1e1dcc0-8e09-4d12-aae3-2d66bceb490c" />|
-|---|
-
-</details>
-
----
-
-<details>
-  <summary> Python Releases</summary>
-
-- 🔐 [`Stealth-File-Provenance`](https://github.com/bylickilabs/Stealth-File-Provenance)
-- 🔐 [`VirusTotal-File-Scanner`](https://github.com/bylickilabs/VirusTotal-File-Scanner)
-- 🔐 [`Network-Intelligence-Suite-Toolset`](https://github.com/bylickilabs/Network-Intelligence-Suite-Toolset)
-- 🔐 [`NetworkToolkit`](https://github.com/bylickilabs/NetworkToolkit)
-- 🔐 [`Binary-Visualizer`](https://github.com/bylickilabs/Binary-Visualizer)
-- 🔐 [`Text-Code-Converter`](https://github.com/bylickilabs/Text-Code-Converter)
-- 🔐 [`FileHashChecker`](https://github.com/bylickilabs/FileHashChecker)
-- 🔐 [`ZipCracker`](https://github.com/bylickilabs/ZipCracker)
-- 🔐 [`SecureFileAccessWatcher`](https://github.com/bylickilabs/SecureFileAccessWatcher)
-- 🔐 [`ProcessBehaviorProfiler`](https://github.com/bylickilabs/ProcessBehaviorProfiler)
-- 🔐 [`SmartLogAnalyzer`](https://github.com/bylickilabs/SmartLogAnalyzer)
-
-</details>
-
-
-
----
--->
-
-<!--
-| [![Obfuscator Enterprise Suite](https://img.shields.io/badge/Obfuscator-Enterprise--Ready-253147?style=flat-square&logo=shield&logoColor=white&labelColor=1c2330)](https://www.obfuscator.me) | [![VirusTotal Analyse](https://img.shields.io/badge/VirusTotal-Analyse-blue?style=flat-square&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/url/9b57f097b81182d96c7fd9fc8a8a0309f5265df3269e049d805b059a5ec497b7/details) | [![BylickiLabs on Dev.to](https://img.shields.io/badge/BylickiLabs-on_Dev.to-blue?logo=dev.to)](https://dev.to/bylickilabs) |
-|---|---|---|
-
-
-| <img width="1280" height="640" alt="github" src="https://github.com/user-attachments/assets/f786dfdc-4fc9-46c7-aef1-47b725e69b07" /> |
-|---|
-
--->  
-
-
-<!--
-
-> 🎓 Update: My official W3Schools certificates are now publicly available on Facebook! Transparency meets expertise
-   - feel free to check them out. [FACEBOOK](https://www.facebook.com/bylickilabs/photos_albums)
-
----
-
-
-
-```yarn
-• 💍 Married since October 23, 2015
-• 👶 I was born on March 17th, 1982
-• 🌍 Based in Germany
-• 👨‍💻 I am currently working on various projects
-• ⚙️ Focused on innovation, encryption, and forensic automation
-• 🚧 My special areas include HTML, CSS, JavaScript, Python, RUBY, RUST, PHP, LUA
-
-🌟 What Drives Me:
-• 🪞 Technology is not just a tool – it's a language, a mindset, a mirror.
-• 🧠 Building systems that adapt and think  
-• ⚙️ Merging engineering with intelligence  
-• 🧩 Automating analysis and encryption  
-• 🔍 Deep-dive problem solving under pressure  
-
-🤝 Soft Skills:
-• 🔍 Analytical thinking & structured debugging  
-• ✍️ Documentation & technical communication  
-• 🤝 Team collaboration – both remote & cross-disciplinary  
-• 🧩 Problem-solving under time pressure
-```
--->
-
-<!--
-
-| [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs.de - Innovation & Software](https://img.shields.io/badge/BylickiLabs-Innovation%20%7C%20Software-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
-|---|---|---|
-
--->
 
 <!--
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
@@ -782,14 +668,6 @@ Software Solutions & Digital Innovations
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
 
 
-> ## 🏆 GitHub Trophies
-
-| ![](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=bylickilabs&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
-|---|---|---|
-
-![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
-
-
 > ## 🐍 Github Snake
 
 |![](https://github.com/bylickilabs/bylickilabs/blob/refs/heads/output/github-snake-dark.svg)|
@@ -797,49 +675,6 @@ Software Solutions & Digital Innovations
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
 
-
-
-
-<!--
-
-<details>
-  <summary> ✅ Quotes - ©Thorsten Bylicki – 2025</summary>
-
-```yarn
-“Technology is not an end in itself – it should expand our thinking and simplify our lives.”
-
-“True progress begins where curiosity meets the courage to execute.”
-
-“Innovation arises when we question the familiar and dare the impossible.”
-
-“Science is the art of asking questions before others provide answers.”
-
-“Those who want to succeed in the digital world must be willing to learn anew every day.”
-
-“Every line of code is a small step toward the future.”
-
-“Digitalization connects people – but character connects ideas.”
-
-“The best software solves problems before anyone even notices them.”
-
-“Technology is constantly evolving – our mindset should be, too.”
-
-“Every advancement begins with a vision – and the courage to realize it.”
-
-“Science gives us the power to question; technology gives us the means to shape.”
-
-“Modern development means: listen, understand, implement – and never stand still.”
-
-“Behind every algorithm lies a thought that can change the world.”
-
-“Innovation is when you never stop asking: What if?”
-
-“The future is built on courage, curiosity – and a strong network.”
-```
-
-</details>
-
--->
 
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
