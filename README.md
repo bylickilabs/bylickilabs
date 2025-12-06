@@ -674,13 +674,11 @@ Software Solutions & Digital Innovations
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
 
-<br>
+<!--<br>
 
-|![](https://github-readme-stats.vercel.app/api?username=bylickilabs&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=bylickilabs&theme=great-gatsby&hide_border=false) |
-|---|---|
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bylickilabs&theme=radical) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bylickilabs&layout=compact&theme=radical&langs_count=20)
-|---|---|
+| [![GitHub Stats-Dark](https://gh-readme-profile.vercel.app/api?username=bylickilabs&theme=dark#gh-dark-mode-only)](https://github.com/bylickilabs/github-readme-profile#gh-dark-mode-only) |
+|---|
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
 
@@ -688,7 +686,9 @@ Software Solutions & Digital Innovations
 |![](https://github-profile-trophy.vercel.app/?username=bylickilabs&theme=monokai&margin-h=10&margin-w=10&no-frame=true&no-bg=true&column=-1)|
 |---|
 
+
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
+-->
 
 > ## 🐍 Github Snake
 |![](https://github.com/bylickilabs/bylickilabs/blob/refs/heads/output/github-snake-dark.svg)|
