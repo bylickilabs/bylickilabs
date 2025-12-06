@@ -209,8 +209,272 @@ Software Solutions & Digital Innovations
 
 -->  
 
+
+<!--
+
+> 🎓 Update: My official W3Schools certificates are now publicly available on Facebook! Transparency meets expertise
+   - feel free to check them out. [FACEBOOK](https://www.facebook.com/bylickilabs/photos_albums)
+
+---
+
+
+
+```yarn
+• 💍 Married since October 23, 2015
+• 👶 I was born on March 17th, 1982
+• 🌍 Based in Germany
+• 👨‍💻 I am currently working on various projects
+• ⚙️ Focused on innovation, encryption, and forensic automation
+• 🚧 My special areas include HTML, CSS, JavaScript, Python, RUBY, RUST, PHP, LUA
+
+🌟 What Drives Me:
+• 🪞 Technology is not just a tool – it's a language, a mindset, a mirror.
+• 🧠 Building systems that adapt and think  
+• ⚙️ Merging engineering with intelligence  
+• 🧩 Automating analysis and encryption  
+• 🔍 Deep-dive problem solving under pressure  
+
+🤝 Soft Skills:
+• 🔍 Analytical thinking & structured debugging  
+• ✍️ Documentation & technical communication  
+• 🤝 Team collaboration – both remote & cross-disciplinary  
+• 🧩 Problem-solving under time pressure
+```
+-->
+
+<!--
+
+| [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs.de - Innovation & Software](https://img.shields.io/badge/BylickiLabs-Innovation%20%7C%20Software-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
+|---|---|---|
+
+-->
+
+<!--
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
+-->
+
 <details>
-  <summary> Certifications - ✅ "End-to-End Web Development – Frontend, Backend & Fullstack Expertise"</summary>
+  <summary>🚀 Interactive Guides</summary>
+   <!--- Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>-->
+ 
+### 🆕 Exclusive Guides
+- 🌐 [`HTML Guide`](https://bylickilabs.github.io/HTML-Guide-v2.0/) — The next-generation HTML learning experience: 30 advanced modules with live code previews.
+  - 🌐 [`CSS Guide`](https://bylickilabs.github.io/CSS-Guide/) — Practical overview of all essential CSS techniques.
+    - 🌐 [`JavaScript Guide`](https://bylickilabs.github.io/JavaScript-Guide/) — Advanced, hands-on JavaScript learning with 30+ modules.
+  
+<br>
+
+- 🌐 [`C Guide`](https://bylickilabs.github.io/C-Guide/) — A modern interactive guide to advanced C programming. Includes 30 real-world modules with code.
+  - 🌐 [`C++ Guide`](https://bylickilabs.github.io/Cplusplus--Guide/) — A compact, hands-on reference for modern C++ featuring 30 modules.
+    - 🌐 [`C# Guide`](https://bylickilabs.github.io/Csharp/) — A hands-on interactive C# guide with 30 practical modules
+  
+<br>
+
+- 🌐 [`Rust Guide`](https://bylickilabs.github.io/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules.
+- 🌐 [`Ruby Guide`](https://bylickilabs.github.io/Ruby-guide/) — An advanced, interactive guide for Ruby developers. Featuring 30 real-world modules.
+- 🌐 [`PHP Guide`](https://bylickilabs.github.io/PHP-Guide/) — Comprehensive guide to PHP programming and best practices.
+- 🌐 [`LUA Guide`](https://bylickilabs.github.io/LUA-Guide/) — Interactive Lua Guide: Learn and experiment with advanced Lua concepts—hands-on and easy.
+- 🌐 [`PYTHON Guide`](https://bylickilabs.github.io/Python-Guide/) — Interactive introduction to Python fundamentals and applied examples.
+- 🌐 [`BATCH Guide`](https://bylickilabs.github.io/Batch-Guide/) — Quick start to Windows batch scripting with hands-on tips.
+- 🌐 [`Git Guide`](https://bylickilabs.github.io/Git-Guide/) — Unlock the power of Git: 100 deep-dive modules, visual learning, and workflows in one unified platform.
+- 🌐 [`TS Guide`](https://bylickilabs.github.io/TS-Guide/) — Interactive and practical TypeScript learning suite featuring 30 Modules.
+- 🌐 [`Shell Guide`](https://bylickilabs.github.io/Shell-guide/) — A fully functional, browser-based shell guide with interactive modules.
+
+<br>
+
+- 🌐 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
+  - 📊 [`Markdown Table Maker`](https://bylickilabs.github.io/github-table-maker/) — Simple online creation and editing of Markdown tables.
+</details>
+
+
+<details>
+  <summary>🚀 Featured Projects</summary>
+<br>  
+   - Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>
+ 
+### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
+- 🔐 [`Password Generator PRO `](https://bylickilabs.github.io/PasswortGeneratorPro/) — Create secure passwords with entropy analysis, favorites, darkmode and SHA-256
+- 🌐 [`TemplateGenerator`](https://bylickilabs.github.io/TemplateGenerator) — Modern, browser-based HTML/CSS Template Editor and Generator.
+- 🔥 [`HashingTool`](https://bylickilabs.github.io/HashingTool) — Compact Tool for Hashing
+- ⚙️ [`SysAnalyzer`](https://github.com/bylickilabs/SysAnalyzer) — Compact Tool for System Informations
+- 🧩 [`HashChecker`](https://github.com/bylickilabs/HashChecker) — Compact Tool for file integrity verification.
+- 🕵️ [`PDFAnalyzer`](https://github.com/bylickilabs/pdfAnalyzer) — PDF Analyzer is an efficient Python tool for automatically analyzing PDF documents.
+- 🚀 [`StatMaster`](https://github.com/bylickilabs/StatMaster) — Interactive data science & statistics app: Import, analyze, and visualize data directly in the browser
+- 🕵️ [`SteganoGraphy`](https://bylickilabs.github.io/SteganoGraphy/) — Hide and reveal secret messages in images, 100% client-side with detection score.
+- 🔐 [`CodeCryptor`](https://bylickilabs.github.io/CodeCryptor/) — Web-based solution for code encryption and obfuscation.
+- ✂️ [`CroplyTech`](https://bylickilabs.github.io/CroplyTech/) — Innovative browser tool for cropping and optimizing images.
+- 🛡️ [`Cybersecurity`](https://bylickilabs.github.io/CyberSecLab) — Interactive suite for hands-on IT security training and awareness.
+- 🧠 [`Awareness Trainer`](https://bylickilabs.github.io/Security-Awareness-Trainer) — Quiz-based platform to boost cybersecurity awareness.
+- 🗝️ [`Password Manager`](https://bylickilabs.github.io/Interaktiver-Passwort-Manager/) — Local password manager with encryption and real-time strength check.
+- 🕵️ [`FileAnalyzer`](https://bylickilabs.github.io/FileAnalyzer) — Tool for analyzing file metadata, hashes, and tampering traces.
+- ⚡ [`Zero Day`](https://bylickilabs.github.io/Zero-Day/) — Real-time visualization of zero-day vulnerabilities and exploit cycles.
+- 🌩️ [`Intelligence-Dashboard`](https://bylickilabs.github.io/Intelligence-Dashboard/) — Realtime cyber threat overview with live API integration and trend analysis.
+
+---
+
+### 🧩 Templates & Starters
+
+- 🌐 [`NeonStarter`](https://github.com/bylickilabs/neonstarter) — Animated UI starter with theme switch and neon visuals  
+- 🧠 [`FocusPulse`](https://github.com/bylickilabs/focuspulse) — Productivity dashboard with timer logic and session tracking  
+- 💼 [`FocusPulse-Pro`](https://github.com/bylickilabs/focuspulse-pro) — Advanced version with analytics, sound modules, and reporting  
+- 🔤 [`MD-Crypter`](https://github.com/bylickilabs/md-crypter) — Markdown encryption and decryption with browser support  
+- 📋 [`Organizer`](https://github.com/bylickilabs/organizer) — Smart note & file organizer with encryption support  
+
+---
+
+### 🔐 Security & Encryption
+
+- 🧬 [`QuantumKeys-PGP`](https://github.com/bylickilabs/quantumkeys-pgp) — Next-gen encryption interface using quantum-safe principles  
+- 🔐 [`SecurePass`](https://github.com/bylickilabs/securepass) — Secure password manager with local encryption and no backend  
+- 🧿 [`Password-Manager`](https://github.com/bylickilabs/password-manager) — Offline password storage & generation with clipboard safety  
+- 🔁 [`PasswordGenerator`](https://github.com/bylickilabs/passwordgenerator) — Customizable password generator with export functions  
+- 🔐 [`NeonCryptProSuite`](https://github.com/bylickilabs/neoncryptprosuite) — Full encryption toolkit with file, string, and key features  
+
+---
+
+### 🕵️‍♂️ Forensics & Monitoring
+
+- 🔎 [`Sleuth`](https://github.com/bylickilabs/sleuth) — Visual metadata explorer with timeline and geo tagging  
+- 🧮 [`SysScope`](https://github.com/bylickilabs/sysscope) — Full system diagnostics toolkit for analysis and reporting  
+- 🖧 [`SpeedScanX`](https://github.com/bylickilabs/speedscanx) — Real-time network scanner with Speedport/Router interface  
+- 🔍 [`Link-Checker`](https://github.com/bylickilabs/link-checker) — Dead-link finder with colored output, CSV export, and domain filter  
+- 🛡️ [`NetProtect`](https://github.com/bylickilabs/netprotect) — Network shield interface with port and firewall monitoring  
+
+---
+
+### 🧠 Tools & Workflow
+
+- ⚙️ [`Context-menu-Lock`](https://github.com/bylickilabs/context-menu-lock) — Client-side DevTools blocker and context protection  
+- 🧰 [`HashForge`](https://github.com/bylickilabs/hashforge) — Hash calculator supporting MD5, SHA, bcrypt with cost selector
+- 🔄 [`System-Diagnose-Tool`](https://github.com/bylickilabs/system-diagnose-tool) — Node-based diagnostics for networking and services  
+- 🧠 [`TaskFlow-One`](https://github.com/bylickilabs/taskflow-one) — AI-supported task and process planner with timeline  
+- 🔡 [`CodePulse`](https://github.com/bylickilabs/codepulse) — Online code editor with syntax highlighting and neon preview  
+
+---
+
+### 🧪 Simulation & Gamified Systems
+
+- 👤 [`ZeroTrace`](https://github.com/bylickilabs/zerotrace) — Hacker simulation game with terminal-like challenges and upload tools  
+- ⏳ [`ChronoCraft`](https://github.com/bylickilabs/chronocraft) — Visual timeline builder for project planning and story mapping  
+
+</details>
+
+
+<details>
+  <summary> ⚙️ Systems, Frameworks & Development Ecosystem 🚀</summary>
+
+| <img width="1280" height="640" alt="stack" src="https://github.com/user-attachments/assets/71052988-7af5-45e9-9c64-24c6615cf4d7" /> |
+|---|
+
+<br>
+
+<details>
+  <summary> 🧩 Programming Languages</summary>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+</details>
+
+<br>
+
+<details>
+  <summary> 🎨 Frontend Development</summary>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</details>
+
+<br>
+
+<details>
+  <summary> 🖥 Backend & Frameworks</summary>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+</details>
+
+<br>
+
+<details>
+  <summary> 🗄 Databases</summary>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</details>
+
+<br>
+
+<details>
+  <summary> 🤖 Data Science & Machine Learning</summary>
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+</details>
+
+<br>
+
+<details>
+  <summary> 📦 DevOps, CI/CD & Cloud Infrastructure</summary>
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+</details>
+
+<br>
+
+<details>
+  <summary> 🔧 Tools & Hardware</summary>
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+
+</details>
+
+</details>
+
+
+<details>
+  <summary> ✅ Certifications • End-to-End Web Development • Frontend, Backend & Fullstack Expertise"</summary>
 
 | [![W3](https://github.com/user-attachments/assets/f8d8686d-9030-4c63-a7fa-cf38ce9fb321)](https://www.w3profile.com/ThorstenBylicki) |
 |---|
@@ -515,269 +779,6 @@ Software Solutions & Digital Innovations
 
 </details>
 
-<!--
-
-> 🎓 Update: My official W3Schools certificates are now publicly available on Facebook! Transparency meets expertise
-   - feel free to check them out. [FACEBOOK](https://www.facebook.com/bylickilabs/photos_albums)
-
----
-
-
-
-```yarn
-• 💍 Married since October 23, 2015
-• 👶 I was born on March 17th, 1982
-• 🌍 Based in Germany
-• 👨‍💻 I am currently working on various projects
-• ⚙️ Focused on innovation, encryption, and forensic automation
-• 🚧 My special areas include HTML, CSS, JavaScript, Python, RUBY, RUST, PHP, LUA
-
-🌟 What Drives Me:
-• 🪞 Technology is not just a tool – it's a language, a mindset, a mirror.
-• 🧠 Building systems that adapt and think  
-• ⚙️ Merging engineering with intelligence  
-• 🧩 Automating analysis and encryption  
-• 🔍 Deep-dive problem solving under pressure  
-
-🤝 Soft Skills:
-• 🔍 Analytical thinking & structured debugging  
-• ✍️ Documentation & technical communication  
-• 🤝 Team collaboration – both remote & cross-disciplinary  
-• 🧩 Problem-solving under time pressure
-```
--->
-
-<!--
-
-| [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs.de - Innovation & Software](https://img.shields.io/badge/BylickiLabs-Innovation%20%7C%20Software-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
-|---|---|---|
-
--->
-
-<!--
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
--->
-
-<details>
-  <summary>🚀 Interactive Guides 🚀</summary>
-   <!--- Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>-->
- 
-### 🆕 Exclusive Guides
-- 🌐 [`HTML Guide`](https://bylickilabs.github.io/HTML-Guide-v2.0/) — The next-generation HTML learning experience: 30 advanced modules with live code previews.
-  - 🌐 [`CSS Guide`](https://bylickilabs.github.io/CSS-Guide/) — Practical overview of all essential CSS techniques.
-    - 🌐 [`JavaScript Guide`](https://bylickilabs.github.io/JavaScript-Guide/) — Advanced, hands-on JavaScript learning with 30+ modules.
-  
-<br>
-
-- 🌐 [`C Guide`](https://bylickilabs.github.io/C-Guide/) — A modern interactive guide to advanced C programming. Includes 30 real-world modules with code.
-  - 🌐 [`C++ Guide`](https://bylickilabs.github.io/Cplusplus--Guide/) — A compact, hands-on reference for modern C++ featuring 30 modules.
-    - 🌐 [`C# Guide`](https://bylickilabs.github.io/Csharp/) — A hands-on interactive C# guide with 30 practical modules
-  
-<br>
-
-- 🌐 [`Rust Guide`](https://bylickilabs.github.io/Rust-Guide) — An innovative learning and experimentation area for Rust with 30 practical modules.
-- 🌐 [`Ruby Guide`](https://bylickilabs.github.io/Ruby-guide/) — An advanced, interactive guide for Ruby developers. Featuring 30 real-world modules.
-- 🌐 [`PHP Guide`](https://bylickilabs.github.io/PHP-Guide/) — Comprehensive guide to PHP programming and best practices.
-- 🌐 [`LUA Guide`](https://bylickilabs.github.io/LUA-Guide/) — Interactive Lua Guide: Learn and experiment with advanced Lua concepts—hands-on and easy.
-- 🌐 [`PYTHON Guide`](https://bylickilabs.github.io/Python-Guide/) — Interactive introduction to Python fundamentals and applied examples.
-- 🌐 [`BATCH Guide`](https://bylickilabs.github.io/Batch-Guide/) — Quick start to Windows batch scripting with hands-on tips.
-- 🌐 [`Git Guide`](https://bylickilabs.github.io/Git-Guide/) — Unlock the power of Git: 100 deep-dive modules, visual learning, and workflows in one unified platform.
-- 🌐 [`TS Guide`](https://bylickilabs.github.io/TS-Guide/) — Interactive and practical TypeScript learning suite featuring 30 Modules.
-- 🌐 [`Shell Guide`](https://bylickilabs.github.io/Shell-guide/) — A fully functional, browser-based shell guide with interactive modules.
-
-<br>
-
-- 🌐 [`Markdown Guide`](https://bylickilabs.github.io/MD-Guide/) — Everything you need for Markdown syntax and effective documentation.
-  - 📊 [`Markdown Table Maker`](https://bylickilabs.github.io/github-table-maker/) — Simple online creation and editing of Markdown tables.
-</details>
-
-
-<details>
-  <summary>🚀 Featured Projects</summary>
-<br>  
-   - Eine kuratierte Auswahl an Tools, Frameworks, Security-Modulen und Utilities, entwickelt von **BylickiLabs**.<br>
- 
-### 🆕 Projects, Guides & GH-Pages (EXCLUSIVE)
-- 🔐 [`Password Generator PRO `](https://bylickilabs.github.io/PasswortGeneratorPro/) — Create secure passwords with entropy analysis, favorites, darkmode and SHA-256
-- 🌐 [`TemplateGenerator`](https://bylickilabs.github.io/TemplateGenerator) — Modern, browser-based HTML/CSS Template Editor and Generator.
-- 🔥 [`HashingTool`](https://bylickilabs.github.io/HashingTool) — Compact Tool for Hashing
-- ⚙️ [`SysAnalyzer`](https://github.com/bylickilabs/SysAnalyzer) — Compact Tool for System Informations
-- 🧩 [`HashChecker`](https://github.com/bylickilabs/HashChecker) — Compact Tool for file integrity verification.
-- 🕵️ [`PDFAnalyzer`](https://github.com/bylickilabs/pdfAnalyzer) — PDF Analyzer is an efficient Python tool for automatically analyzing PDF documents.
-- 🚀 [`StatMaster`](https://github.com/bylickilabs/StatMaster) — Interactive data science & statistics app: Import, analyze, and visualize data directly in the browser
-- 🕵️ [`SteganoGraphy`](https://bylickilabs.github.io/SteganoGraphy/) — Hide and reveal secret messages in images, 100% client-side with detection score.
-- 🔐 [`CodeCryptor`](https://bylickilabs.github.io/CodeCryptor/) — Web-based solution for code encryption and obfuscation.
-- ✂️ [`CroplyTech`](https://bylickilabs.github.io/CroplyTech/) — Innovative browser tool for cropping and optimizing images.
-- 🛡️ [`Cybersecurity`](https://bylickilabs.github.io/CyberSecLab) — Interactive suite for hands-on IT security training and awareness.
-- 🧠 [`Awareness Trainer`](https://bylickilabs.github.io/Security-Awareness-Trainer) — Quiz-based platform to boost cybersecurity awareness.
-- 🗝️ [`Password Manager`](https://bylickilabs.github.io/Interaktiver-Passwort-Manager/) — Local password manager with encryption and real-time strength check.
-- 🕵️ [`FileAnalyzer`](https://bylickilabs.github.io/FileAnalyzer) — Tool for analyzing file metadata, hashes, and tampering traces.
-- ⚡ [`Zero Day`](https://bylickilabs.github.io/Zero-Day/) — Real-time visualization of zero-day vulnerabilities and exploit cycles.
-- 🌩️ [`Intelligence-Dashboard`](https://bylickilabs.github.io/Intelligence-Dashboard/) — Realtime cyber threat overview with live API integration and trend analysis.
-
----
-
-### 🧩 Templates & Starters
-
-- 🌐 [`NeonStarter`](https://github.com/bylickilabs/neonstarter) — Animated UI starter with theme switch and neon visuals  
-- 🧠 [`FocusPulse`](https://github.com/bylickilabs/focuspulse) — Productivity dashboard with timer logic and session tracking  
-- 💼 [`FocusPulse-Pro`](https://github.com/bylickilabs/focuspulse-pro) — Advanced version with analytics, sound modules, and reporting  
-- 🔤 [`MD-Crypter`](https://github.com/bylickilabs/md-crypter) — Markdown encryption and decryption with browser support  
-- 📋 [`Organizer`](https://github.com/bylickilabs/organizer) — Smart note & file organizer with encryption support  
-
----
-
-### 🔐 Security & Encryption
-
-- 🧬 [`QuantumKeys-PGP`](https://github.com/bylickilabs/quantumkeys-pgp) — Next-gen encryption interface using quantum-safe principles  
-- 🔐 [`SecurePass`](https://github.com/bylickilabs/securepass) — Secure password manager with local encryption and no backend  
-- 🧿 [`Password-Manager`](https://github.com/bylickilabs/password-manager) — Offline password storage & generation with clipboard safety  
-- 🔁 [`PasswordGenerator`](https://github.com/bylickilabs/passwordgenerator) — Customizable password generator with export functions  
-- 🔐 [`NeonCryptProSuite`](https://github.com/bylickilabs/neoncryptprosuite) — Full encryption toolkit with file, string, and key features  
-
----
-
-### 🕵️‍♂️ Forensics & Monitoring
-
-- 🔎 [`Sleuth`](https://github.com/bylickilabs/sleuth) — Visual metadata explorer with timeline and geo tagging  
-- 🧮 [`SysScope`](https://github.com/bylickilabs/sysscope) — Full system diagnostics toolkit for analysis and reporting  
-- 🖧 [`SpeedScanX`](https://github.com/bylickilabs/speedscanx) — Real-time network scanner with Speedport/Router interface  
-- 🔍 [`Link-Checker`](https://github.com/bylickilabs/link-checker) — Dead-link finder with colored output, CSV export, and domain filter  
-- 🛡️ [`NetProtect`](https://github.com/bylickilabs/netprotect) — Network shield interface with port and firewall monitoring  
-
----
-
-### 🧠 Tools & Workflow
-
-- ⚙️ [`Context-menu-Lock`](https://github.com/bylickilabs/context-menu-lock) — Client-side DevTools blocker and context protection  
-- 🧰 [`HashForge`](https://github.com/bylickilabs/hashforge) — Hash calculator supporting MD5, SHA, bcrypt with cost selector
-- 🔄 [`System-Diagnose-Tool`](https://github.com/bylickilabs/system-diagnose-tool) — Node-based diagnostics for networking and services  
-- 🧠 [`TaskFlow-One`](https://github.com/bylickilabs/taskflow-one) — AI-supported task and process planner with timeline  
-- 🔡 [`CodePulse`](https://github.com/bylickilabs/codepulse) — Online code editor with syntax highlighting and neon preview  
-
----
-
-### 🧪 Simulation & Gamified Systems
-
-- 👤 [`ZeroTrace`](https://github.com/bylickilabs/zerotrace) — Hacker simulation game with terminal-like challenges and upload tools  
-- ⏳ [`ChronoCraft`](https://github.com/bylickilabs/chronocraft) — Visual timeline builder for project planning and story mapping  
-
-</details>
-
-
-<details>
-  <summary> 🧩⚙️ Systems, Frameworks & Development Ecosystem 🚀</summary>
-
-| <img width="1280" height="640" alt="stack" src="https://github.com/user-attachments/assets/71052988-7af5-45e9-9c64-24c6615cf4d7" /> |
-|---|
-
-<br>
-
-<details>
-  <summary> 🧩 Programming Languages</summary>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-</details>
-
-<br>
-
-<details>
-  <summary> 🎨 Frontend Development</summary>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</details>
-
-<br>
-
-<details>
-  <summary> 🖥 Backend & Frameworks</summary>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
-</details>
-
-<br>
-
-<details>
-  <summary> 🗄 Databases</summary>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</details>
-
-<br>
-
-<details>
-  <summary> 🤖 Data Science & Machine Learning</summary>
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-</details>
-
-<br>
-
-<details>
-  <summary> 📦 DevOps, CI/CD & Cloud Infrastructure</summary>
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-</details>
-
-<br>
-
-<details>
-  <summary> 🔧 Tools & Hardware</summary>
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
-
-</details>
-
-</details>
-
-
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
 
 
@@ -795,6 +796,7 @@ Software Solutions & Digital Innovations
 |---|
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
+
 
 
 
