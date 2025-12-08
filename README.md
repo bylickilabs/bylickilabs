@@ -98,36 +98,6 @@ Operational Scripting · Guided Automation · Windows Execution Frameworks
 
 <br>
 
-```
-Advanced AI & Automation Technologies
-```
-
-| NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 12/2025    |     |     |     |     |     |     |     |
-| ✅ | 🛡️ MalwareHunter X | COMING SOON |  |  |  |  |  |  |
-| ✅ | 🛡️ T.A.M.I.U.S.Z | 12/04/2025 | 04:30 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/T.A.M.I.U.S.Z) | / | / | / |
-| ✅ | 🛡️ SystemMonitor Pro AI | 12/03/2025 | 07:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/SystemMonitor-Pro-AI) | / | / | / |
-| ✅ | 🛡️ AstraVault AI | 12/03/2025 | 08:45 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/AstraVaultAI) | / | / | / |
-| ✅ | 🛡️ SecureAI PolicyGuard | 12/01/2025 | 10:15 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureAI-PolicyGuard) | / | [URL](https://bylickilabs.github.io/SecureAI-PolicyGuard-Website/) |  |
-
-<br>
-
-```
-Software Solutions & Digital Innovations
-```
-
-| NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 12/2025    |     |     |     |     |     |     |     |
-| ✅ | AURORA Media Engine  | 12/01/2025  | 06:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/AURORA-Media-Engine) | [v1.0.1](https://github.com/bylickilabs/AURORA-Media-Engine/releases/tag/v1.0.1) | [URL](https://github.com/bylickilabs/AURORA-Media-Engine/releases) | / |
-| ✅ | SecureVault | 12/01/2025 | 03:00 PM  | MIT | [REPOSITORY](https://github.com/bylickilabs/SecureVault) | [v1.0.2](https://github.com/bylickilabs/SecureVault/releases/tag/v1.0.2) | [URL](https://github.com/bylickilabs/SecureVault/releases)  | / |
-|  11/2025   |     |     |     |     |     |     |     |
-| ✅ | SentinelGuard | 11/29/2025 | 07:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/SentinelGuard) | / | / |
-| ✅ | CryptoGuard Keys | 11/24/2025 | 09:00 PM  | MIT | [REPOSITORY](https://github.com/bylickilabs/CryptoGuard-Keys) | / | / |
-| ✅ | Media Information System | 11/23/2025 | 01:00 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/Media-Information-System) | / | / |
-| ✅ | Anonymous IRC Console  | 11/19/2025 | 08:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/Anonymous-IRC-Console) | / | / |
-
 </div>
 
 <div align="center">
