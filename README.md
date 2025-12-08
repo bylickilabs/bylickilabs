@@ -81,7 +81,8 @@ AI-Driven Monitoring · Predictive Security Intelligence · Autonomous Client-Si
 | NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
-| ✅ | 🛡️ AI Security Layer | 12/08/20205 | 00:00 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/ai-monitoring-layer) | / | [URL](https://www.npmjs.com/package/@bylickilabs/ai-monitoring-layer) | / |
+| ✅ | 🛡️ CyberGuard | 12/08/20205 | 03:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/cyber-guard) | / | [NPM URL](https://www.npmjs.com/package/@bylickilabs/cyber-guard) | / |
+| ✅ | 🛡️ AI Security Layer | 12/08/20205 | 00:00 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/ai-monitoring-layer) | / | [NPM URL](https://www.npmjs.com/package/@bylickilabs/ai-monitoring-layer) | / |
 
 <br>
 
