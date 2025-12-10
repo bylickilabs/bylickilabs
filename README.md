@@ -90,7 +90,7 @@ AI-Driven Monitoring · Predictive Security Intelligence · Autonomous Client-Si
 Operational Scripting · Guided Automation · Windows Execution Frameworks
 ```
 
-| NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
+| NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | UPDATE | WEBSITE |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
 | ✅ | 🛡️ EncryptStudio | 12/12/20205 | 09:15 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/EncryptStudio) | [URL](https://github.com/bylickilabs/EncryptStudio/releases/tag/v1.0.1) | [URL](https://bylickilabs.github.io/EncryptStudio-Website/) | / |
