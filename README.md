@@ -93,7 +93,7 @@ Operational Scripting · Guided Automation · Windows Execution Frameworks
 | NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | RELEASES | WEBSITE |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |
-| ✅ | 🛡️ EncryptStudio | 12/11/20205 | 04:00 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/EncryptStudio) | [URL](https://github.com/bylickilabs/EncryptStudio/releases/tag/v1.0.2) | [URL](https://bylickilabs.github.io/EncryptStudio-Website/) | / |
+| ✅ | 🛡️ EncryptStudio | 12/11/20205 | 04:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/EncryptStudio) | [URL](https://github.com/bylickilabs/EncryptStudio/releases/tag/v1.0.2) | [URL](https://bylickilabs.github.io/EncryptStudio-Website/) | / |
 | ✅ | 🧬 NexusPy Operator | 12/05/2025 | 10:15 AM | / | [WEBSITE](https://bylickilabs.github.io/NexusOperator/) | / | / | / |
 | ✅ | Python Installer Script | 12/04/2025 | 09:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/Python-Automation-Installer-Manager) | / | / | / |
 
