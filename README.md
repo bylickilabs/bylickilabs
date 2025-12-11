@@ -78,11 +78,11 @@
 AI-Driven Monitoring · Predictive Security Intelligence · Autonomous Client-Side Protection
 ```
 
-| NEW | APPLICATION | VERSION |DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 12/2025    |     |     |     |     |     |     |     |     |    |
-| ✅ | 🛡️ CyberGuard | V1.0.2 | 12/08/20205 | 03:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/cyber-guard) | / | [NPM URL](https://www.npmjs.com/package/@bylickilabs/cyber-guard) | / |
-| ✅ | 🛡️ AI Security Layer | 12/08/20205 | 00:00 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/ai-monitoring-layer) | / | [NPM URL](https://www.npmjs.com/package/@bylickilabs/ai-monitoring-layer) | / |
+| NEW | APPLICATION |DATE   | TIME | LICENSE | LINK  | UPDATE | RELEASES |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 12/2025    |     |     |     |     |     |     |     |
+| ✅ | 🛡️ CyberGuard | 12/08/20205 | 03:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/cyber-guard) | / | [NPM URL](https://www.npmjs.com/package/@bylickilabs/cyber-guard) |
+| ✅ | 🛡️ AI Security Layer | 12/08/20205 | 00:00 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/ai-monitoring-layer) | / | [NPM URL](https://www.npmjs.com/package/@bylickilabs/ai-monitoring-layer) |
 
 <br>
 
@@ -90,12 +90,12 @@ AI-Driven Monitoring · Predictive Security Intelligence · Autonomous Client-Si
 Operational Scripting · Guided Automation · Windows Execution Frameworks
 ```
 
-| NEW | APPLICATION | DATE   | TIME | LICENSE | LINK  | RELEASES | WEBSITE |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 12/2025    |     |     |     |     |     |     |     |
-| ✅ | 🛡️ EncryptStudio | 12/11/20205 | 04:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/EncryptStudio) | [URL](https://github.com/bylickilabs/EncryptStudio/releases/tag/v1.0.2) | [URL](https://bylickilabs.github.io/EncryptStudio-Website/) | / |
-| ✅ | 🧬 NexusPy Operator | 12/05/2025 | 10:15 AM | / | [WEBSITE](https://bylickilabs.github.io/NexusOperator/) | / | / | / |
-| ✅ | Python Installer Script | 12/04/2025 | 09:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/Python-Automation-Installer-Manager) | / | / | / |
+| NEW | APPLICATION | DATE   | VERSION | TIME | LICENSE | LINK  | RELEASES | WEBSITE |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 12/2025    |     |     |     |     |     |     |     |   | 
+| ✅ | 🛡️ EncryptStudio | 12/11/20205 | v1.0.2 | 04:00 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/EncryptStudio) | [URL](https://github.com/bylickilabs/EncryptStudio/releases/tag/v1.0.2) | [URL](https://bylickilabs.github.io/EncryptStudio-Website/) |  |
+| ✅ | 🧬 NexusPy Operator | 12/05/2025 |  | 10:15 AM | / | [WEBSITE](https://bylickilabs.github.io/NexusOperator/) | / | / |
+| ✅ | Python Installer Script | 12/04/2025 |  | 09:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/Python-Automation-Installer-Manager) | / | / |
 
 <br>
 
