@@ -1,10 +1,19 @@
-|[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
-|---|
-
 > [!NOTE]
 > If you are using one of my repositories or gaining value from my work, you are very welcome to nominate me.
   - This kind of recognition means a great deal to me and shows that my work is appreciated and put to good use.
   - Thank you to everyone who supports and shares my projects. [Github Stars](https://stars.github.com/nominate/)
+
+</div>
+
+<div align="center">
+  
+|[![GitHub Stars](https://img.shields.io/badge/⭐%20GitHub-If%20you%20like%20my%20projects%2C%20give%20me%20a%20star-blue?style=for-the-badge)](https://stars.github.com/nominate/)|
+|---|
+
+
+![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
+
+</div>
 
 | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs(A)lgorithm](https://img.shields.io/badge/Click&nbsp;►&nbsp;(B)ylickiLabs&nbsp;◄&nbsp;-(E)ncryption&nbsp;(A)lgorithm&nbsp;/&nbsp;BEA512-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
 |---|---|
