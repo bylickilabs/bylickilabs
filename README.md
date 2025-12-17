@@ -1,14 +1,23 @@
-<div align="left">
-  
 |[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
 |---|
 
-<!-- | [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | -->
+> [!NOTE]
+> If you are using one of my repositories or gaining value from my work, you are very welcome to nominate me.
+  - This kind of recognition means a great deal to me and shows that my work is appreciated and put to good use.
+  - Thank you to everyone who supports and shares my projects. [Github Stars](https://stars.github.com/nominate/)
 
 | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs(A)lgorithm](https://img.shields.io/badge/Click&nbsp;►&nbsp;(B)ylickiLabs&nbsp;◄&nbsp;-(E)ncryption&nbsp;(A)lgorithm&nbsp;/&nbsp;BEA512-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
 |---|---|
 
-</div>
+<!--<div align="left">
+  
+|[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
+|---|
+
+ | [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | 
+
+
+</div>-->
 
 <!--
 | <img width="1280" height="640" alt="x-mas_banner" src="https://github.com/user-attachments/assets/87764c5a-bdd9-4b08-b14c-d5bd76dc64fa" /> |
