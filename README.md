@@ -99,7 +99,7 @@ AI-Driven Monitoring · Predictive Security Intelligence · Autonomous Client-Si
 | NEW | APPLICATION |DATE   | VER | TIME | LICENSE | LINK  | UPDATE | RELEASES |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 12/2025    |     |     |     |     |     |     |     |   | 
-| ✅ | 🛡️ CyberGuard | 12/12/20205 | v1.0.3 | 10:00 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/cyber-guard) | / | [NPM URL](https://www.npmjs.com/package/@bylickilabs/cyber-guard) |  |
+| ✅ | 🛡️ CyberGuard | 12/12/2025 | v1.0.3 | 10:00 AM | MIT | [REPOSITORY](https://github.com/bylickilabs/cyber-guard) | / | [NPM URL](https://www.npmjs.com/package/@bylickilabs/cyber-guard) |  |
 
 <br>
 
