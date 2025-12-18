@@ -1,7 +1,10 @@
+| <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
+|---|
+
 > [!NOTE]
 > If you are using one of my repositories or gaining value from my work, you are very welcome to nominate me.
   - This kind of recognition means a great deal to me and shows that my work is appreciated and put to good use.
-  - Thank you to everyone who supports and shares my projects. [Github Stars](https://stars.github.com/nominate/)
+  - Thank you to everyone who supports and shares my projects.
 
 </div>
 
@@ -32,9 +35,6 @@
 | <img width="1280" height="640" alt="x-mas_banner" src="https://github.com/user-attachments/assets/87764c5a-bdd9-4b08-b14c-d5bd76dc64fa" /> |
 |---|
 -->
-
-| <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
-|---|
 
 <!--
 -🎓 Update: My official W3Schools certificates are now publicly available on Facebook! Transparency meets expertise
