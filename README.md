@@ -1,8 +1,9 @@
 | <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
 |---|
 
+<!--
 | <img width="1280" height="640" alt="x-mas_banner" src="https://github.com/user-attachments/assets/87764c5a-bdd9-4b08-b14c-d5bd76dc64fa" /> |
-|---|
+|---|-->
 
 > [!NOTE]
 > If you are using one of my repositories or gaining value from my work, you are very welcome to nominate me.
