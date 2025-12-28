@@ -122,12 +122,12 @@ Operational Scripting · Guided Automation · Windows Execution Frameworks
 
 | <img width="1280" height="640" alt="github (1)" src="https://github.com/user-attachments/assets/9d9dfef4-97df-44d4-b040-58758230ddc4" /> | <img width="1280" height="640" alt="github_Neu3" src="https://github.com/user-attachments/assets/46abe13f-632f-4294-9104-d0c1009a1ef3" /> | 
 |---|---|
-
+-->
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
 
 </div>
 
--->
+
 
 <!--| <img width="1279" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/9236084f-28ec-46a3-b892-217542dc8456" /> |
 |---|
