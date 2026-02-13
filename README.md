@@ -1,6 +1,3 @@
-|[► Mastodon ◄](https://mastodon.social/@bylickilabs)|
-|---|
-
 | <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
 |---|
 
