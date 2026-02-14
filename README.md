@@ -57,29 +57,89 @@
 • 👨‍💻 BYLICKILABS
 • OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST | ARCHITECT | INNOVATOR | SECURITY SPECIALIST
 
+────────────────────────────────────────
+
 • Hi, I’m **Thorsten Bylicki**
-• Founder and creator of systems that don’t just function, but *understand*. 
-• I specialize in application development, system integration, and cybersecurity.
+• Founder and architect of systems that don’t just function — they understand.
+• I specialize in application development, system integration, and cybersecurity engineering.
 
 • 💍 Married since October 23, 2015
-• 👶 I was born on March 17th, 1982
+• 👶 Born on March 17, 1982
 • 🌍 Based in Germany
-• 👨‍💻 I am currently working on various projects
-• ⚙️ Focused on innovation, encryption, and forensic automation
-• 🚧 My special areas include HTML, CSS, JavaScript, Python, RUBY, RUST, PHP, LUA
+• 👨‍💻 Currently leading and developing multiple innovation-driven projects
+• ⚙️ Focused on encryption, forensic automation, and intelligent system design
+• 🚧 Core technologies: HTML, CSS, JavaScript, Python, Ruby, Rust, PHP, Lua
 
-🌟 What Drives Me:
-• 🪞 Technology is not just a tool – it's a language, a mindset, a mirror.
-• 🧠 Building systems that adapt and think  
-• ⚙️ Merging engineering with intelligence  
-• 🧩 Automating analysis and encryption  
-• 🔍 Deep-dive problem solving under pressure  
+────────────────────────────────────────
+🔐 Strategic Focus
+────────────────────────────────────────
 
-🤝 Soft Skills:
-• 🔍 Analytical thinking & structured debugging  
-• ✍️ Documentation & technical communication  
-• 🤝 Team collaboration – both remote & cross-disciplinary  
-• 🧩 Problem-solving under time pressure
+• 🛡️ Secure-by-Design architecture — security embedded from day one  
+• 🧬 Threat modeling & risk assessment — identifying and minimizing attack surfaces  
+• 🔒 Zero-Trust infrastructure models — verify, never assume  
+• 🧠 AI-assisted automation & analytical systems  
+• 🏗️ Scalable, modular, and resilient system architecture  
+• 🔐 Advanced encryption concepts & secure protocol design  
+• 📊 Infrastructure monitoring, auditing & compliance awareness  
+
+────────────────────────────────────────
+🧰 Tech Stack & Tooling
+────────────────────────────────────────
+
+• 🐳 Docker & containerization — portable, isolated deployments  
+• ☁️ Cloud architecture (AWS, Azure, self-hosted environments)  
+• 🗄️ Database systems (MySQL, PostgreSQL, SQLite)  
+• 🧪 CI/CD pipelines & version control (Git-based workflows)  
+• 🔍 Reverse engineering & log forensics  
+• 🛠️ API design & backend architecture  
+• 🔐 Secure authentication & authorization systems  
+
+────────────────────────────────────────
+🚀 Current Mission
+────────────────────────────────────────
+
+• ⚡ Building resilient, encrypted digital ecosystems  
+• 🔐 Automating forensic and investigative workflows  
+• 🧠 Developing intelligent analytical tooling  
+• 🛠️ Designing secure infrastructure for scalable platforms  
+• 📈 Optimizing performance, reliability, and maintainability  
+
+────────────────────────────────────────
+🌟 What Drives Me
+────────────────────────────────────────
+
+• 🪞 Technology is more than a tool — it is a language, a mindset, a mirror.  
+• 🧠 Designing adaptive systems that evolve with complexity  
+• ⚙️ Merging engineering discipline with intelligent automation  
+• 🧩 Turning complexity into structured, secure solutions  
+• 🔍 Deep analytical problem-solving under pressure  
+• 🚀 Continuous learning and technological advancement  
+
+────────────────────────────────────────
+🏛️ Philosophy
+────────────────────────────────────────
+
+• 🎯 Precision over complexity  
+• 🔒 Security before convenience  
+• 🧩 Systems must be modular, auditable, and resilient  
+• 📊 Decisions driven by data — not assumptions  
+• 🛡️ Transparency, integrity, and accountability in engineering  
+
+────────────────────────────────────────
+🤝 Soft Skills
+────────────────────────────────────────
+
+• 🔍 Analytical thinking & systematic debugging  
+• ✍️ Clear documentation & technical communication  
+• 🤝 Cross-functional and remote collaboration  
+• 🧩 Solution-oriented mindset under time pressure  
+• 📈 Strategic planning & architectural foresight  
+• 🧠 High adaptability in fast-changing environments  
+
+────────────────────────────────────────
+
+• Architecting intelligent, secure systems that scale.
+• Bridging development, infrastructure, and cybersecurity into one coherent ecosystem.
 ```
 
 </div>
