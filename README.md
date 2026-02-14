@@ -54,92 +54,185 @@
 
 
 ```yarn
-• 👨‍💻 BYLICKILABS
-• OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST | ARCHITECT | INNOVATOR | SECURITY SPECIALIST
+╔═══════════════════════════════════════════════════════════════════╗
+║                           BYLICKILABS                             ║
+║                                                                   ║
+║        OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST       ║
+║ ARCHITECT | INNOVATOR | SECURITY SPECIALIST | FULL STACK ENGINEER ║
+╚═══════════════════════════════════════════════════════════════════╝
 
-────────────────────────────────────────
+Hi, I’m **Thorsten Bylicki**  
+Founder and architect of systems that don’t just function but understand.
 
-• Hi, I’m **Thorsten Bylicki**
-• Founder and architect of systems that don’t just function — they understand.
-• I specialize in application development, system integration, and cybersecurity engineering.
+I design and engineer secure, scalable, cloud native systems across the entire stack  
+from interface to infrastructure.
 
-• 💍 Married since October 23, 2015
-• 👶 Born on March 17, 1982
-• 🌍 Based in Germany
-• 👨‍💻 Currently leading and developing multiple innovation-driven projects
-• ⚙️ Focused on encryption, forensic automation, and intelligent system design
-• 🚧 Core technologies: HTML, CSS, JavaScript, Python, Ruby, Rust, PHP, Lua
+📍 Germany  
+🎂 March 17, 1982  
+💍 Married since October 23, 2015  
+🚀 Leading innovation driven engineering initiatives  
+⚙ Focus: Encryption • Algorithmic Optimization • Forensic Automation • Cloud Architecture  
 
-────────────────────────────────────────
-🔐 Strategic Focus
-────────────────────────────────────────
+════════════════════════════════════════════════════════════════════
+🧠 ENGINEERING FOUNDATION
+════════════════════════════════════════════════════════════════════
 
-• 🛡️ Secure-by-Design architecture — security embedded from day one  
-• 🧬 Threat modeling & risk assessment — identifying and minimizing attack surfaces  
-• 🔒 Zero-Trust infrastructure models — verify, never assume  
-• 🧠 AI-assisted automation & analytical systems  
-• 🏗️ Scalable, modular, and resilient system architecture  
-• 🔐 Advanced encryption concepts & secure protocol design  
-• 📊 Infrastructure monitoring, auditing & compliance awareness  
+Computer Science Core:
+• Data Structures and Algorithms DSA  
+• Statistics and Data Science  
+• Logical Reasoning and Structured Problem Solving  
 
-────────────────────────────────────────
-🧰 Tech Stack & Tooling
-────────────────────────────────────────
+Strong algorithmic thinking drives scalable architecture and performance efficiency.
 
-• 🐳 Docker & containerization — portable, isolated deployments  
-• ☁️ Cloud architecture (AWS, Azure, self-hosted environments)  
-• 🗄️ Database systems (MySQL, PostgreSQL, SQLite)  
-• 🧪 CI/CD pipelines & version control (Git-based workflows)  
-• 🔍 Reverse engineering & log forensics  
-• 🛠️ API design & backend architecture  
-• 🔐 Secure authentication & authorization systems  
+════════════════════════════════════════════════════════════════════
+🌐 FRONTEND ENGINEERING
+════════════════════════════════════════════════════════════════════
 
-────────────────────────────────────────
-🚀 Current Mission
-────────────────────────────────────────
+Core Technologies:
+HTML • CSS • JavaScript • TypeScript  
 
-• ⚡ Building resilient, encrypted digital ecosystems  
-• 🔐 Automating forensic and investigative workflows  
-• 🧠 Developing intelligent analytical tooling  
-• 🛠️ Designing secure infrastructure for scalable platforms  
-• 📈 Optimizing performance, reliability, and maintainability  
+Frameworks and Libraries:
+React • Vue.js • AngularJS • jQuery  
 
-────────────────────────────────────────
-🌟 What Drives Me
-────────────────────────────────────────
+UI Systems:
+Bootstrap 3 4 5 • SASS • W3.CSS  
+Accessibility WCAG Standards  
+Modern Web Development • Web Design  
 
-• 🪞 Technology is more than a tool — it is a language, a mindset, a mirror.  
-• 🧠 Designing adaptive systems that evolve with complexity  
-• ⚙️ Merging engineering discipline with intelligent automation  
-• 🧩 Turning complexity into structured, secure solutions  
-• 🔍 Deep analytical problem-solving under pressure  
-• 🚀 Continuous learning and technological advancement  
+Designing clean, accessible, performance oriented user interfaces.
 
-────────────────────────────────────────
-🏛️ Philosophy
-────────────────────────────────────────
+════════════════════════════════════════════════════════════════════
+🖥 BACKEND ENGINEERING
+════════════════════════════════════════════════════════════════════
 
-• 🎯 Precision over complexity  
-• 🔒 Security before convenience  
-• 🧩 Systems must be modular, auditable, and resilient  
-• 📊 Decisions driven by data — not assumptions  
-• 🛡️ Transparency, integrity, and accountability in engineering  
+Languages:
+Python • Node.js • PHP • Java • Go • Ruby • Rust • Lua  
 
-────────────────────────────────────────
-🤝 Soft Skills
-────────────────────────────────────────
+Frameworks:
+Django • Laravel  
 
-• 🔍 Analytical thinking & systematic debugging  
-• ✍️ Clear documentation & technical communication  
-• 🤝 Cross-functional and remote collaboration  
-• 🧩 Solution-oriented mindset under time pressure  
-• 📈 Strategic planning & architectural foresight  
-• 🧠 High adaptability in fast-changing environments  
+Backend Architecture:
+RESTful APIs  
+Secure Authentication and Authorization  
+Role Based Access Control  
+Session Security and Backend Hardening  
 
-────────────────────────────────────────
+Database Systems:
+SQL • MySQL • PostgreSQL • MongoDB • SQLite  
+Data Modeling • Query Optimization  
 
-• Architecting intelligent, secure systems that scale.
-• Bridging development, infrastructure, and cybersecurity into one coherent ecosystem.
+High performance, secure server side system design.
+
+════════════════════════════════════════════════════════════════════
+⚙ FULL STACK ARCHITECTURE
+════════════════════════════════════════════════════════════════════
+
+End to End System Ownership:
+
+• Interface Layer  
+• Business Logic Layer  
+• Data Layer  
+• Infrastructure Layer  
+• Security Integration  
+
+Full stack means architectural responsibility across the complete lifecycle.
+
+════════════════════════════════════════════════════════════════════
+☁ CLOUD AND INFRASTRUCTURE ENGINEERING
+════════════════════════════════════════════════════════════════════
+
+AWS Ecosystem:
+• AWS Cloud  
+• AWS Machine Learning  
+• AWS Serverless Architectures  
+
+DevOps and Automation:
+• Git Workflow Engineering  
+• Bash Scripting  
+• CI CD Concepts  
+• Containerization and Deployment Strategies  
+
+Building scalable, distributed, cloud native infrastructures.
+
+════════════════════════════════════════════════════════════════════
+📊 DATA AND ANALYTICS SYSTEMS
+════════════════════════════════════════════════════════════════════
+
+Scientific and Analytical Stack:
+NumPy • Pandas • SciPy • R  
+
+Data Analytics • Statistical Modeling  
+Excel based Data Processing  
+Algorithm driven Analytical Pipelines  
+
+Turning data into structured, operational intelligence.
+
+════════════════════════════════════════════════════════════════════
+🧩 SYSTEMS AND LOW LEVEL PROGRAMMING
+════════════════════════════════════════════════════════════════════
+
+C • C++ • C# • Kotlin • Java • Rust  
+
+Understanding systems beyond abstractions and frameworks.
+
+════════════════════════════════════════════════════════════════════
+🔐 SECURITY ARCHITECTURE
+════════════════════════════════════════════════════════════════════
+
+• Secure by Design Architecture  
+• Zero Trust Infrastructure Models  
+• Threat Modeling and Risk Assessment  
+• Advanced Encryption Concepts  
+• Secure Protocol Design  
+• Infrastructure Monitoring and Compliance Awareness  
+
+Security is embedded not attached.
+
+════════════════════════════════════════════════════════════════════
+🏅 PROFESSIONAL EDUCATION W3 2025
+════════════════════════════════════════════════════════════════════
+
+Certified and Completed Domains:
+
+• Front End Development  
+• Full Stack Development Node.js PHP Python Java  
+• Backend Development Node.js PHP Python Java  
+• Modern Web Development  
+• Bootstrap 3 4 5  
+• TypeScript  
+• SQL and Database Systems  
+• Data Analytics and Data Science  
+• Cyber Security  
+• Git Practitioner  
+• Accessibility  
+• Cloud Engineering AWS ML Serverless  
+
+Active W3Profile with verified XP and certification status.
+
+════════════════════════════════════════════════════════════════════
+🚀 CURRENT MISSION
+════════════════════════════════════════════════════════════════════
+
+• Architecting encrypted, resilient full stack ecosystems  
+• Designing AWS native backend infrastructures  
+• Automating forensic and analytical workflows  
+• Engineering algorithmically optimized systems  
+• Building secure, scalable long term architectures  
+
+════════════════════════════════════════════════════════════════════
+🏛 ENGINEERING PHILOSOPHY
+════════════════════════════════════════════════════════════════════
+
+Precision over complexity.  
+Security before convenience.  
+Architecture before shortcuts.  
+Data before assumptions.  
+Sustainability over hype.
+
+════════════════════════════════════════════════════════════════════
+
+Architecting intelligent, secure, cloud native systems that scale.  
+Bridging frontend, backend, data science, cloud infrastructure, and cybersecurity into one coherent ecosystem.
 ```
 
 </div>
