@@ -54,12 +54,12 @@
 
 
 ```yarn
-╔═══════════════════════════════════════════════════════════════════╗
-║                           BYLICKILABS                             ║
-║                                                                   ║
-║        OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST       ║
-║ ARCHITECT | INNOVATOR | SECURITY SPECIALIST | FULL STACK ENGINEER ║
-╚═══════════════════════════════════════════════════════════════════╝
+                            ╔═══════════════════════════════════════════════════════════════════╗
+                            ║                           BYLICKILABS                             ║
+                            ║                                                                   ║
+                            ║        OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST       ║
+                            ║ ARCHITECT | INNOVATOR | SECURITY SPECIALIST | FULL STACK ENGINEER ║
+                            ╚═══════════════════════════════════════════════════════════════════╝
 
 Hi, I’m **Thorsten Bylicki**  
 Founder and architect of systems that don’t just function but understand.
