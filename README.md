@@ -1,7 +1,7 @@
 | <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
 |---|
 
-|<img width="3840" height="1080" alt="Tebex" src="https://github.com/user-attachments/assets/8a48fbcf-1d50-4c6e-b49e-a7c8d614b051" /> |
+|<img width="3940" height="2200" alt="logo" src="https://github.com/user-attachments/assets/a83fe28f-3d18-4d7c-a2b6-d75c1201ed30" /> |
 |---|
 
 <!--
