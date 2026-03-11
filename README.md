@@ -12,7 +12,7 @@
 
 </div>
 
-|Featured AlphaDevelopment Script Showcases for GTAV FiveM ESX |
+|Featured AlphaDevelopment Script Showcases for GTAV FiveM ESX | 
 |---|
 
 | Thumbnail | YouTube | OUR ► [TEBEX](https://alphadevelopment.tebex.io) ◄ STORE |  |
