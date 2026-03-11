@@ -6,10 +6,10 @@
 
 ### Featured AlphaDevelopment Script Showcases
 
-| Thumbnail | YouTube | OUR ► [TEBEX](https://alphadevelopment.tebex.io) ◄ STORE|  |
+| Thumbnail | YouTube | OUR ► [TEBEX](https://alphadevelopment.tebex.io) ◄ STORE |  |
 | --- | --- | --- | --- |
-| [<img width="440" src="https://i.ytimg.com/an_webp/xUNSDNlCDkI/mqdefault_6s.webp?du=3000&sqp=CNDFwc0G&rs=AOn4CLDKf-SVw73kJeGHtjLWV9spcTuwUQ" />](https://www.youtube.com/watch?v=xUNSDNlCDkI) | [LINK](https://www.youtube.com/watch?v=xUNSDNlCDkI) | [<img width="440" src="https://i.ytimg.com/an_webp/6q_C44AZWc8/mqdefault_6s.webp?du=3000&sqp=CNzUwc0G&rs=AOn4CLAMZlGumGojFQbJ3qjKRB0hmnG7FQ" />](https://www.youtube.com/watch?v=6q_C44AZWc8) | [LINK](https://www.youtube.com/watch?v=6q_C44AZWc8) |
-| [<img width="440" src="https://i.ytimg.com/an_webp/TavXnsdrvjU/mqdefault_6s.webp?du=3000&sqp=CM_Pwc0G&rs=AOn4CLCa4KWsw-29x3FibNgBEeHCaBXzIw" />](https://www.youtube.com/watch?v=TavXnsdrvjU) | [LINK](https://www.youtube.com/watch?v=TavXnsdrvjU) | [<img width="440" src="https://i.ytimg.com/an_webp/xlsyw_KXNlY/mqdefault_6s.webp?du=3000&sqp=CNLMwc0G&rs=AOn4CLAP1cCSJLLdtRwRgwuow0-PUcvS3A" />](https://www.youtube.com/watch?v=xlsyw_KXNlY) | [LINK](https://www.youtube.com/watch?v=xlsyw_KXNlY) |
+| [<img width="440" src="https://img.youtube.com/vi/xUNSDNlCDkI/hqdefault.jpg">](https://www.youtube.com/watch?v=xUNSDNlCDkI) | [LINK](https://www.youtube.com/watch?v=xUNSDNlCDkI) | [<img width="440" src="https://img.youtube.com/vi/6q_C44AZWc8/hqdefault.jpg">](https://www.youtube.com/watch?v=6q_C44AZWc8) | [LINK](https://www.youtube.com/watch?v=6q_C44AZWc8) |
+| [<img width="440" src="https://img.youtube.com/vi/TavXnsdrvjU/hqdefault.jpg">](https://www.youtube.com/watch?v=TavXnsdrvjU) | [LINK](https://www.youtube.com/watch?v=TavXnsdrvjU) | [<img width="440" src="https://img.youtube.com/vi/xlsyw_KXNlY/hqdefault.jpg">](https://www.youtube.com/watch?v=xlsyw_KXNlY) | [LINK](https://www.youtube.com/watch?v=xlsyw_KXNlY) ||
 
 ---
 
