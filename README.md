@@ -15,7 +15,7 @@
 |Featured AlphaDevelopment Script Showcases for GTAV FiveM ESX | 
 |---|
 
-| Thumbnail | YouTube | OUR ► [TEBEX](https://alphadevelopment.tebex.io) ◄ STORE |  |
+|  |  |  |  |
 | --- | --- | --- | --- |
 | [<img width="440" src="https://img.youtube.com/vi/xUNSDNlCDkI/hqdefault.jpg">](https://www.youtube.com/watch?v=xUNSDNlCDkI) | [LINK](https://www.youtube.com/watch?v=xUNSDNlCDkI) | [<img width="440" src="https://img.youtube.com/vi/6q_C44AZWc8/hqdefault.jpg">](https://www.youtube.com/watch?v=6q_C44AZWc8) | [LINK](https://www.youtube.com/watch?v=6q_C44AZWc8) |
 | [<img width="440" src="https://img.youtube.com/vi/TavXnsdrvjU/hqdefault.jpg">](https://www.youtube.com/watch?v=TavXnsdrvjU) | [LINK](https://www.youtube.com/watch?v=TavXnsdrvjU) | [<img width="440" src="https://img.youtube.com/vi/xlsyw_KXNlY/hqdefault.jpg">](https://www.youtube.com/watch?v=xlsyw_KXNlY) | [LINK](https://www.youtube.com/watch?v=xlsyw_KXNlY) |
