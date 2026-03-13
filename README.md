@@ -1,7 +1,7 @@
 | <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
 |---|
 
-| <img width="1280" height="640" alt="Github Readme (1)" src="https://github.com/user-attachments/assets/8de2d47e-d959-48f1-8fea-2e2937a57b5f" /> |
+| <img width="1711" height="1065" alt="image" src="https://github.com/user-attachments/assets/dfc38e64-fabd-427e-91ef-570a1463eb87" /> |
 |---|
 
 </div>
