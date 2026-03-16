@@ -4,6 +4,27 @@
 | <img width="1711" height="1065" alt="image" src="https://github.com/user-attachments/assets/dfc38e64-fabd-427e-91ef-570a1463eb87" /> |
 |---|
 
+```yarn
+                            ╔═══════════════════════════════════════════════════════════════════╗
+                            ║                           BYLICKILABS                             ║
+                            ║                                                                   ║
+                            ║        OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST       ║
+                            ║ ARCHITECT | INNOVATOR | SECURITY SPECIALIST | FULL STACK ENGINEER ║
+                            ╚═══════════════════════════════════════════════════════════════════╝
+
+Hi, I’m **Thorsten Bylicki**  
+Founder and architect of systems that don’t just function but understand.
+
+I design and engineer secure, scalable, cloud native systems across the entire stack  
+from interface to infrastructure.
+
+📍 Germany  
+🎂 March 17, 1982  
+💍 Married since October 23, 2015  
+🚀 Leading innovation driven engineering initiatives  
+⚙ Focus: Encryption • Algorithmic Optimization • Forensic Automation • Cloud Architecture
+```
+
 </div>
 
 <div align="center">
@@ -81,25 +102,6 @@
 
 
 ```yarn
-                            ╔═══════════════════════════════════════════════════════════════════╗
-                            ║                           BYLICKILABS                             ║
-                            ║                                                                   ║
-                            ║        OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST       ║
-                            ║ ARCHITECT | INNOVATOR | SECURITY SPECIALIST | FULL STACK ENGINEER ║
-                            ╚═══════════════════════════════════════════════════════════════════╝
-
-Hi, I’m **Thorsten Bylicki**  
-Founder and architect of systems that don’t just function but understand.
-
-I design and engineer secure, scalable, cloud native systems across the entire stack  
-from interface to infrastructure.
-
-📍 Germany  
-🎂 March 17, 1982  
-💍 Married since October 23, 2015  
-🚀 Leading innovation driven engineering initiatives  
-⚙ Focus: Encryption • Algorithmic Optimization • Forensic Automation • Cloud Architecture  
-
 ════════════════════════════════════════════════════════════════════
 🧠 ENGINEERING FOUNDATION
 ════════════════════════════════════════════════════════════════════
