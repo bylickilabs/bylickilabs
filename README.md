@@ -1,7 +1,7 @@
 | <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
 |---|
 
-| <img width="1711" height="1065" alt="image" src="https://github.com/user-attachments/assets/dfc38e64-fabd-427e-91ef-570a1463eb87" /> |
+|<img width="3090" height="1080" alt="Facebook Banner_NEU3" src="https://github.com/user-attachments/assets/bac6a7e7-dc90-4224-b0c2-1a6bd86e789d" /> |
 |---|
 
 ```yarn
