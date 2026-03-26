@@ -25,6 +25,7 @@ from interface to infrastructure.
 ⚙ Focus: Encryption • Algorithmic Optimization • Forensic Automation • Cloud Architecture
 ```
 
+<!--
 </div>
 
 <div align="center">
@@ -33,7 +34,6 @@ from interface to infrastructure.
 
 </div>
 
-<!--
 |Featured AlphaDevelopment Script Showcases for GTAV FiveM ESX | 
 |---|
 
