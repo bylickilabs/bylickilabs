@@ -17,8 +17,6 @@ Founder and architect of systems that don’t just function but understand.
 I design and engineer secure, scalable, cloud native systems across the entire stack from interface to infrastructure.
 
 📍 Germany  
-🎂 March 17, 1982  
-💍 Married since October 23, 2015  
 🚀 Leading innovation driven engineering initiatives  
 ⚙ Focus: Encryption • Algorithmic Optimization • Forensic Automation • Cloud Architecture
 
