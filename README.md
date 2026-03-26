@@ -55,6 +55,7 @@ from interface to infrastructure.
 | <img width="1280" height="640" alt="x-mas_banner" src="https://github.com/user-attachments/assets/87764c5a-bdd9-4b08-b14c-d5bd76dc64fa" /> |
 |---|-->
 
+<!--
 > [!NOTE]
 > If you are using one of my repositories or gaining value from my work, you are very welcome to nominate me.
   - This kind of recognition means a great deal to me and shows that my work is appreciated and put to good use.
@@ -323,6 +324,7 @@ Operational Scripting · Guided Automation · Windows Execution Frameworks
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 -->
 
+<!--
 <details>
   <summary>🚀 Interactive Guides</summary>
  
@@ -856,6 +858,8 @@ Operational Scripting · Guided Automation · Windows Execution Frameworks
 </details>
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
+
+-->
 
 > ## 🐍 Github Snake
 
