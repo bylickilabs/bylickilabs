@@ -33,6 +33,7 @@ from interface to infrastructure.
 
 </div>
 
+<!--
 |Featured AlphaDevelopment Script Showcases for GTAV FiveM ESX | 
 |---|
 
@@ -41,13 +42,14 @@ from interface to infrastructure.
 | [<img width="440" src="https://img.youtube.com/vi/xUNSDNlCDkI/hqdefault.jpg">](https://www.youtube.com/watch?v=xUNSDNlCDkI) | [LINK](https://www.youtube.com/watch?v=xUNSDNlCDkI) | [<img width="440" src="https://img.youtube.com/vi/6q_C44AZWc8/hqdefault.jpg">](https://www.youtube.com/watch?v=6q_C44AZWc8) | [LINK](https://www.youtube.com/watch?v=6q_C44AZWc8) |
 | [<img width="440" src="https://img.youtube.com/vi/TavXnsdrvjU/hqdefault.jpg">](https://www.youtube.com/watch?v=TavXnsdrvjU) | [LINK](https://www.youtube.com/watch?v=TavXnsdrvjU) | [<img width="440" src="https://img.youtube.com/vi/xlsyw_KXNlY/hqdefault.jpg">](https://www.youtube.com/watch?v=xlsyw_KXNlY) | [LINK](https://www.youtube.com/watch?v=xlsyw_KXNlY) |
 
+
 </div>
 
 <div align="center">
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
 
-</div>
+</div>-->
 
 <!--
 | <img width="1280" height="640" alt="x-mas_banner" src="https://github.com/user-attachments/assets/87764c5a-bdd9-4b08-b14c-d5bd76dc64fa" /> |
