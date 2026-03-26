@@ -8,8 +8,7 @@
                             ╔═══════════════════════════════════════════════════════════════════╗
                             ║                           BYLICKILABS                             ║
                             ║                                                                   ║
-                            ║        OWNER | CEO | DEV | FOUNDER | ANALYST | TECHNOLOGIST       ║
-                            ║ ARCHITECT | INNOVATOR | SECURITY SPECIALIST | FULL STACK ENGINEER ║
+                            ║     FOUNDER | FULL STACK ENGINEER | CLOUD & SECURITY ARCHITECT    ║
                             ╚═══════════════════════════════════════════════════════════════════╝
 
 Hi, I’m **Thorsten Bylicki**  
