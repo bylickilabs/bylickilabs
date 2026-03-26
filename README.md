@@ -98,7 +98,7 @@ from interface to infrastructure.
 
 <!--| ![be201967ed1e439f9d0ccab6f1e8cace](https://github.com/user-attachments/assets/9ca2296d-f5b3-4eec-a4d0-90c692db72e8) | ![f11b60bd30624dee8828fd7efb687fce](https://github.com/user-attachments/assets/79b95fc7-a4db-4482-94a2-16499a896103) | ![d8f50c7fb2634f43b399498dd10ddb4c](https://github.com/user-attachments/assets/4dc02fcd-dec7-48af-9161-0a8695876779) | ![189d3a0fa29d49baa94ee1b9c50ff34e](https://github.com/user-attachments/assets/14b31921-cd58-44aa-b987-0b47330d2cb0) |
 |---|---|---|---|
--->
+
 
 
 ```yarn
@@ -307,12 +307,12 @@ Operational Scripting · Guided Automation · Windows Execution Frameworks
 
 | <img width="1280" height="640" alt="github (1)" src="https://github.com/user-attachments/assets/9d9dfef4-97df-44d4-b040-58758230ddc4" /> | <img width="1280" height="640" alt="github_Neu3" src="https://github.com/user-attachments/assets/46abe13f-632f-4294-9104-d0c1009a1ef3" /> | 
 |---|---|
--->
+
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
 
 </div>
 
-
+-->
 
 <!--| <img width="1279" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/9236084f-28ec-46a3-b892-217542dc8456" /> |
 |---|
