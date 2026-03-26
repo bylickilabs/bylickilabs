@@ -1,9 +1,9 @@
-| <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
+<!--| <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
 |---|
 
 |<img width="3090" height="1080" alt="Facebook Banner_NEU3" src="https://github.com/user-attachments/assets/bac6a7e7-dc90-4224-b0c2-1a6bd86e789d" /> |
 |---|
-
+-->
 ```yarn
                             ╔═══════════════════════════════════════════════════════════════════╗
                             ║                           BYLICKILABS                             ║
