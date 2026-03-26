@@ -106,11 +106,12 @@ Building scalable, distributed, cloud native infrastructures.
 ════════════════════════════════════════════════════════════════════
 
 Scientific and Analytical Stack:
-NumPy • Pandas • SciPy • R  
+NumPy• Pandas • SciPy• R  
 
-Data Analytics • Statistical Modeling  
-Excel based Data Processing  
-Algorithm driven Analytical Pipelines  
+Data Analytics
+• Statistical Modeling  
+• Excel based Data Processing  
+• Algorithm driven Analytical Pipelines  
 
 Turning data into structured, operational intelligence.
 
