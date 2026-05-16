@@ -10,7 +10,7 @@
 
 ```yarn
                             ╔═══════════════════════════════════════════════════════════════════╗
-                            ║                           BYLICKILABS                             ║
+                            ║                    BYLICKILABS | NorthSaga                        ║
                             ║                                                                   ║
                             ║     FOUNDER | FULL STACK ENGINEER | CLOUD & SECURITY ARCHITECT    ║
                             ╚═══════════════════════════════════════════════════════════════════╝
