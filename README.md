@@ -4,6 +4,10 @@
 |<img width="3090" height="1080" alt="Facebook Banner_NEU3" src="https://github.com/user-attachments/assets/bac6a7e7-dc90-4224-b0c2-1a6bd86e789d" /> |
 |---|
 -->
+
+| <img width="2172" height="724" alt="NorthSaga Neu" src="https://github.com/user-attachments/assets/bbc2e0d3-3cdd-476d-9322-be72deb3263a" /> |
+|---|
+
 ```yarn
                             ╔═══════════════════════════════════════════════════════════════════╗
                             ║                           BYLICKILABS                             ║
