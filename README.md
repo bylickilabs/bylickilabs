@@ -8,8 +8,7 @@
 ## GitHub State of Mind EP
 - A developer-focused hip hop EP for GitHub creators, open source builders and maintainers.
   - Built for everyone sharing knowledge with the developer community.
-
-🎧 [Listen on SoundCloud - Push It to the World](https://soundcloud.com/northsaga/sets/github-state-of-mind-ep) 🚀
+    - 🎧 [Listen on SoundCloud - Push It to the World](https://soundcloud.com/northsaga/sets/github-state-of-mind-ep) 🚀
 
 ---
 
