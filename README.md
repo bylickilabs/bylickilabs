@@ -8,6 +8,16 @@
 | <img width="2172" height="724" alt="NorthSaga Neu" src="https://github.com/user-attachments/assets/bbc2e0d3-3cdd-476d-9322-be72deb3263a" /> |
 |---|
 
+---
+
+## GitHub State of Mind EP
+- A developer-focused hip hop EP for GitHub creators, open source builders and maintainers.
+  - Built for everyone sharing knowledge with the developer community.
+
+🎧 [Listen on SoundCloud](https://soundcloud.com/northsaga/sets/github-state-of-mind-ep) 🚀
+
+---
+
 ```yarn
                             ╔═══════════════════════════════════════════════════════════════════╗
                             ║                    BYLICKILABS | NorthSaga                        ║
