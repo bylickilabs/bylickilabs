@@ -12,23 +12,6 @@
 
 ---
 
-```yarn
-                            ╔═══════════════════════════════════════════════════════════════════╗
-                            ║                    BYLICKILABS | NorthSaga                        ║
-                            ║                                                                   ║
-                            ║     FOUNDER | FULL STACK ENGINEER | CLOUD & SECURITY ARCHITECT    ║
-                            ╚═══════════════════════════════════════════════════════════════════╝
-
-Hi, I’m **Thorsten Bylicki**  
-Founder and architect of systems that don’t just function but understand.
-
-I design and engineer secure, scalable, cloud native systems across the entire stack from interface to infrastructure.
-
-📍 Germany  
-🚀 Leading innovation driven engineering initiatives  
-⚙ Focus: Encryption • Algorithmic Optimization • Forensic Automation • Cloud Architecture
-```
-
 <!--
 </div>
 
