@@ -3,7 +3,7 @@
 
 |<img width="3090" height="1080" alt="Facebook Banner_NEU3" src="https://github.com/user-attachments/assets/bac6a7e7-dc90-4224-b0c2-1a6bd86e789d" /> |
 |---|
--->
+
 
 ## GitHub State of Mind EP
 - A developer-focused hip hop EP for GitHub creators, open source builders and maintainers.
@@ -11,7 +11,7 @@
     - 🎧 [Listen on SoundCloud - Push It to the World](https://soundcloud.com/northsaga/sets/github-state-of-mind-ep) 🚀
 
 ---
-
+-->
 <!--
 </div>
 
