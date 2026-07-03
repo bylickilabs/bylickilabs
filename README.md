@@ -1,4 +1,4 @@
-<!--| <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
+| <img width="3960" height="499" alt="banner" src="https://github.com/user-attachments/assets/3b68a157-fb6b-45cc-984c-b390f0ae6c84" />|
 |---|
 
 |<img width="3090" height="1080" alt="Facebook Banner_NEU3" src="https://github.com/user-attachments/assets/bac6a7e7-dc90-4224-b0c2-1a6bd86e789d" /> |
@@ -11,7 +11,7 @@
     - 🎧 [Listen on SoundCloud - Push It to the World](https://soundcloud.com/northsaga/sets/github-state-of-mind-ep) 🚀
 
 ---
--->
+
 <!--
 </div>
 
@@ -42,7 +42,7 @@
 | <img width="1280" height="640" alt="x-mas_banner" src="https://github.com/user-attachments/assets/87764c5a-bdd9-4b08-b14c-d5bd76dc64fa" /> |
 |---|-->
 
-<!--
+
 > [!NOTE]
 > If you are using one of my repositories or gaining value from my work, you are very welcome to nominate me.
   - This kind of recognition means a great deal to me and shows that my work is appreciated and put to good use.
@@ -63,33 +63,33 @@
 | [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) | [![BylickiLabs(A)lgorithm](https://img.shields.io/badge/Click&nbsp;►&nbsp;(B)ylickiLabs&nbsp;◄&nbsp;-(E)ncryption&nbsp;(A)lgorithm&nbsp;/&nbsp;BEA512-0a192f?style=for-the-badge&logo=code&logoColor=00ffd0)](https://bylickilabs.de) |
 |---|---|
 
-<!--<div align="left">
+<div align="left">
   
 |[![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner)|
 |---|
 
  | [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) | 
+|---|
+
+</div>
 
 
-</div>-->
 
-
-<!--
 -🎓 Update: My official W3Schools certificates are now publicly available on Facebook! Transparency meets expertise
   - feel free to check them out. [FACEBOOK](https://www.facebook.com/bylickilabs/photos_albums)
 
-
+<!--
 <div align="center">
 
    ### Advanced Industrial Firewall Systems (AIFS) - 07/2026
 
-</div>-->
+</div>
 
 
 <!--| ![be201967ed1e439f9d0ccab6f1e8cace](https://github.com/user-attachments/assets/9ca2296d-f5b3-4eec-a4d0-90c692db72e8) | ![f11b60bd30624dee8828fd7efb687fce](https://github.com/user-attachments/assets/79b95fc7-a4db-4482-94a2-16499a896103) | ![d8f50c7fb2634f43b399498dd10ddb4c](https://github.com/user-attachments/assets/4dc02fcd-dec7-48af-9161-0a8695876779) | ![189d3a0fa29d49baa94ee1b9c50ff34e](https://github.com/user-attachments/assets/14b31921-cd58-44aa-b987-0b47330d2cb0) |
 |---|---|---|---|
 
-
+-->
 
 ```yarn
 ════════════════════════════════════════════════════════════════════
@@ -288,6 +288,7 @@ Operational Scripting · Guided Automation · Windows Execution Frameworks
 | ✅ | 🛡️ EncryptStudio | 12/17/2025 | 1.0.3 | 06:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/EncryptStudio) | [URL](https://github.com/bylickilabs/EncryptStudio/releases/tag/v1.0.3) | [URL](https://bylickilabs.github.io/EncryptStudio-Website/) |  |
 | ✅ | 🧬 NexusPy Operator | 12/05/2025 |  | 10:15 AM | / | [WEBSITE](https://bylickilabs.github.io/NexusOperator/) | / | / |
 | ✅ | Python Installer Script | 12/04/2025 |  | 09:30 PM | MIT | [REPOSITORY](https://github.com/bylickilabs/Python-Automation-Installer-Manager) | / | / |
+
 <!--
 <br>
 
@@ -302,16 +303,15 @@ Operational Scripting · Guided Automation · Windows Execution Frameworks
 
 </div>
 
--->
+
 
 <!--| <img width="1279" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/9236084f-28ec-46a3-b892-217542dc8456" /> |
-|---|
+|---| -->
 
-<!--
-![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
--->
+![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
 
-<!--
+
+
 <details>
   <summary>🚀 Interactive Guides</summary>
  
@@ -846,9 +846,7 @@ Operational Scripting · Guided Automation · Windows Execution Frameworks
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
 
--->
 
-<!--
 
 > ## 🐍 Github Snake
 
@@ -856,7 +854,7 @@ Operational Scripting · Guided Automation · Windows Execution Frameworks
 |---|
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/4e210bed-3f4a-47a4-9d13-46eec04c4020)
--->
+
 
 <!--
 **bylickilabs/bylickilabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
