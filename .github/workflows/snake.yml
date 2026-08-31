@@ -2,8 +2,11 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: '0 * * * *'  # jede Stunde
+    - cron: '0 * * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -11,10 +14,10 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
 
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v3.3.0
+      - name: Generate Snake Contribution Grid
+        uses: Platane/snk@v3.5.0
         with:
           github_user_name: bylickilabs
           outputs: |
@@ -23,8 +26,8 @@ jobs:
             dist/github-snake-green.svg?palette=github-dark-dimmed
             dist/ocean.gif?color_snake=#00ff88&color_dots=#0d1117,#00ff88,#00cc66,#009944,#007733
 
-      - name: Deploy to GitHub Pages (output branch)
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
           target_branch: output
