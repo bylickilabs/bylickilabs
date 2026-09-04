@@ -59,9 +59,6 @@ Alternative profile banners retained intentionally.
 
 <div align="center">
 
-| [![Generate Snake](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml/badge.svg)](https://github.com/bylickilabs/bylickilabs/actions/workflows/snake.yml) |
-|---|
-
 | [![VirusTotal File Scanner](https://img.shields.io/badge/GitHub-VirusTotal--File--Scanner-blue?logo=github)](https://github.com/bylickilabs/VirusTotal-File-Scanner) | [![Web Lint & Deploy](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/github-table-maker/actions/workflows/main.yml) |
 |---|---|
 
